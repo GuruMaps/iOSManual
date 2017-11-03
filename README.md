@@ -1,7 +1,5 @@
 # User Manual - iOS {#user-manual-ios}
 
-Антон Акимченко2017-10-24T11:06:23Антон Акимченко2017-10-24T11:06:23Антон Акимченко2017-10-24T11:06:23Антон Акимченко2017-10-24T11:06:23Антон Акимченко2017-10-24T11:06:23Антон Акимченко2017-10-24T11:06:23Антон Акимченко2017-10-24T11:06:23Антон Акимченко2017-10-24T11:06:23Антон Акимченко2017-10-24T11:06:23Антон Акимченко2017-10-24T11:06:23Антон Акимченко2017-10-24T11:06:23Антон Акимченко2017-10-24T12:30:39Антон Акимченко2017-10-24T12:30:39Антон Акимченко2017-10-24T12:30:39Антон Акимченко2017-10-24T12:30:39Антон Акимченко2017-10-24T12:30:39Антон Акимченко2017-10-24T12:30:39Антон Акимченко2017-10-24T13:24:43Антон Акимченко2017-10-24T13:35:19Антон Акимченко2017-10-24T13:48:34Антон Акимченко2017-10-24T13:48:34
-
 **Introduction**
 
 *   [Launching the Application](https://galileo-app.com/manual.html#launch)
@@ -10,95 +8,12 @@
 
 **What is Galileo Offline Maps?**
 
-Evgen Bodunov2017-10-24T11:24:35
 
-Надо отделить создание меток и запись треков от бэкапа и синхронизации. Navigation - это ведение по маршруту. Route - маршрут. Надо дополнить что есть еще и voice guidance. :)
+Galileo is a handy travel solution for offline browsing and searching the up-to-date map wherever you go. Mark the places and record your trips easily in one tap and organize your geodata into collections to easily access them later. 
 
-Антон Акимченко2017-10-25T08:47:52
+If you use more than one iOS/Android device, Galileo app will securely sync all your data across multiple devices and there is also backup feature to make a copy of your information.
 
-переделал
-
-Galileo Offline Maps is a complex solution for travelers, which allows you to navigate and Evgen Bodunov2017-10-24T11:24:35
-
-Надо отделить создание меток и запись треков от бэкапа и синхронизации. Navigation - это ведение по маршруту. Route - маршрут. Надо дополнить что есть еще и voice guidance. :)
-
-Антон Акимченко2017-10-25T08:47:52
-
-переделал
-
-searchEvgen Bodunov2017-10-24T11:24:35
-
-Надо отделить создание меток и запись треков от бэкапа и синхронизации. Navigation - это ведение по маршруту. Route - маршрут. Надо дополнить что есть еще и voice guidance. :)
-
-Антон Акимченко2017-10-25T08:47:52
-
-переделал
-
-around the world offline. Also you can create bookmarks and record tracks, which will be stored to Evgen Bodunov2017-10-24T11:24:35
-
-Надо отделить создание меток и запись треков от бэкапа и синхронизации. Navigation - это ведение по маршруту. Route - маршрут. Надо дополнить что есть еще и voice guidance. :)
-
-Антон Акимченко2017-10-25T08:47:52
-
-переделал
-
-CollectionsEvgen Bodunov2017-10-24T11:24:35
-
-Надо отделить создание меток и запись треков от бэкапа и синхронизации. Navigation - это ведение по маршруту. Route - маршрут. Надо дополнить что есть еще и voice guidance. :)
-
-Антон Акимченко2017-10-25T08:47:52
-
-переделал
-
-. You will never loose your collections considering Evgen Bodunov2017-10-24T11:24:35
-
-Надо отделить создание меток и запись треков от бэкапа и синхронизации. Navigation - это ведение по маршруту. Route - маршрут. Надо дополнить что есть еще и voice guidance. :)
-
-Антон Акимченко2017-10-25T08:47:52
-
-переделал
-
-backupEvgen Bodunov2017-10-24T11:24:35
-
-Надо отделить создание меток и запись треков от бэкапа и синхронизации. Navigation - это ведение по маршруту. Route - маршрут. Надо дополнить что есть еще и voice guidance. :)
-
-Антон Акимченко2017-10-25T08:47:52
-
-переделал
-
-and Evgen Bodunov2017-10-24T11:24:35
-
-Надо отделить создание меток и запись треков от бэкапа и синхронизации. Navigation - это ведение по маршруту. Route - маршрут. Надо дополнить что есть еще и voice guidance. :)
-
-Антон Акимченко2017-10-25T08:47:52
-
-переделал
-
-synchronizationEvgen Bodunov2017-10-24T11:24:35
-
-Надо отделить создание меток и запись треков от бэкапа и синхронизации. Navigation - это ведение по маршруту. Route - маршрут. Надо дополнить что есть еще и voice guidance. :)
-
-Антон Акимченко2017-10-25T08:47:52
-
-переделал
-
-features. Navigation will provide you with complete road instructions and Evgen Bodunov2017-10-24T11:24:35
-
-Надо отделить создание меток и запись треков от бэкапа и синхронизации. Navigation - это ведение по маршруту. Route - маршрут. Надо дополнить что есть еще и voice guidance. :)
-
-Антон Акимченко2017-10-25T08:47:52
-
-переделал
-
-voice guidanceEvgen Bodunov2017-10-24T11:24:35
-
-Надо отделить создание меток и запись треков от бэкапа и синхронизации. Navigation - это ведение по маршруту. Route - маршрут. Надо дополнить что есть еще и voice guidance. :)
-
-Антон Акимченко2017-10-25T08:47:52
-
-переделал
-
-.
+Use your device to find the shortest routes between multiple stops and get turn-by-turn directions with voice guidance.
 
 **About This Manual**
 
