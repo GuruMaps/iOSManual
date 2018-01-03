@@ -9,26 +9,30 @@ When launching the Galileo application on your device for the first time, you wi
 * Tapping **Only While Using the App** or **Always Allow** will give the app permission to use Location Services to determine your current location on map if needed.
 * Tapping **Don't Allow** will prevent the app from accessing your location. 
 
-
+![](/assets/)
 
 **Note**: Galileo app depends on data services and location-based information might be unavailable, inaccurate, or incomplete unless you turn on Location Services. 
 To turn Location Services on or off, go to Settings > Privacy > Location Services.
 
 
-### Read & Write permissions {#readWritePermissions}
+### Notifications {#Notifications}
 
-If you use Galileo feature, that require permission to read/write on your device storage \(Such as [Data backup](03-settings.md#dataBackup)\), you will see message asking you to enable it.
+App also have to request permission to send you push notifications with the following system dialog. Tap **Allow** to be notified when new map updates are available.
 
-* Tapping ALLOW will continue your previous action.
-* Tapping DENY will prevent the app from accessing your device storage. You may allow read/write permissions for Galileo at any time in system Settings &gt; Apps &gt; Galileo &gt; Permissions. 
+![](/assets/)
 
-![](/assets/read_write_permission.png)
 
 # Download a Map
 
 When you allow the app to use your location, the app will ask you to download the map for your region when launching the app for the first time.
 
+![](/assets/)
+
+
 Other regions will be available for download while browsing and zooming directly on the map or from the app settings at [Download Maps](03-settings.md#downloadMaps) menu.
+
+![](/assets/)
+
 
 ## Navigating a Map {#navigatingTheMap}
 
