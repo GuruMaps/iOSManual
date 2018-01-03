@@ -38,23 +38,34 @@ Other regions will be available for download while browsing and zooming directly
 
 There are standard and well known gestures such as tap, drag and pinch which are used to interact with the app.  
 To **move the map**, drag it with your finger in the direction you want to position the map:  
+
 ![](/assets/finger-moving.png)  
+
 To **zoom in**, use double tap or pinch your thumb and finger apart:  
+
 ![](/assets/double-tap.png) ![](/assets/expanding.png)  
+
 To **zoom out**, tap with two fingers or pinch your thumb and finger together:  
+
 ![](/assets/two-finger-tap.png) ![](/assets/reducing-size.png)  
-Tip: to zoom in/out with only one finger, double-tap the map, hold the second tap and drag your finger up or down.  
+
+**Tip**: to zoom in/out with only one finger, double-tap the map, hold the second tap and drag your finger up or down.  
+
 To **zoom using on-map +/- buttons**, go to app [Settings &gt; Show Zoom Buttons](02-settings.md#showZoomButtons) to enable them.  
+
 To **rotate the map**, hold the map with two fingers and drag them simultaneously in a circular motion.  
+
 ![](/assets/hand_gesture.png)
 
 Tap the map and hold to bring up the pop-up with available options \(from left to right\):  
-1. Bookmark this location  
-2. Mark your current location  
-3. Get route directions to this location  
+* Bookmark this location  
+* Mark your current location  
+* Get route directions to this location  
+
 ![](/assets/map_popup.png)
 
-To [measure the distance](02-features.md#measuringDistance) between two points as the crow flies, tap your starting and destination points with your fingers on the map and hold to trace the path. A dashed line will appear on the map between the two locations, and the estimated distance will then be displayed.  
+To [measure the distance](02-features.md#measuringDistance) between two points as the crow flies, tap your starting and destination points with your fingers on the map and hold to trace the path. A dashed line will appear on the map between the two locations, and the estimated distance will then be displayed: 
+
 ![](/assets/measuring_distance.png)
 
 # Interface Overview {#interfaceOverview}
@@ -69,7 +80,7 @@ The app works in multiple modes depending on number of taps on _Location_ button
 
 ![](/assets/map_location.png) ![](/assets/map_driving.png)
 
-Tip: if your location cannot be determined precisely, a blue circle also appears around the location marker. The size of the circle depends on how accurately your location can be determined: the smaller the circle – the greater the accuracy.
+**Tip**: if your location cannot be determined precisely, a blue circle also appears around the location marker. The size of the circle depends on how accurately your location can be determined: the smaller the circle – the greater the accuracy.
 
 ### Tracking mode {#trackingMode}
 
@@ -87,13 +98,15 @@ To enable the **driving mode**, double tap the _Location_ button:
 
 While in driving mode, the app will orient the map in the direction you are currently moving. If you stop moving, the map will be oriented by compass.
 
-Note: the accuracy of the compass can be affected by magnetic or environmental interference \(e.g. the magnets in earbuds\) and compass may need to be calibrated from time to time. When the device displays the calibration alert, tilt the screen to move the red ball around in a circle.
+**Note**: the accuracy of the compass can be affected by magnetic or environmental interference \(e.g. the magnets in earbuds\) and compass may need to be calibrated from time to time. When the device displays the calibration alert, tilt the screen to move the red ball around in a circle.
 
 ### Location services {#locationServices}
 
 Every time you see this icon ![](/assets/icon_question.png), it means that your GPS currently cannot get information about your location. It may also appear when Location Services is disabled on your device.
 
-Note: depending on your device and available services, Location Services uses a combination of cellular, Wi-Fi, Bluetooth, and GPS to determine your location. If you're not within a clear line of sight to GPS satellites, your device can determine your location using crowd-sourced Wi-Fi and cell tower locations.
+Enable Location Services on your device and give your permission to Galileo app to determine your location in system Settings > Privacy > Location Services.
+
+**Note**: depending on your device and available services, Location Services uses a combination of cellular, Wi-Fi, Bluetooth, and GPS to determine your location. If you're not within a clear line of sight to GPS satellites, your device can determine your location using crowd-sourced Wi-Fi and cell tower locations or even iBeacons.
 
 ## Trip Computer {#tripComputer}
 
