@@ -10,38 +10,41 @@ Search results will be displayed on the map and in the list below the search fie
 Tap an any of the results in the list to open its entry or back to the map to overview them all. The search will be refined as you browse the map automatically and only results meeting the selected search criteria will be displayed on the visible area.
 To reset search results, tap the clear icon ![](/assets/icon_cross.png).  If there are search results, the search icon will be changed to ![](/assets/icon_search_results.png).
 
-**Note**: You can use your voice to perform search instead of typing wedihen you're connected to the Internet. Just tap the search field, and then tap the microphone icon to start dictating. When you’re finished, wait for your words to be processed. It can take a few seconds for text to appear.
+**Note**: You can use your voice to perform search instead of typing when you're connected to the Internet. Just tap the search field, and then tap the microphone icon next to the spacebar on the iOS keyboard to start dictating. When you’re finished, tap Done and then wait for your words to be processed. It can take a few seconds for text to appear.
 
 Search screen is separated in three parts:  
 * Categories  
 * Search history  
 * Nearest bookmarks
 
-![](/assets/search_1.png)
+**Note**: the app makes searching within the downloaded offline maps and only places which are mapped at OpenStreetMap.org could be found.
+
+
+![](/assets/)
 
 #### Search by category
 
 There are predefined categories available on the screen for a quick search. Just tap the category icon \(food, accommodation, etc\) to list the matching results for a given category:
 
-![](/assets/search_2.png)
+![](/assets/)
 
 You can also narrow your search by entering keyword after the category name as shown below:
 
-![](/assets/search_3.png)
+![](/assets/)
 
 #### Search by name
 
 Just start typing the name of the object you are looking for. As you type, you'll see a list of search results and suggestions:
 
-![](/assets/search_4.png)
+![](/assets/)
 
-Tip: It is not necessary to type punctuation or worry about capital letters, but the search will not recognize a misspelling:
+Tip: It is not necessary to type punctuation or worry about capital letters, but the search will not recognize a misspelling.
 
 #### Coordinates search
 
 If you know the exact coordinates of a location, you can simply enter them into the search field to locate it on the map:
 
-![](/assets/search_5.png)
+![](/assets/)
 
 **Tip**: You may enter the coordinates in any of the supported coordinate formats. Read also: [Units Format](03-settings.md#unitsFormat).
 
