@@ -248,9 +248,9 @@ Collections are groups of bookmarks and GPS tracks, like folders on your desktop
 
 To open My Collections list, tap the ![](/assets/) icon on the map. 
 
-To create new collection, tap the ![](/assets/) button at the bottom of the My Collections list. Enter details, then tap OK.
+To create new collection, tap the ![](/assets/) button at the bottom of the My Collections list. Enter details, then tap Done.
 
-![](/assets/my_collections.png)
+![](/assets/)
 
 To view a set of bookmarks and GPS track within the collection, tap the collection name in list. 
 
@@ -270,7 +270,7 @@ To **show/hide item** tap the ![](/assets/) icon to hide the track or bookmark f
 
 Tap and hold any element or tap the Edit button to delete selected elements or move them to another collection in bulk.
 
-![](/assets/collelctions_edit_mode.png)
+![](/assets/)
 
 
 ## Collections Details
