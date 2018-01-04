@@ -222,7 +222,7 @@ Tap the **REC** button on the screen with the map. It will change dot color from
 
 ![](/assets/)
 
-**Note**: to record GPS tracks in background, make sure you have disabled Battery Saver in device settings.
+**Note**: to record GPS tracks in background, make sure you have allowed the background activity for Galileo app in Settings > General > Background App Refresh.
 
 To **view track details** tap the ![](/assets/icon_info.png) icon next to the track name on the map or open it from the My Collections list.
 
