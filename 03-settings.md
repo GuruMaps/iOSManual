@@ -32,6 +32,17 @@ Caching is always enabled – the app saves all recently viewed map images in yo
 
 In addition to built-in online raster maps, Galileo Offline Maps also supports custom online maps. You can add any map source you like using a special XML file that contains description of map provider.
 
+### Network Mode
+
+This setting lets you configure how the app is allowed to connect to the network:
+
+![](/assets/)
+
+* **WiFi+3G** is set by default and uses a combination of two networks: if a Wi-Fi connection to the Internet is not available, the app connects over to the cellular data network, if available.
+* **WiFi** in case you want the app to load data only over the Wi-Fi network, if available.
+* **Offline** allows to use the app completely offline and not to worry about roaming charges. Even if you have full internet connection, the app will act like it is ‘off’.
+
+
 ## Vector Maps Settings
 
 This section describes the vector maps related settings within the app.
@@ -67,7 +78,7 @@ You can configure Galileo to display all text on a vector map at a comfortable f
 In some regions objects on the map in addition to local names have names in other languages. Map will show the names on the first language in this list if exists. It may be useful for multilingual countries, such as Belgium where Dutch, French and German share official language status.
 
 
-![](/assets/fonts_and_language.png)
+![](/assets/)
 
 
 ### Map Features {#mapFeatures}
@@ -123,6 +134,12 @@ To make visible bookmark name on the map, turn this option on. If enabled, bookm
 
 The screen of your device will be turned off automatically after a specified period of time to save on power.
 Turn this option off if you want your device not to lock the screen while using the Galileo app.
+
+### New Buttons Layout 
+
+Turn this option on to get all the major interface options aligned to the right to be accessed quickly with one finger:
+
+![](/assets/)
 
 
 ### Default Styles {#defaultStyles}
