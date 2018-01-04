@@ -100,35 +100,43 @@ Reference: to learn how to create offline maps in **.sqlitedb** format, please r
 
 Once you have created an offline map, you should upload it to your device. There are two ways to import an offline map into your device: via iTunes or cloud service.
 						
-Importing using iTunes. Connect your device to your computer and perform these steps:
+**Importing using iTunes**
+
+Connect your device to your computer and perform these steps:
 1. Launch the iTunes application and select your device.
 2. Open File Sharing in the left sidebar and select Galileo in the Apps list.
 3. Add the file with the offline map into the Galileo Documents.
 
 ![](/assets/)
 
+**Importing from the Files app**
+
+In addition to iTunes sync, there is another handy way to upload your offline maps using the iOS Files app:
+1. Put the file with the created offline map, in .sqlitedb/.mbtiles format, in the Files/iCloud drive on your computer.
+2. Open the Files app on your iOS device and wait until the file you placed there is synchronized automatically between the devices.
+3. Select the offline map you would like to import and tap the  icon, then select "Copy to Galileo" option to initiate the import process.
+
+![](/assets/)
 
 
 #### Using offline maps
 
 Go to Map Source in app settings and select the imported map name in the list and back to the map view. If you are not over the area with offline map, tap the green arrow indicating the direction to the offline map. Zoom in to see a detailed view of your offline map.
+
+## Getting Exported Files
+
+In order to access the exported collection, bookmark or GPS track using File Sharing:
+						
+1. Launch the iTunes application and select your device.
+2. Open File Sharing in the left sidebar and select Galileo in the Apps list to view a list of the files exported within the app on your iOS device.
+3. Select the file you want to copy to your computer from the Documents list and click the "Save to.." button.
+4. Locate the folder on your computer to which you want to copy selected file and click the Open button. The selected files will be copied to your computer immediately.
+
+![](/assets/)
+
 						
 #### Troubleshooting
 
 Sometimes you can see empty map areas, with the following warning messages on the map:
 						
 "Tile is not in your offline map. Please add more layers." – this means that there are no map tiles on the current zoom level in your offline map. You have probably imported insufficiently detailed levels, so when you zoom in there are no downloaded tiles for that level.
-
-## MIUI users troubleshooting {#MIUI}
-
-#### Xiaomi and other MIUI phones issue
-
-MIUI by default doesn’t let apps in the background access GPS, which is what causes this issue.
-
-Here’s what you need to do to solve the problem:
-
-* Pull down toggle bar.
-* Hold the GPS icon to reach GPS settings.
-* Here, change Location mode to High accuracy
-
-To make sure the app isn’t killed while in background go to Settings  > Battery & performance > Manage app battery usage, now disable/turn off Power saving mode or add Galileo to battery saver exceptions, by clicking Choose apps > Galileo > No restrictions.
