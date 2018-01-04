@@ -166,19 +166,18 @@ _3. By altitude:_
 
 Selected category is a default icon for newly created and imported bookmarks:
 
-![](/assets/default_styles.png)
+![](/assets/)
 
 ## Advanced Settings {#advanced}
 
 ### Sync {#sync}
 
-Galileo Offline Maps allows you to synchronize all your data to make your collections visible and available through all your devices using your Facebook or Google account.
-App uses Facebook/Google login only for authentication, this does not let the Galileo post or share your data.
+Galileo Offline Maps allows you to synchronize all your data to make your collections visible and available through all your iOS devices using your Facebook or iCloud account.
+App uses Facebook/iCloud login only for authentication, this does not let the Galileo post or share your data.
 To enable synchronization feature, go to the app Settings > Sync and select the appropriate way to authenticate.
-Note: use the same login on all your devices to keep the data synchronized. 
-**Tip**: synchronization is a beta feature, so we recommend to backup your collections in advance to avoid unexpected data loss.
+**Note**: use the same login on all your devices to keep the data synchronized.
 
-![](/assets/sync.png)
+![](/assets/)
 
 
 ### Navigation {#navigation}
@@ -186,9 +185,8 @@ Note: use the same login on all your devices to keep the data synchronized.
 The default language of voice instructions you hear while navigating a route depends on the language your device is set to use. 
 To change the language, select one from the Voice Instructions list:
 
-![](/assets/settings_navigation_language.png)
+![](/assets/)
 
-**Note**: as the app use text-to-speech (TTS) engine instead of pre-recorded audio, correct pronunciation depends on the TTS engine.
 
 
 ### Data Backup {#dataBackup}
