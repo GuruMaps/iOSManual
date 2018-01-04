@@ -199,15 +199,16 @@ Tap Back Up My Collections button on Settings &gt; Data Backup screen to backup 
 **Note**: created backup only includes data from My Collections \(bookmarks and GPS tracks\), and it doesn't include downloaded and cached tiles.  
 When the backup finished successfully, you'll see the name of the device along with the date and time the backup was created:
 
-![](/assets/backup.png)
+![](/assets/)
 
 #### Save backup
 
 Backups are stored on your device and will be removed automatically when the app is removed. To prevent data loss, we recommend to save your backups regularly.
 
-You can use cloud services (Dropbox, OneDrive, Adobe Creative Cloud, Google Drive, etc) to save them.
+The best way to keep your backups available across all your iOS devices is to use the Files app. There you can set up your other cloud services (Box, Dropbox, OneDrive, Adobe Creative Cloud, Google Drive, etc) to access them in the Files app too.
 
-![](/assets/backup_share.png)
+
+![](/assets/)
 
 #### Restore from a backup
 
@@ -215,11 +216,11 @@ There are several ways to restore your data from backup:
 
 * Select .gbackup file from any file manager installed and choose Galileo:
 
-![](/assets/open_backup_file_manager.png)
+![](/assets/)
 
 * Select item from your cloud service \(e.g. in Dropbox app\) and choose Galileo:
 
-![](/assets/open_backup_dropbox.png)
+![](/assets/)
 
 * Move .gbackup file to Internal Storage &gt; Galileo\_backups folder. All .gbackup files from this directory will be listed in Galileo. Go to Settings &gt; Data Backup and tap prefered backup.
 
@@ -231,18 +232,14 @@ There are several ways to restore your data from backup:
 
 To set how often to refresh cached map tiles, go to Settings &gt; Cache Info. All tiles older than selected time will be downloaded while browsing online.
 
-![](/assets/cache_info.png)
+![](/assets/)
 
 #### Cache Info
 
-All loaded map tiles will be automatically saved to your device's storage and can be managed in Settings &gt; Cache Info, so you can delete the tiles you no longer need if you want to free up storage space.
+All loaded map tiles will be automatically saved to your device's storage and can be managed in Settings &gt; Cache Info, so you can delete the tiles you no longer need if you want to free up storage space:
 
+![](/assets/)
 
-### Maps Storage {#mapsStorage}
-
-If your device supporting SD Card memory extension and one of your storages become insufficient you can change default Map Download Storage in Settings &gt; Maps Storage. After selection one of the available storages all downloaded Maps will be moved to selected one. Maps will be downloaded on the storage with the largest amount of free space by default. If you don’t see Maps Storage Settings your device might not support SD Card memory extension or SD Card is not present.
-
-![](/assets/maps_storage.png)
 
 ### GPS Filtering {#gpsFiltering}
 
@@ -252,7 +249,7 @@ Galileo Offline Maps app supports GPS data filtering in Settings &gt; GPS Filter
 
 Filter by the minimum accuracy at which the new points will be accepted. New points will be added to GPS track while recording if the accuracy is lower than selected (recommended value is 150 m).
 
-![](/assets/accuracy_threshold.png)
+![](/assets/)
 
 **Example**: You are recording your GPS track while walking around your neighbourhood and you have entered a supermarket. Tall walls, roofs and other obstructions can block the signal from GPS satellites and the device cannot determine your location accurately enough. You may enable the accuracy filter to set the required accuracy and ignore inaccurate GPS data. If the received signal has lower than the required accuracy, that point will not be recorded in the track.
 
@@ -260,7 +257,7 @@ Filter by the minimum accuracy at which the new points will be accepted. New poi
 
 Filter by the minimum distance travelled before a new point will be recorded. New points will be added to GPS track while recording if the distance between them is greater than selected (recommended value is 5 m).
 
-![](/assets/distance_threshold.png)
+![](/assets/)
 
 **Example**: You are recording your GPS track while jogging, then you meet a friend and stop to talk to him. As the GPS sends location coordinates every second, too many points will be recorded on the same spot while you are talking, and the recorded track will take up more space. You may enable the distance filter to ignore GPS points if they are too close to each other. New points will start recording as you exceed the distance selected in the filter.
 
