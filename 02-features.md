@@ -149,6 +149,15 @@ When you need to save your your Galileo geodata or to transfer it to another app
 
 ![](/assets/)
 
+#### Send URL
+
+Create a shared link if you want anyone to be able to click a link to preview of your geodata on the map in browser. They will also have the option to download a copy of it as KML/GPX file:
+
+* Tap the ![](/assets/) icon on details screen.
+* Select the way (AirDrop, email, text message or social networks) you want to share your link through.
+
+![](/assets/)
+
 
 ## Bookmarks {#bookmarks}
 
