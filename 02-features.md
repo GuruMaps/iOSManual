@@ -167,13 +167,13 @@ The Bookmarks feature, available as an in-app purchase, is a great way to keep y
 
 Touch and hold on the map until the pop-up appears, then tap the Bookmark icon:
 
-![](/assets/Screenshot_1509012811.png) → ![](/assets/single_bookmark.png)
+![](/assets/) ![](/assets/)
 
 #### View bookmark name
 
 Tap the bookmark icon on the map. Tap it again to hide it:
 
-![](/assets/Screenshot_1509012829.png)
+![](/assets/)
 
 To **move the bookmark** tap the bookmark icon and hold for a second, then drag the bookmark to where you want and drop it.	
 
@@ -218,9 +218,9 @@ Tap the **REC** button on the screen with the map. It will change dot color from
 * ![](/assets/icon_rec_disabled.png) — track is not recording,
 * ![](/assets/icon_rec_enabled.png) — track is recording now.
 
-**Tip**: while a GPS track is being recorded, notification appear in status bar:
+**Tip**: while a GPS track is being recorded, a numbered badge appears over the upper-right corner of an app icon on the Home screen: 
 
-![](/assets/track_ercording_notification.png)
+![](/assets/)
 
 **Note**: to record GPS tracks in background, make sure you have disabled Battery Saver in device settings.
 
