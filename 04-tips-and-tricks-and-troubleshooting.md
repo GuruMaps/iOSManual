@@ -135,8 +135,15 @@ In order to access the exported collection, bookmark or GPS track using File Sha
 ![](/assets/)
 
 						
-#### Troubleshooting
+#### Hidden Settings
 
-Sometimes you can see empty map areas, with the following warning messages on the map:
-						
-"Tile is not in your offline map. Please add more layers." – this means that there are no map tiles on the current zoom level in your offline map. You have probably imported insufficiently detailed levels, so when you zoom in there are no downloaded tiles for that level.
+
+Hidden settings are tweaks which have been developed to adapt the behaviour and appearance of the application to your specific way of use. To access them, just go to the system Settings, scroll down and find the Galileo in the app list.
+The following additional settings are available for Galileo:
+
+* **Allow overzoom on map**. If enabled, the map can be zoomed closer than the scale allows.
+* **Allow map rotation**. If enabled, the app recognizes the map rotation using two fingers gesture.
+* **Cluster bookmarks**. If enabled, the app groups bookmarks which are close to each other on the map.
+* **GPS Activity Type**. Turn set GPS activity type up depending on your needs. To read more about the options follow this link: Activity Types.	
+* **Write GPS log**. Turn on to log all received GPS coordinates in order to facilitate debugging during the development process.
+
