@@ -70,10 +70,11 @@ Galileo Offline Maps gives you the ability to find the best route and get step b
 To get started with the route planner feature, define the place you want to go first, long tap the destination point on the map, then tap ![](/assets/route_to_icon.png) icon from the pop up menu.
 
 Alternatively: 
-* you can tap  icon on the bottom line of the bookmark/POI/search results details screen
+* you can tap ![](/assets/) icon on the bottom line of the bookmark/POI/search results details screen
 * swipe right on bookmark in My Collections or search results list, then tap.
 
 A map will appear with your driving route highlighted in blue with some route information at the bottom:
+
 * Distance to go
 * Arrival time
 * Time to go
@@ -92,7 +93,7 @@ If you miss a turn or intentionally go the wrong way from the planned route, the
 
 To edit your route, tap ![](/assets/pause_button.png)  icon, then **Edit route** option from menu. There is possible to add additional stops along the way by long tap on the map:
 
-![](/assets/transit_point_menu.png)
+![](/assets/)
 
 These signs will appear on the map along your route:
 
@@ -100,7 +101,7 @@ These signs will appear on the map along your route:
 
 To edit or delete the waypoint, just tap it on the map to bring up the pop-up menu:
 
-![](/assets/transit_point_popup.png)
+![](/assets/)
 
 ### Voice directions
 
@@ -120,11 +121,11 @@ If you have a KML/KMZ/GPX file that someone shared with you via email, you can v
 2. Tap and hold the attached KML/KMZ/GPX file name until a menu comes up.
 3. Choose the "Open with Galileo" option to initiate the file import process.
 
-![](/assets/import_1.png)
+![](/assets/)
 
 
 #### File Manager/Dropbox
-If you saved KML/KMZ/GPX file on your device storage, or inserted SD Card with some KML/KMZ/GPX files, you can add it to your Collections in Galileo by clicking on them from any of installed file managers on your device.
+If you saved KML/KMZ/GPX file on your device storage you can add it to your Collections in Galileo by clicking on them from any of installed file managers on your device.
 
 
 #### URL
@@ -132,20 +133,21 @@ In case you have a web link to the KML/KMZ/GPX file:
 1. Tap the link to open it in your browser.  
 2. Select "Galileo" option to initiate the import process.
 
-![](/assets/import_2.png)
+![](/assets/)
 
 ## Exporting Geodata {#exporting}
 
 Galileo allows you to export any of you geodata (bookmarks, tracks or whole collections) to files compatible with many other apps in several ways: 
 
-#### Share Collections
+#### Save to Files
 
-Galileo supports File Sharing option that allows you to share your collections:  
-Tap the ![](/assets/icon_share.png) icon on details screen.  
-Tap "Save as KML", "Save as GPX", "Share URL" button.
-Then tap choose application, which you want to share with:
+When you need to save your your Galileo geodata or to transfer it to another app installed on your device, follow these steps:
 
-![](/assets/share_url.png)
+* Tap the  icon on details screen.
+* Swipe left to find and tap "Save as KML" or "Save as GPX"options.
+* Tap "Save to Files" option or “Open in..” option, then select the app you want to copy your data:
+
+![](/assets/)
 
 
 ## Bookmarks {#bookmarks}
