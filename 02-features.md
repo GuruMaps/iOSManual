@@ -219,6 +219,8 @@ Tap the **REC** button on the screen with the map. It will change dot color from
 
 **Note**: to record GPS tracks in background, make sure you have allowed the background activity for Galileo app in Settings > General > Background App Refresh.
 
+![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.47.30.png)
+
 To **view track details** tap the ![](/assets/icon_info.png) icon next to the track name on the map or open it from the My Collections list.
 
 To **edit track name and description** tap the name or description field and use the onscreen keyboard to type a new text.
@@ -231,7 +233,7 @@ To **view track on the map** tap ![](/assets/icon_show_on_map.png) icon to open 
 
 To **hide a track from the map** scroll down the track details screen and tap ![](/assets/) icon. To reveal it tap ![](/assets/) icon.
 
-To **export a track** tap the ![](/assets/icon_share.png) icon at the bottom of the track details screen and choose the way to save your data.
+To **export a track** tap the ![](/assets/) icon at the bottom of the track details screen and choose the way to save your data.
 
 To **delete a track** tap the ![](/assets/) icon at the bottom of the track details screen.
 
@@ -245,7 +247,7 @@ To open My Collections list, tap the ![](/assets/) icon on the map.
 
 To create new collection, tap the ![](/assets/) button at the bottom of the My Collections list. Enter details, then tap Done.
 
-![](/assets/)
+![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.49.23.png)
 
 To view a set of bookmarks and GPS track within the collection, tap the collection name in list. 
 
@@ -261,11 +263,11 @@ To **delete from the list** swipe left your finger horizontally across the colle
 
 To **show/hide item** tap the ![](/assets/) icon to hide the track or bookmark from the map. Tap the ![](/assets/) icon to reveal it again. The text font color changes from black to gray: black – for visible, gray – for hidden items:
 
-![](/assets/)
+![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.50.25.png)
 
 Tap and hold any element or tap the Edit button to delete selected elements or move them to another collection in bulk.
 
-![](/assets/)
+![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.50.55.png)
 
 
 ## Collections Details
@@ -282,4 +284,8 @@ To **view collection on the map** tap the ![](/assets/icon_show_on_map.png) icon
 
 To **show & hide** collection from map, scroll down the collection details screen and tap the ![](/assets/) icon. To reveal it tap ![](/assets/) icon.
 
-To **Export a collection** tap the ![](/assets/icon_share.png) icon at the bottom of the collection details screen, choose the way to share your data.  
+**Tip**: another way to show or hide the collection from the map is tapping the cell with the number of bookmarks and tracks currently displayed on the map:
+
+![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.51.45.png)
+
+To **Export a collection** tap the ![](/assets/) icon at the bottom of the collection details screen, choose the way to share your data.  
