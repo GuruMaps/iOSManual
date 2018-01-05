@@ -8,19 +8,21 @@ The following examples show how the XML file for OpenStreetMap source may be def
 
 ### Simple custom map sources {#simpleCustomMapSources}
 
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <customMapSource>
 <name>OpenStreetMap</name>
 <url>http://{$serverpart}.tile.openstreetmap.org/{$z}/{$x}/{$y}.png</url>
 <serverParts>a b c</serverParts>
 </customMapSource>
+```
 
 ### Custom multi-layer map sources
 
 Map sources which consist of two or more layers can be defined, similar to single-layer custom map sources. The following example shows how the XML file for OpenSeaMap hybrid source may be defined:
 
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <customMapSource>
 <name>OpenSeaMap</name>
 <minZoom>0</minZoom>
@@ -37,12 +39,13 @@ Map sources which consist of two or more layers can be defined, similar to singl
 </layer>
 </layers>
 </customMapSource>
+```
 
 The most important tags of this definition are described below:
 
-<name> – the name of the map source,
+`<name>` – the name of the map source,
 	
-<url> – the path for the tiles of the map source with the specific placeholders in curly brackets:
+`<url>` – the path for the tiles of the map source with the specific placeholders in curly brackets:
 							
 {$z} – the zoom level,
 {$x} – the X tile coordinate,
@@ -50,16 +53,17 @@ The most important tags of this definition are described below:
 {$invX} – the inverted X tile coordinate,
 {$invY} – the inverted Y tile coordinate,
 {$serverpart} – (optional) in case of multiple servers for the map source.
-<serverParts> – a space-separated list of parts that replace the {$serverpart} in <url> tag.
-<retina> – tag for defining the size of Retina map tiles:
+`<serverParts>` – a space-separated list of parts that replace the {$serverpart} in `<url>` tag.
+`<retina>` – tag for defining the size of Retina map tiles:
 							
-<retina>1</retina> – for 512х512 px (e.g. Google Maps HD),
-<retina>2</retina> – for 256х256 px (e.g. CloudMade HD).
+`<retina>1</retina>` – for 512х512 px (e.g. Google Maps HD),
+`<retina>2</retina>` – for 256х256 px (e.g. CloudMade HD).
 
 
 #### How to add
 
 There are several ways to add custom online map source to the app:
+
 1. Place the XML file in the app shared folder in iTunes.
 2. Open the XML file attached in Email on your device using the "Open in Galileo" option.
 3. Open the XML file from Dropbox on your device using the "Open in.." option.
@@ -75,7 +79,7 @@ Sometimes you can see empty map areas (tiles), with the following warning messag
 
 ## Offline Maps Import {#offlineMapsImport}
 
-Feature, available as an in-app purchase, allows you to import previously created custom offline maps in .sqlitedb or .mbtiles format.
+Feature, available as an in-app purchase, allows you to import previously created custom offline maps in **.sqlitedb** or **.mbtiles** format.
 
 #### Creating an offline map
 
@@ -107,7 +111,7 @@ Connect your device to your computer and perform these steps:
 2. Open File Sharing in the left sidebar and select Galileo in the Apps list.
 3. Add the file with the offline map into the Galileo Documents.
 
-![](/assets/)
+![](/assets/Screen Shot 2018-01-05 at 11.31.58 AM.png)
 
 **Importing from the Files app**
 
@@ -115,8 +119,6 @@ In addition to iTunes sync, there is another handy way to upload your offline ma
 1. Put the file with the created offline map, in .sqlitedb/.mbtiles format, in the Files/iCloud drive on your computer.
 2. Open the Files app on your iOS device and wait until the file you placed there is synchronized automatically between the devices.
 3. Select the offline map you would like to import and tap the  icon, then select "Copy to Galileo" option to initiate the import process.
-
-![](/assets/)
 
 
 #### Using offline maps
@@ -132,9 +134,7 @@ In order to access the exported collection, bookmark or GPS track using File Sha
 3. Select the file you want to copy to your computer from the Documents list and click the "Save to.." button.
 4. Locate the folder on your computer to which you want to copy selected file and click the Open button. The selected files will be copied to your computer immediately.
 
-![](/assets/)
-
-						
+					
 #### Hidden Settings
 
 
