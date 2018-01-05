@@ -129,9 +129,9 @@ If you saved KML/KMZ/GPX file on your device storage you can add it to your Coll
 #### URL
 In case you have a web link to the KML/KMZ/GPX file:  
 1. Tap the link to open it in your browser.  
-2. Select "Galileo" option to initiate the import process.
+2. Select "Copy to Galileo" option to initiate the import process.
 
-![](/assets/)
+![](/assets/2018-01-05 10.33.37.jpg)
 
 ## Exporting Geodata {#exporting}
 
@@ -145,7 +145,7 @@ When you need to save your your Galileo geodata or to transfer it to another app
 * Swipe left to find and tap "Save as KML" or "Save as GPX"options.
 * Tap "Save to Files" option or “Open in..” option, then select the app you want to copy your data:
 
-![](/assets/)
+![](/assets/2018-01-05 10.36.12.jpg)
 
 #### Send URL
 
@@ -153,8 +153,6 @@ Create a shared link if you want anyone to be able to click a link to preview of
 
 * Tap the ![](/assets/) icon on details screen.
 * Select the way (AirDrop, email, text message or social networks) you want to share your link through.
-
-![](/assets/)
 
 
 ## Bookmarks {#bookmarks}
@@ -165,13 +163,14 @@ The Bookmarks feature, available as an in-app purchase, is a great way to keep y
 
 Touch and hold on the map until the pop-up appears, then tap the Bookmark icon:
 
-![](/assets/) ![](/assets/)
+![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.38.10.png)
+
 
 #### View bookmark name
 
 Tap the bookmark icon on the map. Tap it again to hide it:
 
-![](/assets/)
+![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.40.47.png)
 
 To **move the bookmark** tap the bookmark icon and hold for a second, then drag the bookmark to where you want and drop it.	
 
@@ -188,13 +187,11 @@ To **copy coordinates**, tap the icon next to coordinates. It will bring up the 
 * Copy as text — coordinates will be copied to the clipboard in the format as you see it (+9.570674, +100.060448).
 * Copy as URL — coordinates will be copied as URL, containing geolocation information (latitude, longitude, zoom level) of selected bookmark to quick share it by Email or SMS (galileo://9.570674,100.060446,16.0). Tap this URL from the email or message on your device to view the location on the map within the Galileo Offline Maps:
 
-![](/assets/)
+![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.42.02.png)
 
 To **edit coordinates**, tap the coordinates to start edit (X ,Y) GPS coordinates. 
 
-To **show the direction to the bookmark**, tap the Bearing Line switch option to ON:
-
-![](/assets/)
+To **show the direction to the bookmark**, tap the Bearing Line switch option to ON.
 
 **Note**: The bearing line to only one bookmark can be displayed on the map at any given moment.
 
@@ -218,7 +215,7 @@ Tap the **REC** button on the screen with the map. It will change dot color from
 
 **Tip**: while a GPS track is being recorded, a numbered badge appears over the upper-right corner of an app icon on the Home screen: 
 
-![](/assets/)
+![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.43.54.png)
 
 **Note**: to record GPS tracks in background, make sure you have allowed the background activity for Galileo app in Settings > General > Background App Refresh.
 
