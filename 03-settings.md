@@ -36,7 +36,7 @@ In addition to built-in online raster maps, Galileo Offline Maps also supports c
 
 This setting lets you configure how the app is allowed to connect to the network:
 
-![](/assets/)
+![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.54.53.png)
 
 * **WiFi+3G** is set by default and uses a combination of two networks: if a Wi-Fi connection to the Internet is not available, the app connects over to the cellular data network, if available.
 * **WiFi** in case you want the app to load data only over the Wi-Fi network, if available.
@@ -51,34 +51,29 @@ This section describes the vector maps related settings within the app.
 
 Vector maps are available and free for download within the app:
  
-![](/assets/)
+![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.56.20.png)
 
 To **download a map of the selected country** tap the ![](/assets/) button next to the country name in Available Maps list.
 To **pause a download**, tap the cell with the country name tap it again to resume a download,
 To **go to downloaded map** tap the  button,
 to **remove a map** swipe your finger across the country name from right to left, then tap the Delete button, or use the Edit button.
 
-As OpenStreetMap data is constantly updated by thousands of volunteers around the world, map updates are available from time to time within the app. In Galileo app all vector map updates are free and distributed automatically. If there is an update for downloaded map, you will see Update button near the downloaded map name:
-
-![](/assets/)
+As OpenStreetMap data is constantly updated by thousands of volunteers around the world, map updates are available from time to time within the app. In Galileo app all vector map updates are free and distributed automatically. If there is an update for downloaded map, you will see Update button near the downloaded map name.
 
 To **update all your downloaded maps** tap the “Update All” button.
-
-![](/assets/)
 
 
 ### Font and Languages {#fontsAndLanguages}
 
 #### Font size 
 
-You can configure Galileo to display all text on a vector map at a comfortable font size. To increase, decrease, or change the default font size, go to app Settings > Font and Languages.
+You can configure Galileo to display all text on a vector map at a comfortable font size. To increase, decrease, or change the default font size, go to app Settings > Font and Languages:
+
+![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.58.07.png)
 
 #### Preferred language order
 
 In some regions objects on the map in addition to local names have names in other languages. Map will show the names on the first language in this list if exists. It may be useful for multilingual countries, such as Belgium where Dutch, French and German share official language status.
-
-
-![](/assets/)
 
 
 ### Map Features {#mapFeatures}
@@ -105,9 +100,11 @@ In addition to the basic appearance settings, you can select the objects you wis
 
 ## Appearance Settings {#appearance}
 
-The following group of settings is used to configure how the main map looks.  
+The following group of settings is used to configure how the main map looks: 
 
-### Show Trip Monitor {#showTripMonitor}
+![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 11.01.39.png) 
+
+### Show Trip Computer {#showTripComputer}
  
 To hide trip monitor panel from the map view, turn off this option.
 
@@ -128,7 +125,7 @@ To make visible zoom control buttons on the map, turn this option on. If enabled
 
 To make visible bookmark name on the map, turn this option on. If enabled, bookmark will change its view and the name of bookmark will appear:
 
-![](/assets/)
+![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 11.00.40.png)
 
 ### Screen Auto-Lock {#screenAutoLock}
 
@@ -139,7 +136,7 @@ Turn this option off if you want your device not to lock the screen while using 
 
 Turn this option on to get all the major interface options aligned to the right to be accessed quickly with one finger:
 
-![](/assets/)
+![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 11.02.58.png)
 
 
 ### Default Styles {#defaultStyles}
@@ -152,11 +149,11 @@ Selected style is a default line style for the newly recorded and imported GPS t
 
 _1. By color:_
 
-![](/assets/default_styles_1.png)
+![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 11.04.54.png)
 
 _2. By speed:_
 
-![](/assets/default_styles_2.png)
+![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 11.04.58.png)
 
 _3. By altitude:_
 
