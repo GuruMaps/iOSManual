@@ -20,23 +20,21 @@ Search screen is separated in three parts:
 **Note**: the app makes searching within the downloaded offline maps and only places which are mapped at OpenStreetMap.org could be found.
 
 
-![](/assets/)
-
 #### Search by category
 
 There are predefined categories available on the screen for a quick search. Just tap the category icon \(food, accommodation, etc\) to list the matching results for a given category:
 
-![](/assets/)
+![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.13.02.png)
 
 You can also narrow your search by entering keyword after the category name as shown below:
 
-![](/assets/)
+![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.13.50.png)
 
 #### Search by name
 
 Just start typing the name of the object you are looking for. As you type, you'll see a list of search results and suggestions:
 
-![](/assets/)
+![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.14.26.png)
 
 Tip: It is not necessary to type punctuation or worry about capital letters, but the search will not recognize a misspelling.
 
@@ -44,7 +42,7 @@ Tip: It is not necessary to type punctuation or worry about capital letters, but
 
 If you know the exact coordinates of a location, you can simply enter them into the search field to locate it on the map:
 
-![](/assets/)
+![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.15.40.png)
 
 **Tip**: You may enter the coordinates in any of the supported coordinate formats. Read also: [Units Format](03-settings.md#unitsFormat).
 
@@ -79,7 +77,7 @@ A map will appear with your driving route highlighted in blue with some route in
 * Arrival time
 * Time to go
 
-![](/assets/route_set_3.png)
+![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.17.52.png)
 
 Route will be shown for a **drive mode** by default, but you may have to switch it to the appropriate one for your needs:
 
@@ -93,7 +91,7 @@ If you miss a turn or intentionally go the wrong way from the planned route, the
 
 To edit your route, tap ![](/assets/pause_button.png)  icon, then **Edit route** option from menu. There is possible to add additional stops along the way by long tap on the map:
 
-![](/assets/)
+![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.19.02.png)
 
 These signs will appear on the map along your route:
 
@@ -101,7 +99,7 @@ These signs will appear on the map along your route:
 
 To edit or delete the waypoint, just tap it on the map to bring up the pop-up menu:
 
-![](/assets/)
+![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.19.28.png)
 
 ### Voice directions
 
@@ -119,9 +117,9 @@ If you have a KML/KMZ/GPX file that someone shared with you via email, you can v
 	
 1. Open the message containing the KML/KMZ/GPX file as an attachment.
 2. Tap and hold the attached KML/KMZ/GPX file name until a menu comes up.
-3. Choose the "Open with Galileo" option to initiate the file import process.
+3. Choose the "Copy to Galileo" option to initiate the file import process.
 
-![](/assets/)
+![](/assets/2018-01-05 10.28.24.jpg)
 
 
 #### File Manager/Dropbox
