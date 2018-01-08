@@ -218,7 +218,7 @@ Tap the **REC** button on the screen with the map. It will change dot color from
 
 **Tip**: while a GPS track is being recorded, a numbered badge appears over the upper-right corner of an app icon on the Home screen: 
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.43.54.png)
+![](/assets/app_active.png)
 
 **Note**: to record GPS tracks in background, make sure you have allowed the background activity for Galileo app in Settings > General > Background App Refresh.
 
