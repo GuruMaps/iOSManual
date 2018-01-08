@@ -246,11 +246,9 @@ Collections are groups of bookmarks and GPS tracks, like folders on your desktop
 
 ### My Collections List
 
-To open My Collections list, tap the ![](/assets/) icon on the map. 
+To open My Collections list, tap the ![](/assets/icon_my_collections.png) icon on the map. 
 
-To create new collection, tap the ![](/assets/) button at the bottom of the My Collections list. Enter details, then tap Done.
-
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.49.23.png)
+To create new collection, tap the ![](/assets/plus.png) button at the bottom of the My Collections list. Enter details, then tap Done.
 
 To view a set of bookmarks and GPS track within the collection, tap the collection name in list. 
 
