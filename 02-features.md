@@ -287,6 +287,6 @@ To **show & hide** collection from map, scroll down the collection details scree
 
 **Tip**: another way to show or hide the collection from the map is tapping the cell with the number of bookmarks and tracks currently displayed on the map:
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.51.45.png)
+![](/assets/collection_detail.png)
 
 To **Export a collection** tap the ![](/assets/icon_share.png) icon at the bottom of the collection details screen, choose the way to share your data.  
