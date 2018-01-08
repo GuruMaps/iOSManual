@@ -24,25 +24,27 @@ Search screen is separated in three parts:
 
 There are predefined categories available on the screen for a quick search. Just tap the category icon \(food, accommodation, etc\) to list the matching results for a given category:
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.13.02.png)
+![](/assets/search_1.png)
 
 You can also narrow your search by entering keyword after the category name as shown below:
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.13.50.png)
+![](/assets/search_2.png)
+
 
 #### Search by name
 
 Just start typing the name of the object you are looking for. As you type, you'll see a list of search results and suggestions:
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.14.26.png)
+![](/assets/search_3.png)
 
-Tip: It is not necessary to type punctuation or worry about capital letters, but the search will not recognize a misspelling.
+
+**Tip**: It is not necessary to type punctuation or worry about capital letters, but the search will not recognize a misspelling.
 
 #### Coordinates search
 
 If you know the exact coordinates of a location, you can simply enter them into the search field to locate it on the map:
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.15.40.png)
+![](/assets/search_4.png)
 
 **Tip**: You may enter the coordinates in any of the supported coordinate formats. Read also: [Units Format](03-settings.md#unitsFormat).
 
