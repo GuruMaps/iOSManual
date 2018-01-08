@@ -166,14 +166,14 @@ The Bookmarks feature, available as an in-app purchase, is a great way to keep y
 
 Touch and hold on the map until the pop-up appears, then tap the Bookmark icon:
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.38.10.png)
+![](/assets/long_tap.png)
 
 
 #### View bookmark name
 
 Tap the bookmark icon on the map. Tap it again to hide it:
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.40.47.png)
+![](/assets/bookmark_name_1.png)
 
 To **move the bookmark** tap the bookmark icon and hold for a second, then drag the bookmark to where you want and drop it.	
 
