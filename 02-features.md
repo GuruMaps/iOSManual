@@ -262,7 +262,7 @@ To **search in the list** tap the search field to reveal the onscreen keyboard a
 			 						 				
 To **delete from the list** swipe left your finger horizontally across the collection, bookmark or track name you want to delete in My Collections list, then tap the Delete icon.
 
-To **show/hide item** tap the ![](/assets/icon_show.png) icon to hide the track or bookmark from the map. Tap the ![](/assets/icon_show.png) icon to reveal it again. The text font color changes from black to gray: black – for visible, gray – for hidden items:
+To **show/hide item** tap the ![](/assets/icon_hide.png) icon to hide the track or bookmark from the map. Tap the ![](/assets/icon_show.png) icon to reveal it again. The text font color changes from black to gray: black – for visible, gray – for hidden items:
 
 ![](/assets/collections_visible.png)
 
@@ -283,10 +283,10 @@ To **select a parent collection** in which this current collection is cataloged,
 
 To **view collection on the map** tap the ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected collection.
 
-To **show & hide** collection from map, scroll down the collection details screen and tap the ![](/assets/) icon. To reveal it tap ![](/assets/) icon.
+To **show & hide** collection from map, scroll down the collection details screen and tap the ![](/assets/icon_hide.png) icon. To reveal it tap ![](/assets/icon_show.png) icon.
 
 **Tip**: another way to show or hide the collection from the map is tapping the cell with the number of bookmarks and tracks currently displayed on the map:
 
 ![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.51.45.png)
 
-To **Export a collection** tap the ![](/assets/) icon at the bottom of the collection details screen, choose the way to share your data.  
+To **Export a collection** tap the ![](/assets/icon_share.png) icon at the bottom of the collection details screen, choose the way to share your data.  
