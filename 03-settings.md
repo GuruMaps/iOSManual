@@ -36,7 +36,7 @@ In addition to built-in online raster maps, Galileo Offline Maps also supports c
 
 This setting lets you configure how the app is allowed to connect to the network:
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.54.53.png)
+![](/assets/network_mode.png)
 
 * **WiFi+3G** is set by default and uses a combination of two networks: if a Wi-Fi connection to the Internet is not available, the app connects over to the cellular data network, if available.
 * **WiFi** in case you want the app to load data only over the Wi-Fi network, if available.
@@ -51,9 +51,9 @@ This section describes the vector maps related settings within the app.
 
 Vector maps are available and free for download within the app:
  
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.56.20.png)
+![](/assets/download_map_3.png)
 
-To **download a map of the selected country** tap the ![](/assets/) button next to the country name in Available Maps list.
+To **download a map of the selected country** tap the ![](/assets/icon_download_map.png) button next to the country name in Available Maps list.
 To **pause a download**, tap the cell with the country name tap it again to resume a download,
 To **go to downloaded map** tap the  button,
 to **remove a map** swipe your finger across the country name from right to left, then tap the Delete button, or use the Edit button.
@@ -69,7 +69,7 @@ To **update all your downloaded maps** tap the “Update All” button.
 
 You can configure Galileo to display all text on a vector map at a comfortable font size. To increase, decrease, or change the default font size, go to app Settings > Font and Languages:
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.58.07.png)
+![](/assets/font_and_language.png)
 
 #### Preferred language order
 
@@ -102,7 +102,7 @@ In addition to the basic appearance settings, you can select the objects you wis
 
 The following group of settings is used to configure how the main map looks: 
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 11.01.39.png) 
+![](/assets/settings_appearance.png) 
 
 ### Show Trip Computer {#showTripComputer}
  
@@ -125,7 +125,7 @@ To make visible zoom control buttons on the map, turn this option on. If enabled
 
 To make visible bookmark name on the map, turn this option on. If enabled, bookmark will change its view and the name of bookmark will appear:
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 11.00.40.png)
+![](/assets/bookmark_name_2.png)
 
 ### Screen Auto-Lock {#screenAutoLock}
 
@@ -136,7 +136,7 @@ Turn this option off if you want your device not to lock the screen while using 
 
 Turn this option on to get all the major interface options aligned to the right to be accessed quickly with one finger:
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 11.02.58.png)
+![](/assets/new_buttons_layout.png)
 
 
 ### Default Styles {#defaultStyles}
@@ -149,15 +149,16 @@ Selected style is a default line style for the newly recorded and imported GPS t
 
 _1. By color:_
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 11.07.10.png)
+![](/assets/track_appearance_1.png)
 
 _2. By speed:_
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 11.07.12.png)
+![](/assets/track_appearance_2.png)
 
 _3. By altitude:_
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 11.07.14.png)
+![](/assets/track_appearance_3.png)
+
 
 #### Default bookmark category
 
