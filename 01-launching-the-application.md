@@ -9,7 +9,7 @@ When launching the Galileo application on your device for the first time, you wi
 * Tapping **Only While Using the App** or **Always Allow** will give the app permission to use Location Services to determine your current location on map if needed.
 * Tapping **Don't Allow** will prevent the app from accessing your location. 
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 09.58.06.png)
+![](/assets/permission_location.png)
 
 **Note**: Galileo app depends on data services and location-based information might be unavailable, inaccurate, or incomplete unless you turn on Location Services. 
 To turn Location Services on or off, go to Settings > Privacy > Location Services.
@@ -19,7 +19,7 @@ To turn Location Services on or off, go to Settings > Privacy > Location Service
 
 App also have to request permission to send you push notifications with the following system dialog. Tap **Allow** to be notified when new map updates are available.
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 09.58.18.png)
+![](/assets/permission_notification.png)
 
 
 # Download a Map
