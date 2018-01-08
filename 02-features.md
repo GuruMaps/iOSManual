@@ -200,10 +200,10 @@ To **show the direction to the bookmark**, tap the Bearing Line switch option to
 
 To **view the bookmark on the map** tap the ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected bookmark.
 
-To **hide the bookmark** from the map, scroll down the bookmark details screen and tap ![](/assets/icon_hide.png) icon. To reveal it again, tap ![](/assets/) icon.
+To **hide the bookmark** from the map, scroll down the bookmark details screen and tap ![](/assets/icon_hide.png) icon. To reveal it again, tap ![](/assets/icon_show.png) icon.
 To create a route to this bookmark, tap ![](/assets/route_to_icon.png) icon. 
 
-To **delete a bookmark**, tap ![](/assets/) icon at the bottom of the bookmark details screen.
+To **delete a bookmark**, tap ![](/assets/icon_trash.png) icon at the bottom of the bookmark details screen.
 
 ## GPS Tracks {#GPSTracks}
 
