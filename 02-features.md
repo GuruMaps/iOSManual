@@ -268,7 +268,7 @@ To **show/hide item** tap the ![](/assets/icon_hide.png) icon to hide the track 
 
 Tap and hold any element or tap the Edit button to delete selected elements or move them to another collection in bulk.
 
-![](/assets/collection_choosing.png)
+![](/assets/collections_choosing.png)
 
 
 ## Collections Details
