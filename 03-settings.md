@@ -202,13 +202,13 @@ Backups are stored on your device and will be removed automatically when the app
 
 The best way to keep your backups available across all your iOS devices is to use the Files app. There you can set up your other cloud services (Box, Dropbox, OneDrive, Adobe Creative Cloud, Google Drive, etc) to access them in the Files app too.
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 11.12.50.png)
+![](/assets/data_backup_share.png)
 
 #### Restore from a backup
 
 Tap the backup you created earlier in the list on Data Backup screen to restore from, or select .gbackup file from the Files app or from other cloud service.
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 11.13.51.png)
+![](/assets/data_backup_restore.png)
 
 **Note**: restoring from backup will remove all current bookmarks and GPS tracks in My Collections.
 
