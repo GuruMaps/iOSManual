@@ -194,7 +194,7 @@ Tap Back Up My Collections button on Settings &gt; Data Backup screen to backup 
 **Note**: created backup only includes data from My Collections \(bookmarks and GPS tracks\), and it doesn't include downloaded and cached tiles.  
 When the backup finished successfully, you'll see the name of the device along with the date and time the backup was created:
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 11.11.38.png)
+![](/assets/data_backup.jpg)
 
 #### Save backup
 
