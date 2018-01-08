@@ -70,7 +70,7 @@ Galileo Offline Maps gives you the ability to find the best route and get step b
 To get started with the route planner feature, define the place you want to go first, long tap the destination point on the map, then tap ![](/assets/route_to_icon.png) icon from the pop up menu.
 
 Alternatively: 
-* you can tap ![](/assets/) icon on the bottom line of the bookmark/POI/search results details screen
+* you can tap ![](/assets/route_to_icon.png) icon on the bottom line of the bookmark/POI/search results details screen
 * swipe right on bookmark in My Collections or search results list, then tap.
 
 A map will appear with your driving route highlighted in blue with some route information at the bottom:
@@ -79,7 +79,7 @@ A map will appear with your driving route highlighted in blue with some route in
 * Arrival time
 * Time to go
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.17.52.png)
+![](/assets/navigation.png)
 
 Route will be shown for a **drive mode** by default, but you may have to switch it to the appropriate one for your needs:
 
@@ -93,7 +93,7 @@ If you miss a turn or intentionally go the wrong way from the planned route, the
 
 To edit your route, tap ![](/assets/pause_button.png)  icon, then **Edit route** option from menu. There is possible to add additional stops along the way by long tap on the map:
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.19.02.png)
+![](/assets/route_editing_1.png)
 
 These signs will appear on the map along your route:
 
@@ -101,7 +101,7 @@ These signs will appear on the map along your route:
 
 To edit or delete the waypoint, just tap it on the map to bring up the pop-up menu:
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.19.28.png)
+![](/assets/route_editing_2.png)
 
 ### Voice directions
 
