@@ -144,7 +144,7 @@ Galileo allows you to export any of you geodata (bookmarks, tracks or whole coll
 
 When you need to save your your Galileo geodata or to transfer it to another app installed on your device, follow these steps:
 
-* Tap the  icon on details screen.
+* Tap the ![](/assets/) icon on details screen.
 * Swipe left to find and tap "Save as KML" or "Save as GPX"options.
 * Tap "Save to Files" option or “Open in..” option, then select the app you want to copy your data:
 
