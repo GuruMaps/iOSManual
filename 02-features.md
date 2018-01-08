@@ -190,7 +190,7 @@ To **copy coordinates**, tap the icon next to coordinates. It will bring up the 
 * Copy as text — coordinates will be copied to the clipboard in the format as you see it (+9.570674, +100.060448).
 * Copy as URL — coordinates will be copied as URL, containing geolocation information (latitude, longitude, zoom level) of selected bookmark to quick share it by Email or SMS (galileo://9.570674,100.060446,16.0). Tap this URL from the email or message on your device to view the location on the map within the Galileo Offline Maps:
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.42.02.png)
+![](/assets/bookmark_detail.png)
 
 To **edit coordinates**, tap the coordinates to start edit (X ,Y) GPS coordinates. 
 
@@ -200,8 +200,8 @@ To **show the direction to the bookmark**, tap the Bearing Line switch option to
 
 To **view the bookmark on the map** tap the ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected bookmark.
 
-To **hide the bookmark** from the map, scroll down the bookmark details screen and tap ![](/assets/) icon. To reveal it again, tap ![](/assets/) icon.
-To create a route to this bookmark, tap ![](/assets/) icon. 
+To **hide the bookmark** from the map, scroll down the bookmark details screen and tap ![](/assets/icon_hide.png) icon. To reveal it again, tap ![](/assets/) icon.
+To create a route to this bookmark, tap ![](/assets/route_to_icon.png) icon. 
 
 To **delete a bookmark**, tap ![](/assets/) icon at the bottom of the bookmark details screen.
 
