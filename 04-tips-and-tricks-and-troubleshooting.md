@@ -111,7 +111,7 @@ Connect your device to your computer and perform these steps:
 2. Open File Sharing in the left sidebar and select Galileo in the Apps list.
 3. Add the file with the offline map into the Galileo Documents.
 
-![](/assets/Screen Shot 2018-01-05 at 11.31.58 AM.png)
+![](/assets/file_sharing_itunes.png)
 
 **Importing from the Files app**
 
