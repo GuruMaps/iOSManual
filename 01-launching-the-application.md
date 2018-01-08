@@ -26,12 +26,12 @@ App also have to request permission to send you push notifications with the foll
 
 When you allow the app to use your location, the app will ask you to download the map for your region when launching the app for the first time:
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 09.58.36.png)
+![](/assets/download_map_1.png)
 
 
 Other regions will be available for download while browsing and zooming directly on the map or from the app settings at [Download Maps](03-settings.md#downloadMaps) menu.
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 09.59.00.png)
+![](/assets/download_map_2.png)
 
 
 ## Navigating a Map {#navigatingTheMap}
