@@ -222,14 +222,14 @@ To set how often to refresh cached map tiles, go to Settings &gt; Cache Info. Al
 
 All loaded map tiles will be automatically saved to your device's storage and can be managed in Settings &gt; Cache Info, so you can delete the tiles you no longer need if you want to free up storage space:
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 11.17.08.png)
+![](/assets/cache_info.png)
 
 
 ### GPS Filtering {#gpsFiltering}
 
 Galileo Offline Maps app supports GPS data filtering in Settings &gt; GPS Filtering.  
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 11.19.00.png)
+![](/assets/gps_filtering.png)
 
 #### Accuracy Threshold
 
