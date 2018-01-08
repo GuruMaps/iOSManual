@@ -222,7 +222,7 @@ Tap the **REC** button on the screen with the map. It will change dot color from
 
 **Note**: to record GPS tracks in background, make sure you have allowed the background activity for Galileo app in Settings > General > Background App Refresh.
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.47.30.png)
+![](/assets/track_example.png)
 
 To **view track details** tap the ![](/assets/icon_info.png) icon next to the track name on the map or open it from the My Collections list.
 
@@ -234,11 +234,11 @@ To **change track style** tap the desired color or set the track color based on 
 
 To **view track on the map** tap ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected GPS track.
 
-To **hide a track from the map** scroll down the track details screen and tap ![](/assets/) icon. To reveal it tap ![](/assets/) icon.
+To **hide a track from the map** scroll down the track details screen and tap ![](/assets/icon_hide.png) icon. To reveal it tap ![](/assets/icon_show.png) icon.
 
-To **export a track** tap the ![](/assets/) icon at the bottom of the track details screen and choose the way to save your data.
+To **export a track** tap the ![](/assets/icon_share.png) icon at the bottom of the track details screen and choose the way to save your data.
 
-To **delete a track** tap the ![](/assets/) icon at the bottom of the track details screen.
+To **delete a track** tap the ![](/assets/icon_trash.png) icon at the bottom of the track details screen.
 
 ## Collections {#collections}
 
@@ -264,7 +264,7 @@ To **search in the list** tap the search field to reveal the onscreen keyboard a
 			 						 				
 To **delete from the list** swipe left your finger horizontally across the collection, bookmark or track name you want to delete in My Collections list, then tap the Delete icon.
 
-To **show/hide item** tap the ![](/assets/) icon to hide the track or bookmark from the map. Tap the ![](/assets/) icon to reveal it again. The text font color changes from black to gray: black – for visible, gray – for hidden items:
+To **show/hide item** tap the ![](/assets/icon_show.png) icon to hide the track or bookmark from the map. Tap the ![](/assets/) icon to reveal it again. The text font color changes from black to gray: black – for visible, gray – for hidden items:
 
 ![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 10.50.25.png)
 
