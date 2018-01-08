@@ -54,6 +54,7 @@ To **zoom out**, tap with two fingers or pinch your thumb and finger together:
 To **zoom using on-map +/- buttons**, go to app [Settings &gt; Show Zoom Buttons](02-settings.md#showZoomButtons) to enable them.  
 
 To **rotate the map**, hold the map with two fingers and drag them simultaneously in a circular motion.  
+**Note**: to enable this feature you should go to Settings&gt;Galileo&gt;Allow map rotation
 
 ![](/assets/hand_gesture.png)
 
