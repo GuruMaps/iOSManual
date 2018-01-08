@@ -148,7 +148,7 @@ When you need to save your your Galileo geodata or to transfer it to another app
 * Swipe left to find and tap "Save as KML" or "Save as GPX"options.
 * Tap "Save to Files" option or “Open in..” option, then select the app you want to copy your data:
 
-![](/assets/2018-01-05 10.36.12.jpg)
+![](/assets/track_share.jpg)
 
 #### Send URL
 
