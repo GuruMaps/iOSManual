@@ -133,7 +133,7 @@ In case you have a web link to the KML/KMZ/GPX file:
 1. Tap the link to open it in your browser.  
 2. Select "Copy to Galileo" option to initiate the import process.
 
-![](/assets/track_import.jpg)
+![](/assets/track_import_url.jpg)
 
 
 ## Exporting Geodata {#exporting}
