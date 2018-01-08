@@ -174,7 +174,7 @@ App uses Facebook/iCloud login only for authentication, this does not let the Ga
 To enable synchronization feature, go to the app Settings > Sync and select the appropriate way to authenticate.
 **Note**: use the same login on all your devices to keep the data synchronized.
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 11.10.03.png)
+![](/assets/sync.png)
 
 
 ### Navigation {#navigation}
@@ -182,7 +182,7 @@ To enable synchronization feature, go to the app Settings > Sync and select the 
 The default language of voice instructions you hear while navigating a route depends on the language your device is set to use. 
 To change the language, select one from the Voice Instructions list:
 
-![](/assets/Simulator Screen Shot - iPhone 7 - 2018-01-05 at 11.10.53.png)
+![](/assets/settings_navigation.png)
 
 ### Data Backup {#dataBackup}
 
