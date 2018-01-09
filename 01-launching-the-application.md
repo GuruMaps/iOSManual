@@ -34,7 +34,7 @@ Other regions will be available for download while browsing and zooming directly
 ![](/assets/download_map_2.png)
 
 
-## Navigating a Map {#navigatingTheMap}
+## Navigating a Map {#NavigatingAMap}
 
 There are standard and well known gestures such as tap, drag and pinch which are used to interact with the app.  
 To **move the map**, drag it with your finger in the direction you want to position the map:  
