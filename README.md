@@ -6,7 +6,7 @@
 
 If you use more than one iOS/Android device, Galileo app will securely [sync all your data across multiple devices](03-settings.md#sync) and there is also [backup feature](03-settings.md#dataBackup) to make a copy of your information.
 
-Use your device to [find the fastest routes](03-settings.md#navigation) between multiple stops and get turn-by-turn directions with voice guidance.
+Use your device to [find the fastest routes](02-features.md#navigation) between multiple stops and get turn-by-turn directions with voice guidance.
 
 ## About This Manual {#aboutThisManual}
 
