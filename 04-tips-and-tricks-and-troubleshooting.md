@@ -125,7 +125,7 @@ In addition to iTunes sync, there is another handy way to upload your offline ma
 
 Go to Map Source in app settings and select the imported map name in the list and back to the map view. If you are not over the area with offline map, tap the green arrow indicating the direction to the offline map. Zoom in to see a detailed view of your offline map.
 
-## Getting Exported Files
+## Getting Exported Files {#GettingExportedFiles}
 
 In order to access the exported collection, bookmark or GPS track using File Sharing:
 						

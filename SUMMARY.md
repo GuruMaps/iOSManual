@@ -27,5 +27,5 @@
 * [Tips and Tricks and Troubleshooting](04-tips-and-tricks-and-troubleshooting.md)
   * [Custom Map Sources](04-tips-and-tricks-and-troubleshooting.md#customMapSources)
   * [Offline Maps Import](04-tips-and-tricks-and-troubleshooting.md#offlineMapsImport)
-  * [MIUI users troubleshooting](04-tips-and-tricks-and-troubleshooting.md#MIUI)
+  * [Getting Exported Files](04-tips-and-tricks-and-troubleshooting.md#GettingExportedFiles)
 
