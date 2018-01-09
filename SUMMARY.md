@@ -8,7 +8,7 @@
 * [Navigating the Map](01-launching-the-application.md#navigatingTheMap)
 * [Interface Overview](01-launching-the-application.md#interfaceOverview)
   * [Application Modes](01-launching-the-application.md#applicationModes)
-  * [Trip Monitor](01-launching-the-application.md#tripMonitor)
+  * [Trip Computer](01-launching-the-application.md#tripComputer)
   * [Map Sources](01-launching-the-application.md#mapSources)
 * [Features](02-features.md)
   * [Measuring Distance](02-features.md#measuringDistance)
