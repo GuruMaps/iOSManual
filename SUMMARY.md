@@ -10,7 +10,6 @@
 * [Interface Overview](01-launching-the-application.md#interfaceOverview)
   * [Application Modes](01-launching-the-application.md#applicationModes)
   * [Trip Computer](01-launching-the-application.md#tripComputer)
-  * [Map Sources](01-launching-the-application.md#mapSources)
 * [Features](02-features.md)
   * [Importing KML/KMZ/GPX Files](02-features.md#importing)
   * [Exporting Geodata](02-features.md#exporting)
