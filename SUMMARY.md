@@ -6,7 +6,7 @@
 * [Launching the Application](01-launching-the-application.md)
   * [App permissions](01-launching-the-application.md#appPermissions)
   * [Download a map](01-launching-the-application.md#MapDownload)
-* [Navigating the Map](01-launching-the-application.md#navigatingTheMap)
+  * [Navigating a Map](01-launching-the-application.md#navigatingthemap)
 * [Interface Overview](01-launching-the-application.md#interfaceOverview)
   * [Application Modes](01-launching-the-application.md#applicationModes)
   * [Trip Computer](01-launching-the-application.md#tripComputer)
