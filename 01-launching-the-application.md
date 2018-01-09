@@ -22,7 +22,7 @@ App also have to request permission to send you push notifications with the foll
 ![](/assets/permission_notification.png)
 
 
-# Download a Map
+# Download a Map {#MapDownload}
 
 When you allow the app to use your location, the app will ask you to download the map for your region when launching the app for the first time:
 
