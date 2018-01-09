@@ -17,7 +17,7 @@ Search screen is separated in three parts:
 * Search history  
 * Nearest bookmarks
 
-**Note**: the app makes searching within the downloaded offline maps and only places which are mapped at OpenStreetMap.org could be found.
+**Note**: offline search is possible within the downloaded offline maps and only places which are mapped at OpenStreetMap.org could be found.
 
 ### Search by category
 
