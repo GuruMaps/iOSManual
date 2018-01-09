@@ -6,7 +6,7 @@
 
 To switch to another map to display, select **Map Source** menu in app settings. There are two types of maps you can use within the app: offline and online maps.
 
-### Offline maps
+#### Offline maps
 						
 Vector map source is set by default. Once you’ve downloaded it (**internet connection required**), it will be available offline.
 Vector maps are detailed, smooth, fast and provide high quality image rendered in real time on the device. It takes up less storage space than raster maps.
@@ -14,7 +14,7 @@ Vector maps are detailed, smooth, fast and provide high quality image rendered i
 **Note**: you can also use your own maps in .sqlitedb and .mbtiles formats, previously created on computer and then imported into your device. Such maps can be viewed offline even when your mobile device has no internet connection.
 
 	 						 						
-### Online maps
+#### Online maps
 						
 There is a list of built-in raster map sources available online:
 				 						
@@ -32,7 +32,7 @@ Caching is always enabled – the app saves all recently viewed map images in yo
 
 In addition to built-in online raster maps, Galileo Offline Maps also supports custom online maps. You can add any map source you like using a special XML file that contains description of map provider.
 
-### Network Mode
+## Network Mode {#NetworkMode}
 
 This setting lets you configure how the app is allowed to connect to the network:
 
@@ -43,7 +43,7 @@ This setting lets you configure how the app is allowed to connect to the network
 * **Offline** allows to use the app completely offline and not to worry about roaming charges. Even if you have full internet connection, the app will act like it is ‘off’.
 
 
-## Vector Maps Settings
+## Vector Maps Settings {#VectorMapsSettings}
 
 This section describes the vector maps related settings within the app.
 
@@ -63,7 +63,7 @@ As OpenStreetMap data is constantly updated by thousands of volunteers around th
 To **update all your downloaded maps** tap the “Update All” button.
 
 
-### Font and Languages {#fontsAndLanguages}
+### Font and Language {#FontAndLanguage}
 
 #### Font size 
 
@@ -268,8 +268,7 @@ In Galileo Offline Maps you can choose to represent your coordinates in any way 
 
 ## Help {#Help}
 
-
-#### Contact Us
+### Contact Us
 
 If you have faced a problem - here you can contact Support via email.
 
