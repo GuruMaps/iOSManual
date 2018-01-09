@@ -19,8 +19,7 @@ Search screen is separated in three parts:
 
 **Note**: the app makes searching within the downloaded offline maps and only places which are mapped at OpenStreetMap.org could be found.
 
-
-#### Search by category
+### Search by category
 
 There are predefined categories available on the screen for a quick search. Just tap the category icon \(food, accommodation, etc\) to list the matching results for a given category:
 
@@ -31,7 +30,7 @@ You can also narrow your search by entering keyword after the category name as s
 ![](/assets/search_2.png)
 
 
-#### Search by name
+### Search by name
 
 Just start typing the name of the object you are looking for. As you type, you'll see a list of search results and suggestions:
 
@@ -40,7 +39,7 @@ Just start typing the name of the object you are looking for. As you type, you'l
 
 **Tip**: It is not necessary to type punctuation or worry about capital letters, but the search will not recognize a misspelling.
 
-#### Coordinates search
+### Coordinates search
 
 If you know the exact coordinates of a location, you can simply enter them into the search field to locate it on the map:
 
@@ -48,16 +47,6 @@ If you know the exact coordinates of a location, you can simply enter them into 
 
 **Tip**: You may enter the coordinates in any of the supported coordinate formats. Read also: [Units Format](03-settings.md#unitsFormat).
 
-
-#### Offline Search {#offlineSearch}
-
-Performing an offline search in the following ways allows you to search places quick and easy:
-
-* by category,
-* by name,
-* by GPS coordinates.
-  
-**Note**: The app searches within the downloaded offline maps and only places which are mapped at OpenStreetMap.org could be found.
 
 ## Navigation {#navigation}
 
