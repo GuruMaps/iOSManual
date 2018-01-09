@@ -49,7 +49,7 @@ If you know the exact coordinates of a location, you can simply enter them into 
 **Tip**: You may enter the coordinates in any of the supported coordinate formats. Read also: [Units Format](03-settings.md#unitsFormat).
 
 
-### Offline Search {#offlineSearch}
+#### Offline Search {#offlineSearch}
 
 Performing an offline search in the following ways allows you to search places quick and easy:
 
@@ -65,7 +65,7 @@ Galileo Offline Maps gives you the ability to find the best route and get step b
 
 **Note**: building a route requires internet connection
 
-### Create route
+#### Create route
 
 To get started with the route planner feature, define the place you want to go first, long tap the destination point on the map, then tap ![](/assets/route_to_icon.png) icon from the pop up menu.
 
@@ -89,7 +89,7 @@ To begin navigation, tap ![](/assets/play_icon.png) icon.
 To stop your route, tap ![](/assets/pause_button.png) icon, then Stop movement option from menu.
 If you miss a turn or intentionally go the wrong way from the planned route, the app will automatically recalculate the route (**internet connection required**).
 
-### Edit route
+#### Edit route
 
 To edit your route, tap ![](/assets/pause_button.png)  icon, then **Edit route** option from menu. There is possible to add additional stops along the way by long tap on the map:
 
@@ -103,7 +103,7 @@ To edit or delete the waypoint, just tap it on the map to bring up the pop-up me
 
 ![](/assets/route_editing_2.png)
 
-### Voice directions
+#### Voice directions
 
 When you’re navigating to a place, you can hear voice directions. You can stop receiving directions at any time while in navigation mode by tapping sound icon ![](/assets/sound_icon.png)
 
@@ -244,7 +244,7 @@ To **delete a track** tap the ![](/assets/icon_trash.png) icon at the bottom of 
 
 Collections are groups of bookmarks and GPS tracks, like folders on your desktop. Organising items into collections makes it easy to keep your travel itineraries separate from each other.
 
-### My Collections List
+#### My Collections List
 
 To open My Collections list, tap the ![](/assets/icon_my_collections.png) icon on the map. 
 
@@ -271,7 +271,7 @@ Tap and hold any element or tap the Edit button to delete selected elements or m
 ![](/assets/collections_choosing.png)
 
 
-## Collections Details
+#### Collections Details
 
 To **view collection details** tap ![](/assets/icon_info.png) icon next to the name in the My Collections list.
 
