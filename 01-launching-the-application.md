@@ -51,7 +51,7 @@ To **zoom out**, tap with two fingers or pinch your thumb and finger together:
 
 **Tip**: to zoom in/out with only one finger, double-tap the map, hold the second tap and drag your finger up or down.  
 
-To **zoom using on-map +/- buttons**, go to app [Settings &gt; Show Zoom Buttons](02-settings.md#showZoomButtons) to enable them.  
+To **zoom using on-map +/- buttons**, go to app [Settings &gt; Show Zoom Buttons](03-settings.md#showZoomButtons) to enable them.  
 
 To **rotate the map**, hold the map with two fingers and drag them simultaneously in a circular motion.  
 **Note**: to enable this feature you should go to Settings&gt;Galileo&gt;Allow map rotation
@@ -65,7 +65,7 @@ Tap the map and hold to bring up the pop-up with available options \(from left t
 
 ![](/assets/map_popup.png)
 
-To [measure the distance](02-features.md#measuringDistance) between two points as the crow flies, tap your starting and destination points with your fingers on the map and hold to trace the path. A dashed line will appear on the map between the two locations, and the estimated distance will then be displayed: 
+To **measure the distance** between two points as the crow flies, tap your starting and destination points with your fingers on the map and hold to trace the path. A dashed line will appear on the map between the two locations, and the estimated distance will then be displayed: 
 
 ![](/assets/measuring_distance.png)
 
