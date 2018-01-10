@@ -36,7 +36,6 @@ Just start typing the name of the object you are looking for. As you type, you'l
 
 ![](/assets/search_3.png)
 
-
 **Tip**: It is not necessary to type punctuation or worry about capital letters, but the search will not recognize a misspelling.
 
 ### Coordinates search
