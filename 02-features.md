@@ -6,7 +6,7 @@ In this article we will show some distinguishing features, that will make your G
 
 The App lets you search within [My Collections](02-features.md#collections) content as well as the vector map data within OpenStreetMap.  
 To open the search screen, tap the ![](/assets/icon_serach.png) search button. Type or paste the keyword you want to find in the search field, then tap _Done_ on the keyboard.  
-Search results will be displayed on the map and in the list below the search field. It is also possible to narrow down your search using the “Search around me” option at the bottom.  
+Search results will be displayed on the map and in the list below the search field. It is also possible to narrow down your search using the **Search around me** option at the bottom.  
 Tap an any of the results in the list to open its entry or back to the map to overview them all. The search will be refined as you browse the map automatically and only results meeting the selected search criteria will be displayed on the visible area.
 
 If search results are found, the search icon will be changed to the ![](/assets/icon_search_results.png). To reset search results, tap the clear ![](/assets/icon_cross.png) icon.
@@ -19,9 +19,6 @@ Performing an offline search in the following ways allows you to search places f
 * by name
 * by GPS coordinates
 * by address
-* * Search history  
-
-Nearest bookmarks
 
 **Note**: The App makes searching within the downloaded offline maps and only places which are mapped within OpenStreetMap can be found and displayed.
 
@@ -66,9 +63,6 @@ Type city, zip or address of any location on the world map \(in that sequence wi
 
 **\[!!\]**  
 **Save search result.**To save search result to your collections, tap \[!!\] icon at the bottom of details screen.
-
-  
-
 
 ## Navigation {#navigation}
 
