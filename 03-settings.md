@@ -51,22 +51,22 @@ This setting lets you configure how the App is allowed to connect to the network
 
 ## Vector Maps Settings {#VectorMapsSettings}
 
-This section describes the vector maps related settings within the app.
+This section describes the vector maps related settings within the App.
 
 ### Download Maps
 
-Vector maps are available and free for download within the app:
+Free vector maps by country are available for download within the App:
 
 ![](/assets/download_map_3.png)
 
-To **download a map of the selected country** tap the ![](/assets/icon_download_map.png) button next to the country name in Available Maps list.  
-To **pause a download**, tap the cell with the country name tap it again to resume a download,  
-To **go to downloaded map** tap the  button,  
-to **remove a map** swipe your finger across the country name from right to left, then tap the Delete button, or use the Edit button.
+To **download the map of the selected country**, tap the ![](/assets/icon_download_map.png) button next to the country name in _Available Maps_ list.  
+To **pause a download**, tap the cell with the country name tap it again to resume a download.  
+To **go to the downloaded map**, tap the \[!!\] button.  
+To **remove the map,** swipe your finger across the country name from right to left, then tap the **Delete** button, or use the **Edit** button.
 
-As OpenStreetMap data is constantly updated by thousands of volunteers around the world, map updates are available from time to time within the app. In Galileo app all vector map updates are free and distributed automatically. If there is an update for downloaded map, you will see Update button near the downloaded map name.
+As OpenStreetMap data is constantly updated by thousands of volunteers around the world, map updates are available from time to time within the app. In the Galileo app all vector map updates are free and distributed automatically. If there is an update for a previously downloaded map, you will see the **Update** button beside the map.
 
-To **update all your downloaded maps** tap the “Update All” button.
+To **update all your downloaded maps**, tap the **Update All** button.
 
 ### Font and Language {#FontAndLanguage}
 
