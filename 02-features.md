@@ -18,8 +18,10 @@ Performing an offline search in the following ways allows you to search places f
 * by categories  
 * by name
 * by GPS coordinates
-* Search history  
-* Nearest bookmarks
+* by address
+* * Search history  
+
+Nearest bookmarks
 
 **Note**: The App makes searching within the downloaded offline maps and only places which are mapped within OpenStreetMap can be found and displayed.
 
@@ -50,6 +52,23 @@ If you know the exact coordinates of a location, you can simply enter them into 
 Read also: [Units Format](03-settings.md#unitsFormat).
 
 **Tip**: You may enter the coordinates in any of the supported coordinate formats. To avoid confusion while inputting coordinates from the keyboard it is possible to use spaces instead of \(‘\) Right Single Quotation Mark, \(”\) Right Double Quotation Mark or \(°\) Degree Sign.
+
+### Search by address
+
+Type city, zip or address of any location on the world map \(in that sequence with a comma as shown\). If there are no search results found within the downloaded maps, tap **Done** to perform a search online.
+
+**\[!!\]**
+
+**Navigate to. **Swipe right on the search result in the list to get routed to the selected location.**  
+\[!!\]**
+
+**View details. **To view more address and contact information, tap the desired result in the list.
+
+**\[!!\]**  
+**Save search result.**To save search result to your collections, tap \[!!\] icon at the bottom of details screen.
+
+  
+
 
 ## Navigation {#navigation}
 
