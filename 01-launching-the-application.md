@@ -11,12 +11,12 @@ When launching the Galileo application on your device for the first time, you wi
 
 ![](/assets/permission_location.png)
 
-**Note**: Galileo app depends on data services and location-based information might be unavailable, inaccurate, or incomplete unless you turn on Location Services.   
+**Note**: Galileo app depends on data services and location-based information might be unavailable, inaccurate, or incomplete unless you turn on Location Services.  
 To turn Location Services on or off, go to Settings &gt; Privacy &gt; Location Services.
 
 ### Notifications {#Notifications}
 
-App also have to request permission to send you push notifications with the following system dialog. Tap **Allow** to be notified when new map updates are available.
+The App will also request permission to send you push notifications with the following system dialog. Tap **Allow** to be notified when new map updates are available
 
 ![](/assets/permission_notification.png)
 
@@ -72,7 +72,7 @@ To measure the straight line distance between two points “as the crow flies”
 
 ### Location button {#locationButton}
 
-The App works in multiple modes depending on the number of taps on the _Location_ button with the following sign ![](/assets/icon_gps.png). Your position is shown on the map as a blue marker where you are currently position and as a blue arrow when you are moving:  . 
+The App works in multiple modes depending on the number of taps on the _Location_ button with the following sign ![](/assets/icon_gps.png). Your position is shown on the map as a blue marker where you are currently position and as a blue arrow when you are moving:  .
 
 ![](/assets/map_location.png) ![](/assets/map_driving.png)
 
@@ -84,7 +84,7 @@ To determine your current approximate location on the map and enable the **track
 
 ![](/assets/icon_gps.png) → ![](/assets/icon_gps_act.png)
 
-Once tracking mode is active, app tracks your position on map as you move. To exit the tracking mode, move the map.
+Once tracking mode is active, the App tracks your position on the map as you move. To exit the tracking mode, move the map.
 
 ### Driving mode {#drivingMode}
 
