@@ -232,7 +232,7 @@ Tap the backup you created earlier in the list on the Data Backup screen to rest
 
 #### Map Refresh
 
-To set how often to refresh cached map tiles, go to Settings &gt; Cache Info. All tiles older than selected time will be downloaded while browsing online.
+To set how often to refresh cached map tiles for online maps, go to Settings &gt; Cache Info. All tiles older than selected time will be downloaded while browsing online.
 
 #### Cache Info
 
@@ -260,7 +260,7 @@ Filter by the minimum distance travelled before a new point will be recorded. Ne
 
 ### Units Format {#unitsFormat}
 
-To set the units system and coordinates format you would like to use within the Galileo Offline Maps, go to Settings &gt; Units Format.
+To set the units system and coordinates format you would like to use with Galileo Offline Maps, go to Settings &gt; Units Format.
 
 #### Units system
 
@@ -272,7 +272,7 @@ The following units of measure for distance and speed are available to select fr
 
 #### Coordinates format
 
-In Galileo Offline Maps you can choose to represent your coordinates in any way you like. The coordinate format you select will be used to display all coordinates within the app. Here is an example of different coordinate formats for New York city follows:
+In Galileo Offline Maps you can choose to represent your coordinates in various formats. The coordinate format you select will be used to display all coordinates within the App. Here is an example of different coordinate formats for New York city follows:
 
 * +40.730598, -73.986580 \(DDD.DDDDD\)
 * 40°43'50.1" N, 73°59'11.6" W \(DDD°MM' SS.S"\)
@@ -284,5 +284,5 @@ In Galileo Offline Maps you can choose to represent your coordinates in any way 
 
 ### Contact Us
 
-If you have faced a problem - here you can contact Support via email \(**internet connection required**\).
+Feel free to ask for further assistance or to report any problems you find at info@galileo-app.com or choose the Contact Support option directly within the app settings \(**Internet connection required**\).
 
