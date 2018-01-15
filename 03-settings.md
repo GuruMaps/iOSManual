@@ -111,34 +111,39 @@ The following group of settings is used to configure how the main map looks:
 
 ### Show Trip Computer {#showTripComputer}
 
-To hide trip monitor panel from the map view, turn off this option.
+To hide trip computer panel from the map view, turn off this option.
+
+Read also: Trip Computer.
 
 ### Show Coordinates {#showCoordinates}
 
-To enable the real-time display of coordinates on the map, turn on this option. If enabled, crosshairs will appear in the center of the map and coordinates for the crosshairs will be beneath the map scale bar in selected format as well as the current zoom level:
+To enable the real-time display of coordinates on the map, turn this option on. If enabled, “crosshairs” will appear in the map’s center with coordinates and zoom level in the selected format.
 
 ![](/assets/show_coordinates.png)
 
+Read also: Units Format.
+
 ### Show Zoom Buttons {#showZoomButtons}
 
-To make visible zoom control buttons on the map, turn this option on. If enabled, plus and minus zoom buttons will appear on the map:
+To make zoom control buttons display on the map, turn this option on. It will appear with plus and minus zoom buttons.
 
 ![](/assets/zoom_buttons.png)
 
+Read also: Navigating the Map.
+
 ### Show Bookmark Name
 
-To make visible bookmark name on the map, turn this option on. If enabled, bookmark will change its view and the name of bookmark will appear:
+To display a bookmark name on the map, turn this option on. The bookmark view will change and the name of bookmark will appear. The bookmark name can be changed to your preference:
 
 ![](/assets/bookmark_name_2.png)
 
 ### Screen Auto-Lock {#screenAutoLock}
 
-The screen of your device will be turned off automatically after a specified period of time to save on power.  
-Turn this option off if you want your device not to lock the screen while using the Galileo app.
+The device screen will be turned off automatically after a specified period of time to save power. Turn this option off If you don’t want the screen to lock while using the Galileo.
 
 ### New Buttons Layout
 
-Turn this option on to get all the major interface options aligned to the right to be accessed quickly with one finger:
+Turn this option on to display the the major application functions. The functions will be aligned to the right of the screen for single finger selection.
 
 ![](/assets/new_buttons_layout.png)
 
