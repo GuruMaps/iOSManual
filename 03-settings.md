@@ -175,10 +175,13 @@ The category you select will become the default icon for newly created and impor
 
 ### Sync {#sync}
 
-Galileo Offline Maps allows you to synchronize all your data to make your collections visible and available through all your iOS devices using your Facebook or iCloud account.  
-App uses Facebook/iCloud login only for authentication, this does not let the Galileo post or share your data.  
-To enable synchronization feature, go to the app Settings &gt; Sync and select the appropriate way to authenticate.  
-**Note**: use the same login on all your devices to keep the data synchronized.
+Galileo Offline Maps allows you to synchronize all your data to make your collections visible and available through all your iOS devices using your Facebook or iCloud account.
+
+Galileo Offline Maps allows you to synchronize all your geo data collections available throughout all of your iOS devices. This is accomplished using your Facebook or iCloud account. App uses Facebook/iCloud login only can be done, this does not let the Galileo post or share your data.
+
+To enable the synchronization feature, go to the app Settings &gt; Sync and select the desired synchronizing option. Use the same login on all your devices to keep the data synchronized. 
+
+Tip: synchronization is a beta feature, so we recommend you backup your collections in advance to avoid unexpected data loss.
 
 ![](/assets/sync.png)
 
