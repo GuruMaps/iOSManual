@@ -72,17 +72,19 @@ To **update all your downloaded maps**, tap the **Update All** button.
 
 #### Font size
 
-You can configure Galileo to display all text on a vector map at a comfortable font size. To increase, decrease, or change the default font size, go to app Settings &gt; Font and Languages:
+You can configure Galileo to display all text on a vector map at various font size. To increase, decrease, or change the default font size, go to app Settings &gt; Font and Languages:
 
 ![](/assets/font_and_language.png)
 
 #### Preferred language order
 
-In some regions objects on the map in addition to local names have names in other languages. Map will show the names on the first language in this list if exists. It may be useful for multilingual countries, such as Belgium where Dutch, French and German share official language status.
+In some regions objects on the map in addition to local names have names in other languages. The Map will show the names of the user designated first language in this list if it has been defined by the user. This feature may be useful for multilingual countries, such as Belgium where Dutch, French and German share official language status.
 
-### Map Features {#mapFeatures}
+Tap **Edit** button on the top right of the screen, to rearrange or delete languages from the list.
 
-In addition to the basic appearance settings, you can select the objects you wish to display on the vector map. Select only the objects that you want to display to keep the map tidy and uncluttered:
+### Map Features \(**Points of Interest\)** {#mapFeatures}
+
+In addition to the basic appearance settings, you can select the **POIs** you wish to display on the vector map. Select only the **POIs** that you want to display to keep the map tidy and uncluttered:
 
 * Restaurants, cafes, fast foods
 * Bars, pubs, clubs
