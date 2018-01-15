@@ -31,7 +31,7 @@ There is a list of built-in raster map sources available online:
 
 Caching is always enabled – the app saves all recently viewed map images in your cache and keeps them available for offline usage. To save maps, navigate to the area you are going to visit and zoom-in to the lowest viewable level of detail while you have access to the Internet. The level of saved detail will reflect the zoom level you viewed.
 
-Read also: Cache Info. 
+Read also: Cache Info.
 
 **Note**: map download speed can vary while using an online sources, and depends on the speed of your Internet connection and the speed of the server from where the map is downloaded.
 
@@ -41,13 +41,13 @@ Read also: Custom Map Sources.
 
 ## Network Mode {#NetworkMode}
 
-This setting lets you configure how the app is allowed to connect to the network:
+This setting lets you configure how the App is allowed to connect to the network:
 
 ![](/assets/network_mode.png)
 
-* **WiFi+3G** is set by default and uses a combination of two networks: if a Wi-Fi connection to the Internet is not available, the app connects over to the cellular data network, if available.
-* **WiFi** in case you want the app to load data only over the Wi-Fi network, if available.
-* **Offline** allows to use the app completely offline and not to worry about roaming charges. Even if you have full internet connection, the app will act like it is ‘off’.
+* **WiFi+3G** is set by default and uses a combination of two networks: if a Wi-Fi connection to the Internet is not available, the App connects over to the cellular data network, if available.
+* **WiFi** in case you want the App to load data only over the Wi-Fi network, if available.
+* **Offline** allows to use the App completely offline and not to worry about roaming charges. Even if you have full Cellular or WiFi internet connection, the App will act like the connection is ‘off’.
 
 ## Vector Maps Settings {#VectorMapsSettings}
 
@@ -177,7 +177,7 @@ To enable synchronization feature, go to the app Settings &gt; Sync and select t
 
 ### Navigation {#navigation}
 
-The default language of voice instructions you hear while navigating a route depends on the language your device is set to use.   
+The default language of voice instructions you hear while navigating a route depends on the language your device is set to use.  
 To change the language, select one from the Voice Instructions list:
 
 ![](/assets/settings_navigation.png)
