@@ -198,11 +198,11 @@ To change the language, select one from the Voice Instructions list:
 
 ### Data Backup {#dataBackup}
 
-Backing up data is a great way to minimize accidental data loss and restore the most important geodata on your device.
+Backing up data is a great way to minimize accidental data loss and restore the most important geodata on your iOS device.
 
 #### Create backup
 
-Tap Back Up My Collections button on Settings &gt; Data Backup screen to backup the collections within the app.  
+Tap **Back Up My Collections** button on Settings &gt; Data Backup screen to backup the collections within the App.  
 **Note**: created backup only includes data from My Collections \(bookmarks and GPS tracks\), and it doesn't include downloaded and cached tiles.  
 When the backup finished successfully, you'll see the name of the device along with the date and time the backup was created:
 
@@ -210,15 +210,19 @@ When the backup finished successfully, you'll see the name of the device along w
 
 #### Save backup
 
-Backups are stored on your device and will be removed automatically when the app is removed. To prevent data loss, we recommend to save your backups regularly.
+Backups are stored on your device and will be removed automatically when the App is removed. To prevent data loss, we recommend that you backup regularly.
 
-The best way to keep your backups available across all your iOS devices is to use the Files app. There you can set up your other cloud services \(Box, Dropbox, OneDrive, Adobe Creative Cloud, Google Drive, etc\) to access them in the Files app too.
+The best way to keep your backups available across all your iOS devices is to use the Files App. Within the Files App you can set up your other cloud services as well \(Box, Dropbox, OneDrive, Adobe Creative Cloud, Google Drive, etc\).
+
+To save the backup, tap the \[!!\]  icon, then select Save to Files option.
+
+Read also: [**Use the Files App on your iPhone, iPad, and iPod touch**](https://support.apple.com/en-us/HT206481).
 
 ![](/assets/data_backup_share.png)
 
 #### Restore from a backup
 
-Tap the backup you created earlier in the list on Data Backup screen to restore from, or select .gbackup file from the Files app or from other cloud service.
+Tap the backup you created earlier in the list on the Data Backup screen to restore, or select .gbackup file from the Files App or from other cloud service \(e.g. in Dropbox App\), then tap the \[!!\] icon and select "Copy to Galileo" option.
 
 ![](/assets/data_backup_restore.png)
 
