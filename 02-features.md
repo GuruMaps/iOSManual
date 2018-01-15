@@ -4,20 +4,24 @@ In this article we will show some distinguishing features, that will make your G
 
 ## Search {#search}
 
-The app lets you search within [My Collections](02-features.md#collections) content as well as map OpenStreetMap.org data.  
-To open the search screen, tap the ![](/assets/icon_serach.png) search button. Type or paste the word you want to find in the search field.  
+The App lets you search within [My Collections](02-features.md#collections) content as well as the vector map data within OpenStreetMap.  
+To open the search screen, tap the ![](/assets/icon_serach.png) search button. Type or paste the keyword you want to find in the search field, then tap _Done_ on the keyboard.  
 Search results will be displayed on the map and in the list below the search field. It is also possible to narrow down your search using the “Search around me” option at the bottom.  
 Tap an any of the results in the list to open its entry or back to the map to overview them all. The search will be refined as you browse the map automatically and only results meeting the selected search criteria will be displayed on the visible area.
-To reset search results, tap the clear icon ![](/assets/icon_cross.png).  If there are search results, the search icon will be changed to ![](/assets/icon_search_results.png).
+
+If search results are found, the search icon will be changed to the ![](/assets/icon_search_results.png). To reset search results, tap the clear ![](/assets/icon_cross.png) icon.  
 
 **Note**: You can use your voice to perform search instead of typing when you're connected to the Internet. Just tap the search field, and then tap the microphone icon next to the spacebar on the iOS keyboard to start dictating. When you’re finished, tap Done and then wait for your words to be processed. It can take a few seconds for text to appear.
 
-Search screen is separated in three parts:  
-* Categories  
+Performing an offline search in the following ways allows you to search places fast and easy:
+
+* by categories  
+* by name
+* by GPS coordinates
 * Search history  
 * Nearest bookmarks
 
-**Note**: offline search is possible within the downloaded offline maps and only places which are mapped at OpenStreetMap.org could be found.
+**Note**: The App makes searching within the downloaded offline maps and only places which are mapped within OpenStreetMap can be found and displayed.
 
 ### Search by category
 
@@ -28,7 +32,6 @@ There are predefined categories available on the screen for a quick search. Just
 You can also narrow your search by entering keyword after the category name as shown below:
 
 ![](/assets/search_2.png)
-
 
 ### Search by name
 
@@ -46,7 +49,6 @@ If you know the exact coordinates of a location, you can simply enter them into 
 
 **Tip**: You may enter the coordinates in any of the supported coordinate formats. Read also: [Units Format](03-settings.md#unitsFormat).
 
-
 ## Navigation {#navigation}
 
 Galileo Offline Maps gives you the ability to find the best route and get step by step directions for your drive or walk.
@@ -57,7 +59,8 @@ Galileo Offline Maps gives you the ability to find the best route and get step b
 
 To get started with the route planner feature, define the place you want to go first, long tap the destination point on the map, then tap ![](/assets/route_to_icon.png) icon from the pop up menu.
 
-Alternatively: 
+Alternatively:
+
 * you can tap ![](/assets/route_to_icon.png) icon on the bottom line of the bookmark/POI/search results details screen
 * swipe right on bookmark in My Collections or search results list, then tap.
 
@@ -73,9 +76,9 @@ Route will be shown for a **drive mode** by default, but you may have to switch 
 
 ![](/assets/route_set_2.png)
 
-To begin navigation, tap ![](/assets/play_icon.png) icon. 
-To stop your route, tap ![](/assets/pause_button.png) icon, then Stop movement option from menu.
-If you miss a turn or intentionally go the wrong way from the planned route, the app will automatically recalculate the route (**internet connection required**).
+To begin navigation, tap ![](/assets/play_icon.png) icon.   
+To stop your route, tap ![](/assets/pause_button.png) icon, then Stop movement option from menu.  
+If you miss a turn or intentionally go the wrong way from the planned route, the app will automatically recalculate the route \(**internet connection required**\).
 
 #### Edit route
 
@@ -95,38 +98,37 @@ To edit or delete the waypoint, just tap it on the map to bring up the pop-up me
 
 When you’re navigating to a place, you can hear voice directions. You can stop receiving directions at any time while in navigation mode by tapping sound icon ![](/assets/sound_icon.png)
 
-**Tip**: long tap on sound icon allows to choose one of the supported languages, which will be used for voice instructions. You can also change the language selection to hear the driving directions in the app Settings > Navigation.
-
+**Tip**: long tap on sound icon allows to choose one of the supported languages, which will be used for voice instructions. You can also change the language selection to hear the driving directions in the app Settings &gt; Navigation.
 
 ## Importing KML/KMZ/GPX Files {#importing}
 
 You can easily import KML/KMZ/GPX files to view them on the map in several ways using email, URL or Files app.
 
 #### Email
+
 If you have a KML/KMZ/GPX file that someone shared with you via email, you can view it in the Galileo app:
-	
+
 1. Open the message containing the KML/KMZ/GPX file as an attachment.
 2. Tap and hold the attached KML/KMZ/GPX file name until a menu comes up.
 3. Choose the "Copy to Galileo" option to initiate the file import process.
 
 ![](/assets/track_import_email.png)
 
-
 #### File Manager/Dropbox
+
 If you saved KML/KMZ/GPX file on your device storage you can add it to your Collections in Galileo by clicking on them from any of installed file managers on your device.
 
-
 #### URL
+
 In case you have a web link to the KML/KMZ/GPX file:  
 1. Tap the link to open it in your browser.  
 2. Select "Copy to Galileo" option to initiate the import process.
 
 ![](/assets/track_import_url.png)
 
-
 ## Exporting Geodata {#exporting}
 
-Galileo allows you to export any of you geodata (bookmarks, tracks or whole collections) to files compatible with many other apps in several ways: 
+Galileo allows you to export any of you geodata \(bookmarks, tracks or whole collections\) to files compatible with many other apps in several ways:
 
 #### Save to Files
 
@@ -143,12 +145,11 @@ When you need to save your your Galileo geodata or to transfer it to another app
 Create a shared link if you want anyone to be able to click a link to preview of your geodata on the map in browser. They will also have the option to download a copy of it as KML/GPX file:
 
 * Tap the ![](/assets/icon_share.png) icon on details screen.
-* Select the way (AirDrop, email, text message or social networks) you want to share your link through.
-
+* Select the way \(AirDrop, email, text message or social networks\) you want to share your link through.
 
 ## Bookmarks {#bookmarks}
 
-The Bookmarks feature, available as an in-app purchase, is a great way to keep your favourite places at your fingertips. Save places you want to go to or mark an interesting POI on the go that you could come back to later.  
+The Bookmarks feature, available as an in-app purchase, is a great way to keep your favourite places at your fingertips. Save places you want to go to or mark an interesting POI on the go that you could come back to later.
 
 #### Create new bookmark
 
@@ -156,14 +157,13 @@ Touch and hold on the map until the pop-up appears, then tap the Bookmark icon:
 
 ![](/assets/long_tap.png)
 
-
 #### View bookmark name
 
 Tap the bookmark icon on the map. Tap it again to hide it:
 
 ![](/assets/bookmark_name_1.png)
 
-To **move the bookmark** tap the bookmark icon and hold for a second, then drag the bookmark to where you want and drop it.	
+To **move the bookmark** tap the bookmark icon and hold for a second, then drag the bookmark to where you want and drop it.
 
 To **view bookmark details** tap the ![](/assets/icon_info.png) button next to the bookmark name on the map or open it from the My Collections list.
 
@@ -175,12 +175,12 @@ To **move a bookmark to another collection** tap the field with the collection n
 
 To **copy coordinates**, tap the icon next to coordinates. It will bring up the pop-up with available options to copy bookmark coordinates:
 
-* Copy as text — coordinates will be copied to the clipboard in the format as you see it (+9.570674, +100.060448).
-* Copy as URL — coordinates will be copied as URL, containing geolocation information (latitude, longitude, zoom level) of selected bookmark to quick share it by Email or SMS (galileo://9.570674,100.060446,16.0). Tap this URL from the email or message on your device to view the location on the map within the Galileo Offline Maps:
+* Copy as text — coordinates will be copied to the clipboard in the format as you see it \(+9.570674, +100.060448\).
+* Copy as URL — coordinates will be copied as URL, containing geolocation information \(latitude, longitude, zoom level\) of selected bookmark to quick share it by Email or SMS \(galileo://9.570674,100.060446,16.0\). Tap this URL from the email or message on your device to view the location on the map within the Galileo Offline Maps:
 
 ![](/assets/bookmark_detail.png)
 
-To **edit coordinates**, tap the coordinates to start edit (X ,Y) GPS coordinates. 
+To **edit coordinates**, tap the coordinates to start edit \(X ,Y\) GPS coordinates.
 
 To **show the direction to the bookmark**, tap the Bearing Line switch option to ON.
 
@@ -188,8 +188,8 @@ To **show the direction to the bookmark**, tap the Bearing Line switch option to
 
 To **view the bookmark on the map** tap the ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected bookmark.
 
-To **hide the bookmark** from the map, scroll down the bookmark details screen and tap ![](/assets/icon_hide.png) icon. To reveal it again, tap ![](/assets/icon_show.png) icon.
-To create a route to this bookmark, tap ![](/assets/route_to_icon.png) icon. 
+To **hide the bookmark** from the map, scroll down the bookmark details screen and tap ![](/assets/icon_hide.png) icon. To reveal it again, tap ![](/assets/icon_show.png) icon.  
+To create a route to this bookmark, tap ![](/assets/route_to_icon.png) icon.
 
 To **delete a bookmark**, tap ![](/assets/icon_trash.png) icon at the bottom of the bookmark details screen.
 
@@ -204,11 +204,11 @@ Tap the **REC** button on the screen with the map. It will change dot color from
 * ![](/assets/icon_rec_disabled.png) — track is not recording,
 * ![](/assets/icon_rec_enabled.png) — track is recording now.
 
-**Tip**: while a GPS track is being recorded, a numbered badge appears over the upper-right corner of an app icon on the Home screen: 
+**Tip**: while a GPS track is being recorded, a numbered badge appears over the upper-right corner of an app icon on the Home screen:
 
 ![](/assets/app_active.png)
 
-**Note**: to record GPS tracks in background, make sure you have allowed the background activity for Galileo app in Settings > General > Background App Refresh.
+**Note**: to record GPS tracks in background, make sure you have allowed the background activity for Galileo app in Settings &gt; General &gt; Background App Refresh.
 
 ![](/assets/track_example.png)
 
@@ -234,20 +234,20 @@ Collections are groups of bookmarks and GPS tracks, like folders on your desktop
 
 #### My Collections List
 
-To open My Collections list, tap the ![](/assets/icon_my_collections.png) icon on the map. 
+To open My Collections list, tap the ![](/assets/icon_my_collections.png) icon on the map.
 
 To create new collection, tap the ![](/assets/plus.png) button at the bottom of the My Collections list. Enter details, then tap Done.
 
-To view a set of bookmarks and GPS track within the collection, tap the collection name in list. 
+To view a set of bookmarks and GPS track within the collection, tap the collection name in list.
 
 You can easily sort collections and its content by date created, distance and file name in the list:
-				 							
+
 * Recent — the most recently created items go first,
 * Nearest — collections, containing locations that are the closest to your current location, are listed at the top,
 * A-Z — items are sorted in alphabetical order.
-												
+
 To **search in the list** tap the search field to reveal the onscreen keyboard and start typing. The list will dynamically display collections containing items that match your search criteria as you type.
-			 						 				
+
 To **delete from the list** swipe left your finger horizontally across the collection, bookmark or track name you want to delete in My Collections list, then tap the Delete icon.
 
 To **show/hide item** tap the ![](/assets/icon_hide.png) icon to hide the track or bookmark from the map. Tap the ![](/assets/icon_show.png) icon to reveal it again. The text font color changes from black to gray: black – for visible, gray – for hidden items:
@@ -257,7 +257,6 @@ To **show/hide item** tap the ![](/assets/icon_hide.png) icon to hide the track 
 Tap and hold any element or tap the Edit button to delete selected elements or move them to another collection in bulk.
 
 ![](/assets/collections_choosing.png)
-
 
 #### Collections Details
 
@@ -277,4 +276,5 @@ To **show & hide** collection from map, scroll down the collection details scree
 
 ![](/assets/collection_detail.png)
 
-To **Export a collection** tap the ![](/assets/icon_share.png) icon at the bottom of the collection details screen, choose the way to share your data.  
+To **Export a collection** tap the ![](/assets/icon_share.png) icon at the bottom of the collection details screen, choose the way to share your data.
+
