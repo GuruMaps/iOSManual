@@ -179,7 +179,7 @@ Galileo Offline Maps allows you to synchronize all your data to make your collec
 
 Galileo Offline Maps allows you to synchronize all your geo data collections available throughout all of your iOS devices. This is accomplished using your Facebook or iCloud account. App uses Facebook/iCloud login only can be done, this does not let the Galileo post or share your data.
 
-To enable the synchronization feature, go to the app Settings &gt; Sync and select the desired synchronizing option. Use the same login on all your devices to keep the data synchronized. 
+To enable the synchronization feature, go to the app Settings &gt; Sync and select the desired synchronizing option. Use the same login on all your devices to keep the data synchronized.
 
 Tip: synchronization is a beta feature, so we recommend you backup your collections in advance to avoid unexpected data loss.
 
@@ -187,10 +187,12 @@ Tip: synchronization is a beta feature, so we recommend you backup your collecti
 
 ### Navigation {#navigation}
 
-The default language of voice instructions you hear while navigating a route depends on the language your device is set to use.  
+The default language for voice instructions you hear while navigating a route depends on the language your device is set to use.  
 To change the language, select one from the Voice Instructions list:
 
 ![](/assets/settings_navigation.png)
+
+**Note: **as the App uses text-to-speech \(TTS\) engine instead of pre-recorded audio, correct pronunciation depends on the TTS engine.
 
 ### Data Backup {#dataBackup}
 
