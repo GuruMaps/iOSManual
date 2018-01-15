@@ -149,8 +149,6 @@ Turn this option on to display the the major application functions. The function
 
 ### Default Styles {#defaultStyles}
 
-To set a color for GPS tracks and category for bookmarks used by default, go to app Settings &gt; Default Styles.
-
 #### Default track style
 
 Selected style is a default line style for the newly recorded and imported GPS tracks:
@@ -169,7 +167,9 @@ _3. By altitude:_
 
 #### Default bookmark category
 
-Selected category is a default icon for newly created and imported bookmarks:
+The category you select will become the default icon for newly created and imported bookmarks.
+
+\[!!\]
 
 ## Advanced Settings {#advanced}
 
