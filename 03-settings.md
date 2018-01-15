@@ -194,6 +194,8 @@ To change the language, select one from the Voice Instructions list:
 
 **Note: **as the App uses text-to-speech \(TTS\) engine instead of pre-recorded audio, correct pronunciation depends on the TTS engine.
 
+**Tip**: If you connect your iOS device to the Bluetooth-capable stereo system in a car, you will hear voice instructions over your car speakers.
+
 ### Data Backup {#dataBackup}
 
 Backing up data is a great way to minimize accidental data loss and restore the most important geodata on your device.
