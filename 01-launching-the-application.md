@@ -94,19 +94,19 @@ To enable the **driving mode**, double tap the _Location_ button:
 
 While in driving mode, the app will orient the map in the direction you are currently moving. If you stop moving, the map will be oriented by compass.
 
-**Note**: the accuracy of the compass can be affected by magnetic or environmental interference \(e.g. the magnets in earbuds\) and compass may need to be calibrated from time to time. When the device displays the calibration alert, tilt the screen to move the red ball around in a circle.
+**Note**: the accuracy of the compass can be affected by magnetic or environmental interference \(e.g. the magnets in earbuds\) and the compass may need to be calibrated from time to time. When the device displays the calibration alert, rotate the screen to move the red ball around in a circle.
 
 ### Location services {#locationServices}
 
-Every time you see this icon ![](/assets/icon_question.png), it means that your GPS currently cannot get information about your location. It may also appear when Location Services is disabled on your device.
+Every time you see this icon ![](/assets/icon_question.png), it means that your GPS cannot currently get accurate information about your location. It may also appear when Location Services is disabled on your device.
 
-Enable Location Services on your device and give your permission to Galileo app to determine your location in system Settings &gt; Privacy &gt; Location Services.
+Enable Location Services on your device and give your permission to the Galileo app to determine your location in system Settings &gt; Privacy &gt; Location Services.
 
-**Note**: depending on your device and available services, Location Services uses a combination of cellular, Wi-Fi, Bluetooth, and GPS to determine your location. If you're not within a clear line of sight to GPS satellites, your device can determine your location using crowd-sourced Wi-Fi and cell tower locations or even iBeacons.
+**Note**: depending on your device and available services, Location Services uses a combination of cellular, Wi-Fi, Bluetooth, and GPS to determine your location. If you're not within a clear line of sight to GPS satellites, your device will automatically determine your location using crowd-sourced Wi-Fi and cell tower locations or even iBeacons any of which are in range \(These may vary in availability in more remote areas\).
 
 ## Trip Computer {#tripComputer}
 
-Trip monitor panel provides you all the necessary trip statistics while moving. If enabled, it will display such useful information as \(from left to right\):
+The trip computer panel provides you all the necessary trip statistics while moving. If enabled, it will display such useful information as \(from left to right\):
 
 ![](/assets/trip_monitor_1.png)
 
@@ -120,5 +120,5 @@ While recording a GPS track it will additionally display \(from left to right\):
 * distance traveled
 * trip duration
 
-To hide trip monitor panel from map view, go to app Settings &gt; Show Trip Computer.
+To hide the trip computer panel from map view, go to app Settings &gt; Show Trip Computer.
 
