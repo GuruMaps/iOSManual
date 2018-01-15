@@ -9,9 +9,9 @@ To open the search screen, tap the ![](/assets/icon_serach.png) search button. T
 Search results will be displayed on the map and in the list below the search field. It is also possible to narrow down your search using the “Search around me” option at the bottom.  
 Tap an any of the results in the list to open its entry or back to the map to overview them all. The search will be refined as you browse the map automatically and only results meeting the selected search criteria will be displayed on the visible area.
 
-If search results are found, the search icon will be changed to the ![](/assets/icon_search_results.png). To reset search results, tap the clear ![](/assets/icon_cross.png) icon.  
+If search results are found, the search icon will be changed to the ![](/assets/icon_search_results.png). To reset search results, tap the clear ![](/assets/icon_cross.png) icon.
 
-**Note**: You can use your voice to perform search instead of typing when you're connected to the Internet. Just tap the search field, and then tap the microphone icon next to the spacebar on the iOS keyboard to start dictating. When you’re finished, tap Done and then wait for your words to be processed. It can take a few seconds for text to appear.
+**Tip**: You can use your voice to perform search instead of typing when you're connected to the Internet. Just tap the search field, and then tap the microphone icon next to the spacebar on the iOS keyboard to start dictating. When you’re finished, tap Done and then wait for your words to be processed. It can take a few seconds for text to appear.
 
 Performing an offline search in the following ways allows you to search places fast and easy:
 
@@ -29,25 +29,27 @@ There are predefined categories available on the screen for a quick search. Just
 
 ![](/assets/search_1.png)
 
-You can also narrow your search by entering keyword after the category name as shown below:
+You can also narrow your search by entering the keyword after the category name as shown below:
 
 ![](/assets/search_2.png)
 
 ### Search by name
 
-Just start typing the name of the object you are looking for. As you type, you'll see a list of search results and suggestions:
+Just start typing the name of the object \(POI\) you are looking for. As you type, you'll see a list of search results and suggestions:
 
 ![](/assets/search_3.png)
 
 **Tip**: It is not necessary to type punctuation or worry about capital letters, but the search will not recognize a misspelling.
 
-### Coordinates search
+### Search by GPS coordinates
 
 If you know the exact coordinates of a location, you can simply enter them into the search field to locate it on the map:
 
 ![](/assets/search_4.png)
 
-**Tip**: You may enter the coordinates in any of the supported coordinate formats. Read also: [Units Format](03-settings.md#unitsFormat).
+Read also: [Units Format](03-settings.md#unitsFormat).
+
+**Tip**: You may enter the coordinates in any of the supported coordinate formats. To avoid confusion while inputting coordinates from the keyboard it is possible to use spaces instead of \(‘\) Right Single Quotation Mark, \(”\) Right Double Quotation Mark or \(°\) Degree Sign.
 
 ## Navigation {#navigation}
 
@@ -76,7 +78,7 @@ Route will be shown for a **drive mode** by default, but you may have to switch 
 
 ![](/assets/route_set_2.png)
 
-To begin navigation, tap ![](/assets/play_icon.png) icon.   
+To begin navigation, tap ![](/assets/play_icon.png) icon.  
 To stop your route, tap ![](/assets/pause_button.png) icon, then Stop movement option from menu.  
 If you miss a turn or intentionally go the wrong way from the planned route, the app will automatically recalculate the route \(**internet connection required**\).
 
