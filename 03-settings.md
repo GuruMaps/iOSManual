@@ -1,36 +1,43 @@
- # Settings
+# Settings
 
-> Galileo Offline Maps is available in a ready-to-use state and app settings should be considered as optional and more advanced way of using the app. Settings lets you configure app options, purchase additional features and manage geo data representation.
+> Galileo Offline Maps is available in a ready-to-use state and app settings should be considered as optional and more advanced way of using the App. Settings lets you configure app options, purchase additional features and manage routing geo data representation.
 
 ## Map Sources {#MapSources}
 
 To switch to another map to display, select **Map Source** menu in app settings. There are two types of maps you can use within the app: offline and online maps.
 
 #### Offline maps
-						
-Vector map source is set by default. Once you’ve downloaded it (**internet connection required**), it will be available offline.
+
+Vector map source is set by default. Once you’ve downloaded the map \(**internet connection required**\), it will be available offline.  
 Vector maps are detailed, smooth, fast and provide high quality image rendered in real time on the device. It takes up less storage space than raster maps.
 
-**Note**: you can also use your own maps in .sqlitedb and .mbtiles formats, previously created on computer and then imported into your device. Such maps can be viewed offline even when your mobile device has no internet connection.
+Read also: Vector Maps Settings.
 
-	 						 						
+**Note**: you can also use your own maps in .sqlitedb and .mbtiles formats, previously created on computer and then imported into your device. Such maps can be viewed offline even when your mobile device has no internet connection. However any personal raster/tile maps will use considerably more space than vector maps you may install.
+
+Read also: Offline Maps Import.
+
 #### Online maps
-						
+
 There is a list of built-in raster map sources available online:
-				 						
+
 * HikeBikeMap
 * Humanitarian OSM
 * OpenBusMap
 * OpenCycleMap
 * OpenStreetMap
-* Stamen – Terrain (USA only)
+* Stamen – Terrain \(USA only\)
 * Stamen – Toner
-						 						
-Caching is always enabled – the app saves all recently viewed map images in your cache and keeps them available for offline usage. To save maps, navigate to the area you are going to visit and zoom-in while you have access to the Internet.
-						 						
+
+Caching is always enabled – the app saves all recently viewed map images in your cache and keeps them available for offline usage. To save maps, navigate to the area you are going to visit and zoom-in to the lowest viewable level of detail while you have access to the Internet. The level of saved detail will reflect the zoom level you viewed.
+
+Read also: Cache Info. 
+
 **Note**: map download speed can vary while using an online sources, and depends on the speed of your Internet connection and the speed of the server from where the map is downloaded.
 
-In addition to built-in online raster maps, Galileo Offline Maps also supports custom online maps. You can add any map source you like using a special XML file that contains description of map provider.
+In addition to built-in online raster maps, Galileo Offline Maps also supports custom online maps. You can add any source of maps you like using a special XML file that contains formatted description from the map provider.
+
+Read also: Custom Map Sources.
 
 ## Network Mode {#NetworkMode}
 
@@ -42,7 +49,6 @@ This setting lets you configure how the app is allowed to connect to the network
 * **WiFi** in case you want the app to load data only over the Wi-Fi network, if available.
 * **Offline** allows to use the app completely offline and not to worry about roaming charges. Even if you have full internet connection, the app will act like it is ‘off’.
 
-
 ## Vector Maps Settings {#VectorMapsSettings}
 
 This section describes the vector maps related settings within the app.
@@ -50,31 +56,29 @@ This section describes the vector maps related settings within the app.
 ### Download Maps
 
 Vector maps are available and free for download within the app:
- 
+
 ![](/assets/download_map_3.png)
 
-To **download a map of the selected country** tap the ![](/assets/icon_download_map.png) button next to the country name in Available Maps list.
-To **pause a download**, tap the cell with the country name tap it again to resume a download,
-To **go to downloaded map** tap the  button,
+To **download a map of the selected country** tap the ![](/assets/icon_download_map.png) button next to the country name in Available Maps list.  
+To **pause a download**, tap the cell with the country name tap it again to resume a download,  
+To **go to downloaded map** tap the  button,  
 to **remove a map** swipe your finger across the country name from right to left, then tap the Delete button, or use the Edit button.
 
 As OpenStreetMap data is constantly updated by thousands of volunteers around the world, map updates are available from time to time within the app. In Galileo app all vector map updates are free and distributed automatically. If there is an update for downloaded map, you will see Update button near the downloaded map name.
 
 To **update all your downloaded maps** tap the “Update All” button.
 
-
 ### Font and Language {#FontAndLanguage}
 
-#### Font size 
+#### Font size
 
-You can configure Galileo to display all text on a vector map at a comfortable font size. To increase, decrease, or change the default font size, go to app Settings > Font and Languages:
+You can configure Galileo to display all text on a vector map at a comfortable font size. To increase, decrease, or change the default font size, go to app Settings &gt; Font and Languages:
 
 ![](/assets/font_and_language.png)
 
 #### Preferred language order
 
 In some regions objects on the map in addition to local names have names in other languages. Map will show the names on the first language in this list if exists. It may be useful for multilingual countries, such as Belgium where Dutch, French and German share official language status.
-
 
 ### Map Features {#mapFeatures}
 
@@ -97,15 +101,14 @@ In addition to the basic appearance settings, you can select the objects you wis
 * Train and metro stations
 * Building names and numbers
 
-
 ## Appearance Settings {#appearance}
 
-The following group of settings is used to configure how the main map looks: 
+The following group of settings is used to configure how the main map looks:
 
-![](/assets/settings_appearance.png) 
+![](/assets/settings_appearance.png)
 
 ### Show Trip Computer {#showTripComputer}
- 
+
 To hide trip monitor panel from the map view, turn off this option.
 
 ### Show Coordinates {#showCoordinates}
@@ -113,7 +116,6 @@ To hide trip monitor panel from the map view, turn off this option.
 To enable the real-time display of coordinates on the map, turn on this option. If enabled, crosshairs will appear in the center of the map and coordinates for the crosshairs will be beneath the map scale bar in selected format as well as the current zoom level:
 
 ![](/assets/show_coordinates.png)
-
 
 ### Show Zoom Buttons {#showZoomButtons}
 
@@ -129,19 +131,18 @@ To make visible bookmark name on the map, turn this option on. If enabled, bookm
 
 ### Screen Auto-Lock {#screenAutoLock}
 
-The screen of your device will be turned off automatically after a specified period of time to save on power.
+The screen of your device will be turned off automatically after a specified period of time to save on power.  
 Turn this option off if you want your device not to lock the screen while using the Galileo app.
 
-### New Buttons Layout 
+### New Buttons Layout
 
 Turn this option on to get all the major interface options aligned to the right to be accessed quickly with one finger:
 
 ![](/assets/new_buttons_layout.png)
 
-
 ### Default Styles {#defaultStyles}
 
-To set a color for GPS tracks and category for bookmarks used by default, go to app Settings &gt; Default Styles.  
+To set a color for GPS tracks and category for bookmarks used by default, go to app Settings &gt; Default Styles.
 
 #### Default track style
 
@@ -159,27 +160,24 @@ _3. By altitude:_
 
 ![](/assets/track_appearance_3.png)
 
-
 #### Default bookmark category
 
 Selected category is a default icon for newly created and imported bookmarks:
-
 
 ## Advanced Settings {#advanced}
 
 ### Sync {#sync}
 
-Galileo Offline Maps allows you to synchronize all your data to make your collections visible and available through all your iOS devices using your Facebook or iCloud account.
-App uses Facebook/iCloud login only for authentication, this does not let the Galileo post or share your data.
-To enable synchronization feature, go to the app Settings > Sync and select the appropriate way to authenticate.
+Galileo Offline Maps allows you to synchronize all your data to make your collections visible and available through all your iOS devices using your Facebook or iCloud account.  
+App uses Facebook/iCloud login only for authentication, this does not let the Galileo post or share your data.  
+To enable synchronization feature, go to the app Settings &gt; Sync and select the appropriate way to authenticate.  
 **Note**: use the same login on all your devices to keep the data synchronized.
 
 ![](/assets/sync.png)
 
-
 ### Navigation {#navigation}
 
-The default language of voice instructions you hear while navigating a route depends on the language your device is set to use. 
+The default language of voice instructions you hear while navigating a route depends on the language your device is set to use.   
 To change the language, select one from the Voice Instructions list:
 
 ![](/assets/settings_navigation.png)
@@ -200,7 +198,7 @@ When the backup finished successfully, you'll see the name of the device along w
 
 Backups are stored on your device and will be removed automatically when the app is removed. To prevent data loss, we recommend to save your backups regularly.
 
-The best way to keep your backups available across all your iOS devices is to use the Files app. There you can set up your other cloud services (Box, Dropbox, OneDrive, Adobe Creative Cloud, Google Drive, etc) to access them in the Files app too.
+The best way to keep your backups available across all your iOS devices is to use the Files app. There you can set up your other cloud services \(Box, Dropbox, OneDrive, Adobe Creative Cloud, Google Drive, etc\) to access them in the Files app too.
 
 ![](/assets/data_backup_share.png)
 
@@ -224,30 +222,28 @@ All loaded map tiles will be automatically saved to your device's storage and ca
 
 ![](/assets/cache_info.png)
 
-
 ### GPS Filtering {#gpsFiltering}
 
-Galileo Offline Maps app supports GPS data filtering in Settings &gt; GPS Filtering.  
+Galileo Offline Maps app supports GPS data filtering in Settings &gt; GPS Filtering.
 
 ![](/assets/gps_filtering.png)
 
 #### Accuracy Threshold
 
-Filter by the minimum accuracy at which the new points will be accepted. New points will be added to GPS track while recording if the accuracy is lower than selected (recommended value is 150 m).
+Filter by the minimum accuracy at which the new points will be accepted. New points will be added to GPS track while recording if the accuracy is lower than selected \(recommended value is 150 m\).
 
 **Example**: You are recording your GPS track while walking around your neighbourhood and you have entered a supermarket. Tall walls, roofs and other obstructions can block the signal from GPS satellites and the device cannot determine your location accurately enough. You may enable the accuracy filter to set the required accuracy and ignore inaccurate GPS data. If the received signal has lower than the required accuracy, that point will not be recorded in the track.
 
 #### Distance Threshold
 
-Filter by the minimum distance travelled before a new point will be recorded. New points will be added to GPS track while recording if the distance between them is greater than selected (recommended value is 5 m).
+Filter by the minimum distance travelled before a new point will be recorded. New points will be added to GPS track while recording if the distance between them is greater than selected \(recommended value is 5 m\).
 
 **Example**: You are recording your GPS track while jogging, then you meet a friend and stop to talk to him. As the GPS sends location coordinates every second, too many points will be recorded on the same spot while you are talking, and the recorded track will take up more space. You may enable the distance filter to ignore GPS points if they are too close to each other. New points will start recording as you exceed the distance selected in the filter.
 
-
 ### Units Format {#unitsFormat}
 
-To set the units system and coordinates format you would like to use within the Galileo Offline Maps, go to Settings &gt; Units Format. 
- 
+To set the units system and coordinates format you would like to use within the Galileo Offline Maps, go to Settings &gt; Units Format.
+
 #### Units system
 
 The following units of measure for distance and speed are available to select from:
@@ -270,5 +266,5 @@ In Galileo Offline Maps you can choose to represent your coordinates in any way 
 
 ### Contact Us
 
-If you have faced a problem - here you can contact Support via email (**internet connection required**).
+If you have faced a problem - here you can contact Support via email \(**internet connection required**\).
 
