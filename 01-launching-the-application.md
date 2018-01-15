@@ -11,9 +11,8 @@ When launching the Galileo application on your device for the first time, you wi
 
 ![](/assets/permission_location.png)
 
-**Note**: Galileo app depends on data services and location-based information might be unavailable, inaccurate, or incomplete unless you turn on Location Services. 
-To turn Location Services on or off, go to Settings > Privacy > Location Services.
-
+**Note**: Galileo app depends on data services and location-based information might be unavailable, inaccurate, or incomplete unless you turn on Location Services.   
+To turn Location Services on or off, go to Settings &gt; Privacy &gt; Location Services.
 
 ### Notifications {#Notifications}
 
@@ -21,63 +20,59 @@ App also have to request permission to send you push notifications with the foll
 
 ![](/assets/permission_notification.png)
 
-
 ## Download a Map {#MapDownload}
 
 When you allow the app to use your location, the app will ask you to download the map for your region when launching the app for the first time:
 
 ![](/assets/download_map_1.png)
 
-
 Other regions will be available for download while browsing and zooming directly on the map or from the app settings at [Download Maps](03-settings.md#downloadMaps) menu.
 
 ![](/assets/download_map_2.png)
 
-
 ## Navigating a Map {#NavigatingAMap}
 
 There are standard and well known gestures such as tap, drag and pinch which are used to interact with the app.  
-To **move the map**, drag it with your finger in the direction you want to position the map:  
+To **move the map**, drag it with your finger in the direction you want to position the map:
 
-![](/assets/finger-moving.png)  
+![](/assets/finger-moving.png)
 
-To **zoom in**, use double tap or pinch your thumb and finger apart:  
+To **zoom in**, use double tap or pinch your thumb and finger apart:
 
-![](/assets/double-tap.png) ![](/assets/expanding.png)  
+![](/assets/double-tap.png) ![](/assets/expanding.png)
 
-To **zoom out**, tap with two fingers or pinch your thumb and finger together:  
+To **zoom out**, tap with two fingers or pinch your thumb and finger together:
 
-![](/assets/two-finger-tap.png) ![](/assets/reducing-size.png)  
+![](/assets/two-finger-tap.png) ![](/assets/reducing-size.png)
 
-**Tip**: to zoom in/out with only one finger, double-tap the map, hold the second tap and drag your finger up or down.  
+**Tip**: to zoom in/out with only one finger, double-tap the map, hold the second tap and drag your finger up or down.
 
-To **zoom using on-map +/- buttons**, go to app [Settings &gt; Show Zoom Buttons](03-settings.md#showZoomButtons) to enable them.  
+To **zoom using on-map +/- buttons**, go to app [Settings &gt; Show Zoom Buttons](03-settings.md#showZoomButtons) to enable them.
 
 To **rotate the map**, hold the map with two fingers and drag them simultaneously in a circular motion.  
 **Note**: to enable this feature you should go to Settings&gt;Galileo&gt;Allow map rotation
 
 ![](/assets/hand_gesture.png)
 
-Tap the map and hold to bring up the pop-up with available options \(from left to right\):  
-* Bookmark this location  
-* Mark your current location  
-* Get route directions to this location  
+Tap the map and hold to bring up the pop-up with available options \(from left to right\):
+
+* Bookmark this location, 
+* Mark your current location,  
+* Create route and directions to this location.
 
 ![](/assets/map_popup.png)
 
-To **measure the distance** between two points as the crow flies, tap your starting and destination points with your fingers on the map and hold to trace the path. A dashed line will appear on the map between the two locations, and the estimated distance will then be displayed: 
+To measure the straight line distance between two points “as the crow flies”, tap your starting and destination points simultaneously with your fingers on the map and hold to trace the path. A dashed line will appear on the map between the two locations, and the estimated distance will then be displayed.
 
 ![](/assets/measuring_distance.png)
 
 # Interface Overview {#interfaceOverview}
 
-> This section will provide you information about basic usage and interactions in Galileo.
-
 ## Application Modes {#applicationModes}
 
 ### Location button {#locationButton}
 
-The app works in multiple modes depending on number of taps on _Location_ button with the following sign ![](/assets/icon_gps.png). Your position is shown on the map as a blue marker when you are staying and as a blue arrow when you are moving:
+The App works in multiple modes depending on the number of taps on the _Location_ button with the following sign ![](/assets/icon_gps.png). Your position is shown on the map as a blue marker where you are currently position and as a blue arrow when you are moving:  . 
 
 ![](/assets/map_location.png) ![](/assets/map_driving.png)
 
@@ -105,7 +100,7 @@ While in driving mode, the app will orient the map in the direction you are curr
 
 Every time you see this icon ![](/assets/icon_question.png), it means that your GPS currently cannot get information about your location. It may also appear when Location Services is disabled on your device.
 
-Enable Location Services on your device and give your permission to Galileo app to determine your location in system Settings > Privacy > Location Services.
+Enable Location Services on your device and give your permission to Galileo app to determine your location in system Settings &gt; Privacy &gt; Location Services.
 
 **Note**: depending on your device and available services, Location Services uses a combination of cellular, Wi-Fi, Bluetooth, and GPS to determine your location. If you're not within a clear line of sight to GPS satellites, your device can determine your location using crowd-sourced Wi-Fi and cell tower locations or even iBeacons.
 
