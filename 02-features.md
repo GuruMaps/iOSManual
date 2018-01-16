@@ -68,7 +68,7 @@ Type city, zip or address of any location on the world map \(in that sequence wi
 
 Galileo Offline Maps gives you the ability to find the best route and get step by step directions for your drive or walk.
 
-**Note**: building a route requires internet connection
+**Note**: building a route requires Internet connection
 
 #### Create route
 
@@ -87,17 +87,17 @@ A map will appear with your driving route highlighted in blue with some route in
 
 ![](/assets/navigation.png)
 
-Route will be shown for a **drive mode** by default, but you may have to switch it to the appropriate one for your needs:
+Route will be shown for **drive** mode by default, but you may choose the appropriate mode for your needs:
 
 ![](/assets/route_set_2.png)
 
 To begin navigation, tap ![](/assets/play_icon.png) icon.  
-To stop your route, tap ![](/assets/pause_button.png) icon, then Stop movement option from menu.  
-If you miss a turn or intentionally go the wrong way from the planned route, the app will automatically recalculate the route \(**internet connection required**\).
+To stop your route, tap ![](/assets/pause_button.png) icon, then **Stop movement** option from menu.  
+If you miss a turn or intentionally go the wrong way from the planned route, the App will automatically recalculate the route \(**Internet connection required**\).
 
 #### Edit route
 
-To edit your route, tap ![](/assets/pause_button.png)  icon, then **Edit route** option from menu. There is possible to add additional stops along the way by long tap on the map:
+To edit your route, tap ![](/assets/pause_button.png)  icon, then **Edit route** option from menu. It is possible to add additional transit points \(also known as waypoints\) or stops to the route by a long tap on the map for each you want to add: 
 
 ![](/assets/route_editing_1.png)
 
@@ -105,7 +105,7 @@ These signs will appear on the map along your route:
 
 ![](/assets/transit_point.png) — for transit points, ![](/assets/stop_point.png) — for stop points.
 
-To edit or delete the waypoint, just tap it on the map to bring up the pop-up menu:
+To edit or delete the point, just tap it on the map to bring up the pop-up menu:
 
 ![](/assets/route_editing_2.png)
 
