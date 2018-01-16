@@ -109,13 +109,15 @@ To edit or delete the point, just tap it on the map to bring up the pop-up menu:
 
 ![](/assets/route_editing_2.png)
 
-#### Voice directions
+#### Voice instructions
 
-When you’re navigating to a place, you can hear voice directions. You can stop receiving directions at any time while in navigation mode by tapping the sound icon ![](/assets/sound_icon.png).
+When you’re navigating to a place, you can hear navigation directions. You can stop receiving directions at any time while in navigation mode by tapping the sound icon ![](/assets/sound_icon.png).
 
-**Tip**: A long tap on the sound icon allows to choose one of the supported languages, which will be used for voice instructions. You can also change the language selection to hear the driving directions in the App Settings &gt; Navigation.
+A long tap on the sound icon allows to choose one of the supported languages, which will be used for voice instructions. You can also change the language selection to hear the navigation instructions in the app Settings &gt; Navigation.
 
-			
+**Tip**: If you pair your iOS device with your Bluetooth capable device so you can stream voice instructions from the Galileo app to your Helmet devices and automobile speaker system. How it works: when listening to music the voice instructions would lower the music volume automatically and give directions and then would automatically go back to the normal volume of the mucis once voice instructions finished. 
+
+Read also: [https://support.apple.com/en-ie/HT204091](https://support.apple.com/en-ie/HT204091).
 
 ## Importing KML/KMZ/GPX Files {#importing}
 
