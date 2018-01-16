@@ -115,7 +115,7 @@ When you’re navigating to a place, you can hear navigation directions. You can
 
 A long tap on the sound icon allows to choose one of the supported languages, which will be used for voice instructions. You can also change the language selection to hear the navigation instructions in the app Settings &gt; Navigation.
 
-**Tip**: If you pair your iOS device with your Bluetooth capable device so you can stream voice instructions from the Galileo app to your Helmet devices and automobile speaker system. How it works: when listening to music the voice instructions would lower the music volume automatically and give directions and then would automatically go back to the normal volume of the mucis once voice instructions finished. 
+**Tip**: If you pair your iOS device with your Bluetooth capable device so you can stream voice instructions from the Galileo app to your Helmet devices and automobile speaker system. How it works: when listening to music the voice instructions would lower the music volume automatically and give directions and then would automatically go back to the normal volume of the mucis once voice instructions finished.
 
 Read also: [https://support.apple.com/en-ie/HT204091](https://support.apple.com/en-ie/HT204091).
 
@@ -129,19 +129,23 @@ If you have a KML/KMZ/GPX file that someone shared with you via email, you can v
 
 1. Open the message containing the KML/KMZ/GPX file as an attachment.
 2. Tap and hold the attached KML/KMZ/GPX file name until a menu comes up.
-3. Choose the "Copy to Galileo" option to initiate the file import process.
+3. Choose the **Copy to Galileo** option to initiate the file import process.
 
 ![](/assets/track_import_email.png)
 
 #### File Manager/Dropbox
 
-If you saved KML/KMZ/GPX file on your device storage you can add it to your Collections in Galileo by clicking on them from any of installed file managers on your device.
+If you store your KML/KMZ/GPX files in the iOS Files app or other cloud service \(e.g. Dropbox\):
+
+1. Open the file you want to import, 
+2. Tap the \[!!\] icon , 
+3. Select **Copy to Galileo** button.
 
 #### URL
 
 In case you have a web link to the KML/KMZ/GPX file:  
 1. Tap the link to open it in your browser.  
-2. Select "Copy to Galileo" option to initiate the import process.
+2. Select **Copy to Galileo** option to initiate the import process.
 
 ![](/assets/track_import_url.png)
 
