@@ -233,11 +233,15 @@ To **show the direction to the bookmark**, tap the **Bearing Line** switch optio
 To **view the bookmark on the map** tap the ![](/assets/icon_show_on_map.png) icon.  It will open the map centered on the selected bookmark.
 
 To **hide the bookmark** from the map, scroll down the bookmark details screen and tap the ![](/assets/icon_hide.png) icon. To reveal it again, tap the ![](/assets/icon_show.png) icon.  
-To create a route to this bookmark, tap ![](/assets/route_to_icon.png)  icon.
+To create a route to this bookmark, tap ![](/assets/route_to_icon.png) \[!!\] icon.
 
 To **export a bookmark**, tap the ![](/assets/icon_share.png) icon at the bottom of the bookmark details screen and choose the method to save your data.
 
 To **delete a bookmark**, tap the ![](/assets/icon_trash.png) icon at the bottom of the bookmark details screen.
+
+**Tip**: The best way to export several bookmarks at once is to save them in one collection and export the whole collection.
+
+**Read also: **Exporting Geodata. \[!!\]
 
 ## GPS Tracks {#GPSTracks}
 
@@ -245,34 +249,42 @@ Galileo Offline Maps lets you record your movements, view detailed statistics an
 
 #### Record GPS Track
 
-Tap the **REC** button on the screen with the map. It will change dot color from gray to red. If you recorded track before, you will be suggested to continue the last track recording, or to start the new one. Tap the REC button again and the recording stops:
+To **record GPS Track**, tap the **REC** button on the map. It will change the “track dot” color from gray to red. If you recorded track before, you will be prompted to continue the last track recording, or to start a new one. Tap the **REC** button again and the recording stops:
+
+Tap the REC button again and the recording stops:
 
 * ![](/assets/icon_rec_disabled.png) — track is not recording,
 * ![](/assets/icon_rec_enabled.png) — track is recording now.
 
-**Tip**: while a GPS track is being recorded, a numbered badge appears over the upper-right corner of an app icon on the Home screen:
+**Tip**: while a GPS track is being recorded, a numbered badge appears over the upper-right corner of an App icon on the Home screen:
 
 ![](/assets/app_active.png)
 
-**Note**: to record GPS tracks in background, make sure you have allowed the background activity for Galileo app in Settings &gt; General &gt; Background App Refresh.
+**Note**: to record GPS tracks in the background, make sure you have allowed the background activity for Galileo app in Settings &gt; General &gt; Background App Refresh.
 
 ![](/assets/track_example.png)
 
-To **view track details** tap the ![](/assets/icon_info.png) icon next to the track name on the map or open it from the My Collections list.
+To **view track details**, tap the ![](/assets/icon_info.png) icon next to the track name on the map or open it from the **My Collections** list.
 
-To **edit track name and description** tap the name or description field and use the onscreen keyboard to type a new text.
+To **edit track name and description**, tap the name or description field and use the onscreen keyboard to type a new text.
 
-To **move a track to another collection** tap the field with the collection name and select the new name from the list of available collections, then tap Back.
+To **move a track to another collection**, tap the field with the collection name and select the new name from the list of available collections, then tap Back.
 
-To **change track style** tap the desired color or set the track color based on speed or altitude.
+To **change the track style**, tap the desired color or set the track color based on speed or altitude.
 
-To **view track on the map** tap ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected GPS track.
+To **view the track on the map**, tap the ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected GPS track.
 
-To **hide a track from the map** scroll down the track details screen and tap ![](/assets/icon_hide.png) icon. To reveal it tap ![](/assets/icon_show.png) icon.
+To **hide the track from the map**, scroll down the track details screen and tap the ![](/assets/icon_hide.png) icon. To reveal it again, tap the ![](/assets/icon_show.png) icon.
 
-To **export a track** tap the ![](/assets/icon_share.png) icon at the bottom of the track details screen and choose the way to save your data.
+To **export a track**, tap the ![](/assets/icon_share.png) icon at the bottom of the track details screen and choose the way to save your data.
 
-To **delete a track** tap the ![](/assets/icon_trash.png) icon at the bottom of the track details screen.
+To **delete a track**, tap the ![](/assets/icon_trash.png) icon at the bottom of the track details screen.
+
+**Tip**: The best way to export several tracks at once is to save them in one collection and export the whole collection.
+
+**Read also: **Exporting Geodata. \[!!\]
+
+
 
 ## Collections {#collections}
 
