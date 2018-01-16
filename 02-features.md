@@ -154,9 +154,9 @@ In case you have a web link to the KML/KMZ/GPX file:
 * Keep several collections,
 * Save to one collection.
 
-\[!!\] 
+\[!!\]
 
- ![](/assets/IMG_5504.png)
+![](/assets/IMG_5504.png)
 
 ## Exporting Geodata {#exporting}
 
@@ -178,6 +178,20 @@ Create a shared link if you want anyone to be able to click a link to preview of
 
 1. Tap the ![](/assets/icon_share.png) icon on details screen.
 2. Select the method \(AirDrop, email, text message or social networks\) you want to share your link through.
+
+#### Export using iTunes File Sharing
+
+Export data using File Sharing. The Galileo supports [File Sharing](http://support.apple.com/en-us/HT201301) option that allows you to copy exported files from Galileo to your computer:
+
+1. Tap the ![](/assets/icon_share.png) icon on details screen.
+2. Tap **Save as KML** or **Save as GPX** button.
+3. Then tap **Save to the App shared folder **option.
+
+Exported file will Appear in the Galileo File Sharing section in iTunes.
+
+Read also: Getting Exported Files. \[!!\]
+
+
 
 ## Bookmarks {#bookmarks}
 
