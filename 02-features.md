@@ -226,9 +226,7 @@ To **copy coordinates**, tap the \[!!\] icon next to coordinates. It will bring 
 
 To **edit coordinates**, tap the coordinates to start edit \(X ,Y\) GPS coordinates.
 
-To **show the direction to the bookmark**, tap the **Bearing Line** switch option to ON.
-
-**Note**: The bearing line to only one bookmark can be displayed on the map at any given moment.
+To **show the direction to the bookmark**, tap the **Bearing Line** switch option to **ON**. The bearing line to only one bookmark can be displayed on the map at any given moment.
 
 To **view the bookmark on the map** tap the ![](/assets/icon_show_on_map.png) icon.  It will open the map centered on the selected bookmark.
 
@@ -245,7 +243,7 @@ To **delete a bookmark**, tap the ![](/assets/icon_trash.png) icon at the bottom
 
 ## GPS Tracks {#GPSTracks}
 
-Galileo Offline Maps lets you record your movements, view detailed statistics and export recorded GPS tracks in most common formats.
+Galileo Offline Maps lets you record your movements, view detailed statistics and export recorded GPS tracks in most common formats \(feature available as an in-app purchase\).
 
 #### Record GPS Track
 
@@ -284,19 +282,17 @@ To **delete a track**, tap the ![](/assets/icon_trash.png) icon at the bottom of
 
 **Read also: **Exporting Geodata. \[!!\]
 
-
-
 ## Collections {#collections}
 
 Collections are groups of bookmarks and GPS tracks, like folders on your desktop. Organising items into collections makes it easy to keep your travel itineraries separate from each other.
 
 #### My Collections List
 
-To open My Collections list, tap the ![](/assets/icon_my_collections.png) icon on the map.
+To **open My Collections list**, tap the ![](/assets/icon_my_collections.png) icon on the map.
 
-To create new collection, tap the ![](/assets/plus.png) button at the bottom of the My Collections list. Enter details, then tap Done.
+To **create new collection**, tap the ![](/assets/plus.png) button at the bottom of the My Collections list. Enter details, then tap Done.
 
-To view a set of bookmarks and GPS track within the collection, tap the collection name in list.
+To **view a set of bookmarks and GPS tracks** within the collection, tap the collection name in list.
 
 You can easily sort collections and its content by date created, distance and file name in the list:
 
@@ -304,35 +300,41 @@ You can easily sort collections and its content by date created, distance and fi
 * Nearest — collections, containing locations that are the closest to your current location, are listed at the top,
 * A-Z — items are sorted in alphabetical order.
 
-To **search in the list** tap the search field to reveal the onscreen keyboard and start typing. The list will dynamically display collections containing items that match your search criteria as you type.
+To **search in the list**, tap the search field to reveal the onscreen keyboard and start typing. The list will dynamically display collections containing items that match your search criteria as you type.
 
-To **delete from the list** swipe left your finger horizontally across the collection, bookmark or track name you want to delete in My Collections list, then tap the Delete icon.
+To **delete from the list**, swipe left your finger horizontally across the collection, bookmark or track name you want to delete in My Collections list, then tap the Delete icon.
 
-To **show/hide item** tap the ![](/assets/icon_hide.png) icon to hide the track or bookmark from the map. Tap the ![](/assets/icon_show.png) icon to reveal it again. The text font color changes from black to gray: black – for visible, gray – for hidden items:
+To **show/hide item**, tap the ![](/assets/icon_hide.png) icon to hide the track or bookmark from the map. Tap the ![](/assets/icon_show.png) icon to reveal it again. The text font color changes from black to gray: black – for visible, gray – for hidden items:
 
-![](/assets/collections_visible.png)
+![](/assets/collections_visible.png) 
 
 Tap and hold any element or tap the Edit button to delete selected elements or move them to another collection in bulk.
 
 ![](/assets/collections_choosing.png)
 
+![](https://lh5.googleusercontent.com/rFr4pOInXjPnrQvNgdGh7O_LI0P9Q2vvLLKMJXnS3ii7OQT1_DlJUDCU6UkX1z6jIISG0tZnScfw6o98jkHR9HMiVNfQ7Oo_bVCHk77N31tvBSd3GK7mU1JvOzcGU7r5KaLxYR2Z)— select all, ![](https://lh6.googleusercontent.com/kEeo3McG-a2iBFhsusltu0p_B1VtaPpB2-Q_Bse7S2uZRLgdwPKwlB7HaXuRtJwHnjab_UYu5X-HMVAr1HWfGVDHcl1GyGVdM7GNh1zLTgWMbnbdPAa7oj_EHViXs6IuexvQW7VA) — move to,![](https://lh5.googleusercontent.com/yVrs_kG5kfBepECvNLXZJZcEh78hm4arzk4brHGFHb1ub9K8umnWCUY9XIdHUcaRJXIAqdK0ieTMV3ql0PEIibPGr2HwxCaWRsV6LzH1pjwp9jsFwKlGLkBKVsMy68XXL9N-SGVc)— delete.
+
+\[!!\]
+
 #### Collections Details
 
-To **view collection details** tap ![](/assets/icon_info.png) icon next to the name in the My Collections list.
+To **view collection details**, tap the ![](/assets/icon_info.png) icon next to the name in the **My Collections** list.
 
-To **edit collection name and description** tap the name or description field and use the onscreen keyboard to type a new text.
+To **edit collection name and description**, tap the name or description field and use the onscreen keyboard to type a new text.
 
-To **set a collection as default** tap the Default Collection switch to ON to save newly added bookmarks and GPS tracks to this collection.
+To **set a collection as default**, tap the **Default Collection** switch to **ON** to save newly added bookmarks and GPS tracks to this collection.
 
-To **select a parent collection** in which this current collection is cataloged, tap My Collections cell.
+To **select a parent collection** in which this current collection is cataloged, tap **My Collections** cell.
 
-To **view collection on the map** tap the ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected collection.
+To **view collection on the map**, tap the ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected collection.
 
-To **show & hide** collection from map, scroll down the collection details screen and tap the ![](/assets/icon_hide.png) icon. To reveal it tap ![](/assets/icon_show.png) icon.
+To **show & hide** collection from map, scroll down the collection details screen and tap the ![](/assets/icon_hide.png) icon. To reveal it tap the ![](/assets/icon_show.png) icon.
 
-**Tip**: another way to show or hide the collection from the map is tapping the cell with the number of bookmarks and tracks currently displayed on the map:
+Another way to show or hide the collection from the map is tapping the cell with the number of bookmarks and tracks currently displayed on the map:
 
 ![](/assets/collection_detail.png)
 
-To **Export a collection** tap the ![](/assets/icon_share.png) icon at the bottom of the collection details screen, choose the way to share your data.
+To **Export a collection**, tap the ![](/assets/icon_share.png) icon at the bottom of the collection details screen, choose the way to share your data.
+
+**Read also: **Exporting Geodata. \[!!\]
 
