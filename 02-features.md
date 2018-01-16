@@ -191,8 +191,6 @@ Exported file will Appear in the Galileo File Sharing section in iTunes.
 
 Read also: Getting Exported Files. \[!!\]
 
-
-
 ## Bookmarks {#bookmarks}
 
 The Bookmarks feature, available as an in-app purchase, is a great way to keep your favourite places at your fingertips. Save places you want to go to or mark an interesting POI on the go that you could come back to later.
@@ -209,35 +207,37 @@ Tap the bookmark icon on the map. Tap it again to hide it:
 
 ![](/assets/bookmark_name_1.png)
 
-To **move the bookmark** tap the bookmark icon and hold for a second, then drag the bookmark to where you want and drop it.
+To **move the bookmark**, tap the bookmark icon and hold for a second, then drag the bookmark to where you want and drop it.
 
-To **view bookmark details** tap the ![](/assets/icon_info.png) button next to the bookmark name on the map or open it from the My Collections list.
+To **view bookmark details**, tap the ![](/assets/icon_info.png) button next to the bookmark name on the map or open it from the My Collections list.
 
-To **edit bookmark name and description** tap the name or description field and use the onscreen keyboard to type a new text.
+To **edit bookmark name and description**, tap the name or description field and use the onscreen keyboard to type a new text.
 
-To **change the bookmark icon** tap the Category field and select the icon you want from the list with available icons that will open, then tap Back.
+To **change the bookmark icon**, tap the Category field and select the icon you want from the list with available icons that will open, then tap Back.
 
-To **move a bookmark to another collection** tap the field with the collection name and select the new name from the list of available collections, then tap Back.
+To **move a bookmark to another collection**, tap the field with the collection name and select the new name from the list of available collections, then tap Back.
 
-To **copy coordinates**, tap the icon next to coordinates. It will bring up the pop-up with available options to copy bookmark coordinates:
+To **copy coordinates**, tap the \[!!\] icon next to coordinates. It will bring up the pop-up with available options to copy bookmark coordinates:
 
-* Copy as text — coordinates will be copied to the clipboard in the format as you see it \(+9.570674, +100.060448\).
-* Copy as URL — coordinates will be copied as URL, containing geolocation information \(latitude, longitude, zoom level\) of selected bookmark to quick share it by Email or SMS \(galileo://9.570674,100.060446,16.0\). Tap this URL from the email or message on your device to view the location on the map within the Galileo Offline Maps:
+* **Copy as text** — coordinates will be copied to the clipboard in the format as you see it \(+9.570674, +100.060448\).
+* **Copy as URL** — coordinates will be copied as URL, containing geolocation information \(latitude, longitude, zoom level\) of selected bookmark to share it by Email or SMS \(galileo://9.570674,100.060446,16.0\). Tap this URL from the email or message on your device to view the location on the map within the installed Galileo Offline Maps.
 
 ![](/assets/bookmark_detail.png)
 
 To **edit coordinates**, tap the coordinates to start edit \(X ,Y\) GPS coordinates.
 
-To **show the direction to the bookmark**, tap the Bearing Line switch option to ON.
+To **show the direction to the bookmark**, tap the **Bearing Line** switch option to ON.
 
 **Note**: The bearing line to only one bookmark can be displayed on the map at any given moment.
 
-To **view the bookmark on the map** tap the ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected bookmark.
+To **view the bookmark on the map** tap the ![](/assets/icon_show_on_map.png) icon.  It will open the map centered on the selected bookmark.
 
-To **hide the bookmark** from the map, scroll down the bookmark details screen and tap ![](/assets/icon_hide.png) icon. To reveal it again, tap ![](/assets/icon_show.png) icon.  
-To create a route to this bookmark, tap ![](/assets/route_to_icon.png) icon.
+To **hide the bookmark** from the map, scroll down the bookmark details screen and tap the ![](/assets/icon_hide.png) icon. To reveal it again, tap the ![](/assets/icon_show.png) icon.  
+To create a route to this bookmark, tap ![](/assets/route_to_icon.png)  icon.
 
-To **delete a bookmark**, tap ![](/assets/icon_trash.png) icon at the bottom of the bookmark details screen.
+To **export a bookmark**, tap the ![](/assets/icon_share.png) icon at the bottom of the bookmark details screen and choose the method to save your data.
+
+To **delete a bookmark**, tap the ![](/assets/icon_trash.png) icon at the bottom of the bookmark details screen.
 
 ## GPS Tracks {#GPSTracks}
 
