@@ -138,7 +138,7 @@ If you have a KML/KMZ/GPX file that someone shared with you via email, you can v
 If you store your KML/KMZ/GPX files in the iOS Files app or other cloud service \(e.g. Dropbox\):
 
 1. Open the file you want to import, 
-2. Tap the \[!!\] icon , 
+2. Tap the \[!!\]  icon , 
 3. Select **Copy to Galileo** button.
 
 #### URL
@@ -149,17 +149,26 @@ In case you have a web link to the KML/KMZ/GPX file:
 
 ![](/assets/track_import_url.png)
 
+**Note**: There is also an option to import multiple folders from a single KML file separately or merge them in one collection available:
+
+* Keep several collections,
+* Save to one collection.
+
+\[!!\] 
+
+ ![](/assets/IMG_5504.png)
+
 ## Exporting Geodata {#exporting}
 
-Galileo allows you to export any of you geodata \(bookmarks, tracks or whole collections\) to files compatible with many other apps in several ways:
+Galileo allows you to export any of you routing geodata \(bookmarks, tracks or whole collections\) to KML/GPX files in several ways.
 
 #### Save to Files
 
-When you need to save your your Galileo geodata or to transfer it to another app installed on your device, follow these steps:
+When you need to save your Galileo geodata or to transfer it to another app installed on your device, follow these steps:
 
-* Tap the ![](/assets/icon_share.png) icon on details screen.
-* Swipe left to find and tap "Save as KML" or "Save as GPX"options.
-* Tap "Save to Files" option or “Open in..” option, then select the app you want to copy your data:
+1. Tap the ![](/assets/icon_share.png) icon on details screen.
+2. Swipe left to find and tap **Save as KML** or **Save as GPX **options.
+3. Tap **Save to Files** option or **Open in..** option, then select the app you want to copy your data.
 
 ![](/assets/track_share.png)
 
@@ -167,8 +176,8 @@ When you need to save your your Galileo geodata or to transfer it to another app
 
 Create a shared link if you want anyone to be able to click a link to preview of your geodata on the map in browser. They will also have the option to download a copy of it as KML/GPX file:
 
-* Tap the ![](/assets/icon_share.png) icon on details screen.
-* Select the way \(AirDrop, email, text message or social networks\) you want to share your link through.
+1. Tap the ![](/assets/icon_share.png) icon on details screen.
+2. Select the method \(AirDrop, email, text message or social networks\) you want to share your link through.
 
 ## Bookmarks {#bookmarks}
 
