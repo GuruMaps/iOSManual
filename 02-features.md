@@ -97,7 +97,7 @@ If you miss a turn or intentionally go the wrong way from the planned route, the
 
 #### Edit route
 
-To edit your route, tap ![](/assets/pause_button.png)  icon, then **Edit route** option from menu. It is possible to add additional transit points \(also known as waypoints\) or stops to the route by a long tap on the map for each you want to add: 
+To edit your route, tap ![](/assets/pause_button.png)  icon, then **Edit route** option from menu. It is possible to add additional transit points \(also known as waypoints\) or stops to the route by a long tap on the map for each you want to add:
 
 ![](/assets/route_editing_1.png)
 
@@ -111,9 +111,11 @@ To edit or delete the point, just tap it on the map to bring up the pop-up menu:
 
 #### Voice directions
 
-When you’re navigating to a place, you can hear voice directions. You can stop receiving directions at any time while in navigation mode by tapping sound icon ![](/assets/sound_icon.png)
+When you’re navigating to a place, you can hear voice directions. You can stop receiving directions at any time while in navigation mode by tapping the sound icon ![](/assets/sound_icon.png).
 
-**Tip**: long tap on sound icon allows to choose one of the supported languages, which will be used for voice instructions. You can also change the language selection to hear the driving directions in the app Settings &gt; Navigation.
+**Tip**: A long tap on the sound icon allows to choose one of the supported languages, which will be used for voice instructions. You can also change the language selection to hear the driving directions in the App Settings &gt; Navigation.
+
+			
 
 ## Importing KML/KMZ/GPX Files {#importing}
 
