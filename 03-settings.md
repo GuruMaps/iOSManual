@@ -181,7 +181,7 @@ Galileo Offline Maps allows you to synchronize all your geo data collections ava
 
 To enable the synchronization feature, go to the app Settings &gt; Sync and select the desired synchronizing option. Use the same login on all your devices to keep the data synchronized.
 
-Tip: synchronization is a beta feature, so we recommend you backup your collections in advance to avoid unexpected data loss.
+**Tip**: synchronization is a beta feature, so we recommend you backup your collections in advance to avoid unexpected data loss.
 
 ![](/assets/sync.png)
 
@@ -203,10 +203,11 @@ Backing up data is a great way to minimize accidental data loss and restore the 
 #### Create backup
 
 Tap **Back Up My Collections** button on Settings &gt; Data Backup screen to backup the collections within the App.  
-**Note**: created backup only includes data from My Collections \(bookmarks and GPS tracks\), and it doesn't include downloaded and cached tiles.  
 When the backup finished successfully, you'll see the name of the device along with the date and time the backup was created:
 
 ![](/assets/data_backup.png)
+
+**Note**: Created backup only includes data from My Collections \(bookmarks and GPS tracks\), and it doesn't include downloaded and cached tiles.
 
 #### Save backup
 
@@ -214,7 +215,7 @@ Backups are stored on your device and will be removed automatically when the App
 
 The best way to keep your backups available across all your iOS devices is to use the Files App. Within the Files App you can set up your other cloud services as well \(Box, Dropbox, OneDrive, Adobe Creative Cloud, Google Drive, etc\).
 
-To save the backup, tap the \[!!\]  icon, then select Save to Files option.
+To save the backup, tap the \[!!\] icon, then select Save to Files option.
 
 Read also: [**Use the Files App on your iPhone, iPad, and iPod touch**](https://support.apple.com/en-us/HT206481).
 
@@ -222,11 +223,11 @@ Read also: [**Use the Files App on your iPhone, iPad, and iPod touch**](https://
 
 #### Restore from a backup
 
-Tap the backup you created earlier in the list on the Data Backup screen to restore, or select .gbackup file from the Files App or from other cloud service \(e.g. in Dropbox App\), then tap the \[!!\] icon and select "Copy to Galileo" option.
+Tap the backup you created earlier in the list on the Data Backup screen to restore, or select .gbackup file from the Files app or from other cloud service \(e.g. in Dropbox App\), then tap the \[!!\] icon and select "Copy to Galileo" option.
 
 ![](/assets/data_backup_restore.png)
 
-**Note**: restoring from backup will remove all current bookmarks and GPS tracks in My Collections.
+**Note**: Restoring from backup will remove all current bookmarks and GPS tracks in My Collections.
 
 ### Cache info {#cacheInfo}
 

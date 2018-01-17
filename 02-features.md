@@ -18,7 +18,7 @@ Performing an offline search in the following ways allows you to search places f
 * by categories  
 * by name
 * by GPS coordinates
-* by address
+* by address \(online\)
 
 **Note**: The App makes searching within the downloaded offline maps and only places which are mapped within OpenStreetMap can be found and displayed.
 
@@ -306,7 +306,7 @@ To **delete from the list**, swipe left your finger horizontally across the coll
 
 To **show/hide item**, tap the ![](/assets/icon_hide.png) icon to hide the track or bookmark from the map. Tap the ![](/assets/icon_show.png) icon to reveal it again. The text font color changes from black to gray: black – for visible, gray – for hidden items:
 
-![](/assets/collections_visible.png) 
+![](/assets/collections_visible.png)
 
 Tap and hold any element or tap the Edit button to delete selected elements or move them to another collection in bulk.
 
