@@ -64,7 +64,7 @@ Type city, zip or address of any location on the world map \(in that sequence wi
 
 ![](/assets/search_address_3.png)
 
-**Save search result.** To save search result to your collections, tap \[!!\] icon at the bottom of details screen.
+**Save search result.** To save search result to your collections, tap ![](/assets/) icon at the bottom of details screen.
 
 ## Navigation {#navigation}
 
