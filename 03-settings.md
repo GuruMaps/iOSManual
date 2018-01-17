@@ -109,6 +109,8 @@ The following group of settings is used to configure how the main map looks:
 
 ![](/assets/settings_appearance.png)
 
+\[!!\]  обновить скриншоты
+
 ### Show Trip Computer {#showTripComputer}
 
 To hide trip computer panel from the map view, turn off this option.
@@ -147,9 +149,11 @@ Turn this option on to display the the major application functions. The function
 
 ![](/assets/new_buttons_layout.png)
 
-### Default Styles {#defaultStyles}
+### Default Settings {#defaultStyles}
 
 #### Default track style
+
+\[!!\] сделать скриншоты из настроек
 
 Selected style is a default line style for the newly recorded and imported GPS tracks:
 
@@ -165,11 +169,29 @@ _3. By altitude:_
 
 ![](/assets/track_appearance_3.png)
 
+#### GPS Filtering
+
+![](/assets/gps_filtering.png)
+
+\[!!\] обновить скриншот
+
+#### Accuracy Threshold
+
+Filter by the minimum accuracy at which the new points will be accepted. New points will be added to GPS track while recording if the accuracy is lower than selected \(recommended value is 150 m\).
+
+**Example**: You are recording your GPS track while walking around your neighbourhood and you have entered a supermarket. Tall walls, roofs and other obstructions can block the signal from GPS satellites and the device cannot determine your location accurately enough. You may enable the accuracy filter to set the required accuracy and ignore inaccurate GPS data. If the received signal has lower than the required accuracy, that point will not be recorded in the track.
+
+#### Distance Threshold
+
+Filter by the minimum distance travelled before a new point will be recorded. New points will be added to GPS track while recording if the distance between them is greater than selected \(recommended value is 5 m\).
+
+**Example**: You are recording your GPS track while jogging, then you meet a friend and stop to talk to him. As the GPS sends location coordinates every second, too many points will be recorded on the same spot while you are talking, and the recorded track will take up more space. You may enable the distance filter to ignore GPS points if they are too close to each other. New points will start recording as you exceed the distance selected in the filter.
+
 #### Default bookmark category
 
 The category you select will become the default icon for newly created and imported bookmarks.
 
-\[!!\]
+\[!!\] добавить скриншот
 
 ## Advanced Settings {#advanced}
 
@@ -242,24 +264,6 @@ To set how often to refresh cached map tiles for online maps, go to Settings &gt
 All loaded map tiles will be automatically saved to your device's storage and can be managed in Settings &gt; Cache Info, so you can delete the tiles you no longer need if you want to free up storage space:
 
 ![](/assets/cache_info.png)
-
-### GPS Filtering {#gpsFiltering}
-
-Galileo Offline Maps app supports GPS data filtering in Settings &gt; GPS Filtering.
-
-![](/assets/gps_filtering.png)
-
-#### Accuracy Threshold
-
-Filter by the minimum accuracy at which the new points will be accepted. New points will be added to GPS track while recording if the accuracy is lower than selected \(recommended value is 150 m\).
-
-**Example**: You are recording your GPS track while walking around your neighbourhood and you have entered a supermarket. Tall walls, roofs and other obstructions can block the signal from GPS satellites and the device cannot determine your location accurately enough. You may enable the accuracy filter to set the required accuracy and ignore inaccurate GPS data. If the received signal has lower than the required accuracy, that point will not be recorded in the track.
-
-#### Distance Threshold
-
-Filter by the minimum distance travelled before a new point will be recorded. New points will be added to GPS track while recording if the distance between them is greater than selected \(recommended value is 5 m\).
-
-**Example**: You are recording your GPS track while jogging, then you meet a friend and stop to talk to him. As the GPS sends location coordinates every second, too many points will be recorded on the same spot while you are talking, and the recorded track will take up more space. You may enable the distance filter to ignore GPS points if they are too close to each other. New points will start recording as you exceed the distance selected in the filter.
 
 ### Units Format {#unitsFormat}
 
