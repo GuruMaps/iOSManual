@@ -60,8 +60,11 @@ Free vector maps by country are available for download within the App:
 ![](/assets/download_map_3.png)
 
 To **download the map of the selected country**, tap the ![](/assets/icon_download_map.png) button next to the country name in _Available Maps_ list.  
+
 To **pause a download**, tap the cell with the country name tap it again to resume a download.  
+
 To **go to the downloaded map**, tap the \[!!\] button.  
+
 To **remove the map,** swipe your finger across the country name from right to left, then tap the **Delete** button, or use the **Edit** button.
 
 As OpenStreetMap data is constantly updated by thousands of volunteers around the world, map updates are available from time to time within the app. In the Galileo app all vector map updates are free and distributed automatically. If there is an update for a previously downloaded map, you will see the **Update** button beside the map.

@@ -189,8 +189,6 @@ Export data using File Sharing. The Galileo supports [File Sharing](http://suppo
 
 Exported file will Appear in the Galileo File Sharing section in iTunes.
 
-Read also: Getting Exported Files. ![](/assets/)
-
 ## Bookmarks {#bookmarks}
 
 The Bookmarks feature, available as an in-app purchase, is a great way to keep your favourite places at your fingertips. Save places you want to go to or mark an interesting POI on the go that you could come back to later.
@@ -240,8 +238,6 @@ To **delete a bookmark**, tap the ![](/assets/icon_trash.png) icon at the bottom
 
 **Tip**: The best way to export several bookmarks at once is to save them in one collection and export the whole collection.
 
-**Read also: **Exporting Geodata. ![](/assets/)
-
 ## GPS Tracks {#GPSTracks}
 
 Galileo Offline Maps lets you record your movements, view detailed statistics and export recorded GPS tracks in most common formats \(feature available as an in-app purchase\).
@@ -287,7 +283,6 @@ To **delete a track**, tap the ![](/assets/icon_trash.png) icon at the bottom of
 
 **Tip**: The best way to export several tracks at once is to save them in one collection and export the whole collection.
 
-**Read also: **Exporting Geodata. \[!!\]
 
 ## Collections {#collections}
 
@@ -340,6 +335,4 @@ Another way to show or hide the collection from the map is tapping the cell with
 ![](/assets/collection_detail.png)
 
 To **Export a collection**, tap the ![](/assets/icon_share.png) icon at the bottom of the collection details screen, choose the way to share your data.
-
-**Read also: **Exporting Geodata. ![](/assets/)
 
