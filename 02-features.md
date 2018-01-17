@@ -54,15 +54,17 @@ Read also: [Units Format](03-settings.md#unitsFormat).
 
 Type city, zip or address of any location on the world map \(in that sequence with a comma as shown\). If there are no search results found within the downloaded maps, tap **Done** to perform a search online.
 
-**\[!!\]**
+![](/assets/search_address_1.png)
 
-**Navigate to. **Swipe right on the search result in the list to get routed to the selected location.**  
-\[!!\]**
+**Navigate to. **Swipe right on the search result in the list to get routed to the selected location.
+
+![](/assets/search_address_2.png)
 
 **View details. **To view more address and contact information, tap the desired result in the list.
 
-**\[!!\]**  
-**Save search result.**To save search result to your collections, tap \[!!\] icon at the bottom of details screen.
+![](/assets/search_address_3.png)
+
+**Save search result.** To save search result to your collections, tap \[!!\] icon at the bottom of details screen.
 
 ## Navigation {#navigation}
 
