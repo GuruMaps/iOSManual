@@ -171,8 +171,6 @@ _3. By altitude:_
 
 #### GPS Filtering
 
-Galileo Offline Maps app supports GPS data filtering in Settings &gt; GPS Filtering.
-
 ![](/assets/gps_filtering.png)
 
 \[!!\] обновить скриншот
