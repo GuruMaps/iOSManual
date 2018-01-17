@@ -232,7 +232,7 @@ To **show the direction to the bookmark**, tap the **Bearing Line** switch optio
 
 To **view the bookmark on the map** tap the ![](/assets/icon_show_on_map.png) icon.  It will open the map centered on the selected bookmark.
 
-To **hide the bookmark** from the map, scroll down the bookmark details screen and tap the ![](/assets/icon_hide.png) icon. To reveal it again, tap the ![](/assets/icon_show.png) icon.  
+To **hide the bookmark** from the map, scroll down the bookmark details screen and tap the ![](/assets/icon_hide.png) icon. To reveal it again, tap the ![](/assets/icon_show.png) icon.
 
 To **create a route** to this bookmark, tap ![](/assets/route_to_icon.png) \[!!\] icon.
 
@@ -265,7 +265,7 @@ Tap the REC button again and the recording stops:
 
 ![](/assets/track_example.png)
 
-#### GPS Track Details
+#### View GPS track details
 
 To **view track details**, tap the ![](/assets/icon_info.png) icon next to the track name on the map or open it from the **My Collections** list.
 
@@ -290,8 +290,6 @@ To **delete a track**, tap the ![](/assets/icon_trash.png) icon at the bottom of
 **Tip**: The best way to export several tracks at once is to save them in one collection and export the whole collection.
 
 **Read also: **Exporting Geodata. \[!!\]
-
-
 
 ## Collections {#collections}
 
@@ -325,7 +323,6 @@ Tap and hold any element or tap the Edit button to delete selected elements or m
 
 ![](https://lh5.googleusercontent.com/rFr4pOInXjPnrQvNgdGh7O_LI0P9Q2vvLLKMJXnS3ii7OQT1_DlJUDCU6UkX1z6jIISG0tZnScfw6o98jkHR9HMiVNfQ7Oo_bVCHk77N31tvBSd3GK7mU1JvOzcGU7r5KaLxYR2Z)— select all, ![](https://lh6.googleusercontent.com/kEeo3McG-a2iBFhsusltu0p_B1VtaPpB2-Q_Bse7S2uZRLgdwPKwlB7HaXuRtJwHnjab_UYu5X-HMVAr1HWfGVDHcl1GyGVdM7GNh1zLTgWMbnbdPAa7oj_EHViXs6IuexvQW7VA) — move to,![](https://lh5.googleusercontent.com/yVrs_kG5kfBepECvNLXZJZcEh78hm4arzk4brHGFHb1ub9K8umnWCUY9XIdHUcaRJXIAqdK0ieTMV3ql0PEIibPGr2HwxCaWRsV6LzH1pjwp9jsFwKlGLkBKVsMy68XXL9N-SGVc)— delete.
 
-
 #### Collections Details
 
 To **view collection details**, tap the ![](/assets/icon_info.png) icon next to the name in the **My Collections** list.
@@ -347,6 +344,4 @@ Another way to show or hide the collection from the map is tapping the cell with
 To **Export a collection**, tap the ![](/assets/icon_share.png) icon at the bottom of the collection details screen, choose the way to share your data.
 
 **Read also: **Exporting Geodata. ![](/assets/)
-
-
 
