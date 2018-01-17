@@ -140,7 +140,7 @@ If you have a KML/KMZ/GPX file that someone shared with you via email, you can v
 If you store your KML/KMZ/GPX files in the iOS Files app or other cloud service \(e.g. Dropbox\):
 
 1. Open the file you want to import, 
-2. Tap the \[!!\]  icon , 
+2. Tap the ![](/assets/) icon , 
 3. Select **Copy to Galileo** button.
 
 #### URL
@@ -156,7 +156,7 @@ In case you have a web link to the KML/KMZ/GPX file:
 * Keep several collections,
 * Save to one collection.
 
-\[!!\]
+![](/assets/)
 
 ![](/assets/IMG_5504.png)
 
@@ -191,7 +191,7 @@ Export data using File Sharing. The Galileo supports [File Sharing](http://suppo
 
 Exported file will Appear in the Galileo File Sharing section in iTunes.
 
-Read also: Getting Exported Files. \[!!\]
+Read also: Getting Exported Files. ![](/assets/)
 
 ## Bookmarks {#bookmarks}
 
@@ -219,7 +219,7 @@ To **change the bookmark icon**, tap the Category field and select the icon you 
 
 To **move a bookmark to another collection**, tap the field with the collection name and select the new name from the list of available collections, then tap Back.
 
-To **copy coordinates**, tap the \[!!\] icon next to coordinates. It will bring up the pop-up with available options to copy bookmark coordinates:
+To **copy coordinates**, tap the ![](/assets/) icon next to coordinates. It will bring up the pop-up with available options to copy bookmark coordinates:
 
 * **Copy as text** — coordinates will be copied to the clipboard in the format as you see it \(+9.570674, +100.060448\).
 * **Copy as URL** — coordinates will be copied as URL, containing geolocation information \(latitude, longitude, zoom level\) of selected bookmark to share it by Email or SMS \(galileo://9.570674,100.060446,16.0\). Tap this URL from the email or message on your device to view the location on the map within the installed Galileo Offline Maps.
@@ -233,7 +233,8 @@ To **show the direction to the bookmark**, tap the **Bearing Line** switch optio
 To **view the bookmark on the map** tap the ![](/assets/icon_show_on_map.png) icon.  It will open the map centered on the selected bookmark.
 
 To **hide the bookmark** from the map, scroll down the bookmark details screen and tap the ![](/assets/icon_hide.png) icon. To reveal it again, tap the ![](/assets/icon_show.png) icon.  
-To create a route to this bookmark, tap ![](/assets/route_to_icon.png) \[!!\] icon.
+
+To **create a route** to this bookmark, tap ![](/assets/route_to_icon.png) \[!!\] icon.
 
 To **export a bookmark**, tap the ![](/assets/icon_share.png) icon at the bottom of the bookmark details screen and choose the method to save your data.
 
@@ -241,7 +242,7 @@ To **delete a bookmark**, tap the ![](/assets/icon_trash.png) icon at the bottom
 
 **Tip**: The best way to export several bookmarks at once is to save them in one collection and export the whole collection.
 
-**Read also: **Exporting Geodata. \[!!\]
+**Read also: **Exporting Geodata. ![](/assets/)
 
 ## GPS Tracks {#GPSTracks}
 
@@ -324,7 +325,6 @@ Tap and hold any element or tap the Edit button to delete selected elements or m
 
 ![](https://lh5.googleusercontent.com/rFr4pOInXjPnrQvNgdGh7O_LI0P9Q2vvLLKMJXnS3ii7OQT1_DlJUDCU6UkX1z6jIISG0tZnScfw6o98jkHR9HMiVNfQ7Oo_bVCHk77N31tvBSd3GK7mU1JvOzcGU7r5KaLxYR2Z)— select all, ![](https://lh6.googleusercontent.com/kEeo3McG-a2iBFhsusltu0p_B1VtaPpB2-Q_Bse7S2uZRLgdwPKwlB7HaXuRtJwHnjab_UYu5X-HMVAr1HWfGVDHcl1GyGVdM7GNh1zLTgWMbnbdPAa7oj_EHViXs6IuexvQW7VA) — move to,![](https://lh5.googleusercontent.com/yVrs_kG5kfBepECvNLXZJZcEh78hm4arzk4brHGFHb1ub9K8umnWCUY9XIdHUcaRJXIAqdK0ieTMV3ql0PEIibPGr2HwxCaWRsV6LzH1pjwp9jsFwKlGLkBKVsMy68XXL9N-SGVc)— delete.
 
-\[!!\]
 
 #### Collections Details
 
@@ -346,5 +346,7 @@ Another way to show or hide the collection from the map is tapping the cell with
 
 To **Export a collection**, tap the ![](/assets/icon_share.png) icon at the bottom of the collection details screen, choose the way to share your data.
 
-**Read also: **Exporting Geodata. \[!!\]
+**Read also: **Exporting Geodata. ![](/assets/)
+
+
 
