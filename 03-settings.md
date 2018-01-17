@@ -113,7 +113,7 @@ The following group of settings is used to configure how the main map looks:
 
 To hide trip computer panel from the map view, turn off this option.
 
-Read also: Trip Computer.
+Read also: Trip Computer. \[!!\]
 
 ### Show Coordinates {#showCoordinates}
 
@@ -121,7 +121,7 @@ To enable the real-time display of coordinates on the map, turn this option on. 
 
 ![](/assets/show_coordinates.png)
 
-Read also: Units Format.
+Read also: Units Format.\[!!\]
 
 ### Show Zoom Buttons {#showZoomButtons}
 
@@ -129,7 +129,7 @@ To make zoom control buttons display on the map, turn this option on. It will ap
 
 ![](/assets/zoom_buttons.png)
 
-Read also: Navigating the Map.
+Read also: Navigating the Map.\[!!\]
 
 ### Show Bookmark Name
 
@@ -233,6 +233,8 @@ Tap the backup you created earlier in the list on the Data Backup screen to rest
 #### Map Refresh
 
 To set how often to refresh cached map tiles for online maps, go to Settings &gt; Cache Info. All tiles older than selected time will be downloaded while browsing online.
+
+**Note:** The map refresh setting only applies to raster maps and not the vector maps.
 
 #### Cache Info
 
