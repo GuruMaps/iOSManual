@@ -262,6 +262,8 @@ Tap the REC button again and the recording stops:
 
 ![](/assets/track_example.png)
 
+#### GPS Track Details
+
 To **view track details**, tap the ![](/assets/icon_info.png) icon next to the track name on the map or open it from the **My Collections** list.
 
 To **edit track name and description**, tap the name or description field and use the onscreen keyboard to type a new text.
@@ -269,6 +271,10 @@ To **edit track name and description**, tap the name or description field and us
 To **move a track to another collection**, tap the field with the collection name and select the new name from the list of available collections, then tap Back.
 
 To **change the track style**, tap the desired color or set the track color based on speed or altitude.
+
+To **filter GPS data** and delete inaccurate points in already recorded track, tap **GPS Filtering**[**.**](http://monamishop.by/nabor-termoapplikatsii-tsifryi-tsvet-temno-rozovyii-2191442)** **
+
+Read also: Default Setings\#Filtering. \[!!\]
 
 To **view the track on the map**, tap the ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected GPS track.
 
@@ -281,6 +287,8 @@ To **delete a track**, tap the ![](/assets/icon_trash.png) icon at the bottom of
 **Tip**: The best way to export several tracks at once is to save them in one collection and export the whole collection.
 
 **Read also: **Exporting Geodata. \[!!\]
+
+
 
 ## Collections {#collections}
 
