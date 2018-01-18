@@ -63,7 +63,7 @@ To **download the map of the selected country**, tap the ![](/assets/icon_downlo
 
 To **pause a download**, tap the cell with the country name tap it again to resume a download.  
 
-To **go to the downloaded map**, tap the ![](/assets/) button.  
+To **go to the downloaded map**, tap the ![](/assets/icon_show_on_map.png) button.  
 
 To **remove the map,** swipe your finger across the country name from right to left, then tap the **Delete** button, or use the **Edit** button.
 

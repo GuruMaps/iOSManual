@@ -230,7 +230,7 @@ To **view the bookmark on the map** tap the ![](/assets/icon_show_on_map.png) ic
 
 To **hide the bookmark** from the map, scroll down the bookmark details screen and tap the ![](/assets/icon_hide.png) icon. To reveal it again, tap the ![](/assets/icon_show.png) icon.
 
-To **create a route** to this bookmark, tap ![](/assets/route_to_icon.png) \[!!\] icon.
+To **create a route** to this bookmark, tap ![](/assets/route_to_icon.png) icon.
 
 To **export a bookmark**, tap the ![](/assets/icon_share.png) icon at the bottom of the bookmark details screen and choose the method to save your data.
 
