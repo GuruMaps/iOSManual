@@ -289,17 +289,17 @@ To **delete a track**, tap the ![](/assets/icon_trash.png) icon at the bottom of
 
 ## Collections {#collections}
 
-Collections are groups of bookmarks and GPS tracks, like folders on your desktop. Organising items into collections makes it easy to keep your travel itineraries separate from each other.
+> Collections are groups of bookmarks and GPS tracks, like folders on your desktop. Organising items into collections makes it easy to keep your travel itineraries separate from each other.
 
 #### My Collections List
 
 To **open My Collections list**, tap the ![](/assets/icon_my_collections.png) icon on the map.
 
-To **create new collection**, tap the ![](/assets/plus.png) button at the bottom of the My Collections list. Enter details, then tap Done.
+To **create new collection**, tap the ![](/assets/plus.png) button at the bottom of the _My Collections_ list. Enter details, then tap Done.
 
-To **view a set of bookmarks and GPS tracks** within the collection, tap the collection name in list.
+To **view a set of bookmarks and GPS tracks** within the collection, tap the collection name in the list.
 
-You can easily sort collections and its content by date created, distance and file name in the list:
+You can easily **sort collections** and its content by date created, distance and file name in the list:
 
 * Recent — the most recently created items go first,
 * Nearest — collections, containing locations that are the closest to your current location, are listed at the top,
@@ -307,13 +307,13 @@ You can easily sort collections and its content by date created, distance and fi
 
 To **search in the list**, tap the search field to reveal the onscreen keyboard and start typing. The list will dynamically display collections containing items that match your search criteria as you type.
 
-To **delete from the list**, swipe left your finger horizontally across the collection, bookmark or track name you want to delete in My Collections list, then tap the Delete icon.
+To **delete from the list**, swipe left your finger horizontally across the collection, bookmark or track name you want to delete in _My Collections_ list, then tap the **Delete** icon.
 
 To **show/hide item**, tap the ![](/assets/icon_hide.png) icon to hide the track or bookmark from the map. Tap the ![](/assets/icon_show.png) icon to reveal it again. The text font color changes from black to gray: black – for visible, gray – for hidden items:
 
 <img src="/assets/collections_visible.png" width="374" height="339" />
 
-Tap and hold any element or tap the Edit button to delete selected elements or move them to another collection in bulk.
+Tap and hold any element or tap the **Edit** button to delete selected elements or move them to another collection in bulk.
 
 <img src="/assets/collections_choosing.png" width="375" height="323" />
 
