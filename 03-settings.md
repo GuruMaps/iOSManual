@@ -150,7 +150,7 @@ Turn this option on to display the the major application functions. The function
 
 ![](/assets/new_buttons_layout.png)
 
-### Default Settings {#defaultStyles}
+### Default Settings {#defaultSyles}
 
 ![](/assets/default_settings.png)
 
