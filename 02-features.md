@@ -56,15 +56,13 @@ Type city, zip or address of any location on the world map \(in that sequence wi
 
 ![](/assets/search_address_1.png)
 
-**Navigate to. **Swipe right on the search result in the list to get routed to the selected location.
+To get routed to the selected search result, swipe right on the cell in the list.![](/assets/search_address_2.png)
 
-![](/assets/search_address_2.png)
-
-**View details. **To view more address and contact information, tap the desired result in the list.
+To view more address and contact information, tap the desired result in the list.
 
 ![](/assets/search_address_3.png)
 
-**Save search result.** To save search result to your collections, tap ![](/assets/icon_save_to_collections.png) icon at the bottom of details screen.
+To save search result to your collections, tap ![](/assets/icon_save_to_collections.png) icon at the bottom of details screen.
 
 ## Navigation {#navigation}
 
@@ -282,7 +280,6 @@ To **export a track**, tap the ![](/assets/icon_share.png) icon at the bottom of
 To **delete a track**, tap the ![](/assets/icon_trash.png) icon at the bottom of the track details screen.
 
 **Tip**: The best way to export several tracks at once is to save them in one collection and export the whole collection.
-
 
 ## Collections {#collections}
 
