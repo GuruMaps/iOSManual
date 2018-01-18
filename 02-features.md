@@ -123,7 +123,7 @@ Read also: [How to pair your iOS device with your Bluetooth accessories.](https:
 
 ## Importing KML/KMZ/GPX Files {#importing}
 
-You can easily import KML/KMZ/GPX files to view them on the map in several ways using email, URL or Files app.
+> You can easily import KML/KMZ/GPX files to view them on the map in several ways using email, URL or Files app.
 
 #### Email
 
@@ -160,7 +160,7 @@ In case you have a web link to the KML/KMZ/GPX file:
 
 ## Exporting Geodata {#exporting}
 
-Galileo allows you to export any of you routing geodata \(bookmarks, tracks or whole collections\) to KML/GPX files in several ways.
+> Galileo allows you to export any of you routing geodata \(bookmarks, tracks or whole collections\) to KML/GPX files in several ways.
 
 #### Save to Files
 
