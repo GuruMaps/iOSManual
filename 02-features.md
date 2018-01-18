@@ -325,9 +325,6 @@ Tap and hold any element or tap the **Edit** button to delete selected elements 
 ![](/assets/icon_choose_folder_preview.png)— move to,
 ![](/assets/icon_trash.png)— delete.
 
-
-> ![](https://lh5.googleusercontent.com/rFr4pOInXjPnrQvNgdGh7O_LI0P9Q2vvLLKMJXnS3ii7OQT1_DlJUDCU6UkX1z6jIISG0tZnScfw6o98jkHR9HMiVNfQ7Oo_bVCHk77N31tvBSd3GK7mU1JvOzcGU7r5KaLxYR2Z)— select all, ![](https://lh6.googleusercontent.com/kEeo3McG-a2iBFhsusltu0p_B1VtaPpB2-Q_Bse7S2uZRLgdwPKwlB7HaXuRtJwHnjab_UYu5X-HMVAr1HWfGVDHcl1GyGVdM7GNh1zLTgWMbnbdPAa7oj_EHViXs6IuexvQW7VA) — move to,![](https://lh5.googleusercontent.com/yVrs_kG5kfBepECvNLXZJZcEh78hm4arzk4brHGFHb1ub9K8umnWCUY9XIdHUcaRJXIAqdK0ieTMV3ql0PEIibPGr2HwxCaWRsV6LzH1pjwp9jsFwKlGLkBKVsMy68XXL9N-SGVc)— delete.
-
 #### Collections Details
 
 <img src="/assets/collection_detail.png" width="375" height="667" />
