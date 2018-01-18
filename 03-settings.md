@@ -11,11 +11,11 @@ To switch to another map to display, select **Map Source** menu in app settings.
 Vector map source is set by default. Once you’ve downloaded the map \(**internet connection required**\), it will be available offline.  
 Vector maps are detailed, smooth, fast and provide high quality image rendered in real time on the device. It takes up less storage space than raster maps.
 
-Read also: Vector Maps Settings.
+Read also: [Vector Maps Settings](/01-launching-the-application.md#interfaceOverview).
 
 **Note**: you can also use your own maps in .sqlitedb and .mbtiles formats, previously created on computer and then imported into your device. Such maps can be viewed offline even when your mobile device has no internet connection. However any personal raster/tile maps will use considerably more space than vector maps you may install.
 
-Read also: Offline Maps Import.
+Read also: [Offline Maps Import](/04-tips-and-tricks-and-troubleshooting.md).
 
 #### Online maps
 
@@ -31,13 +31,13 @@ There is a list of built-in raster map sources available online:
 
 Caching is always enabled – the app saves all recently viewed map images in your cache and keeps them available for offline usage. To save maps, navigate to the area you are going to visit and zoom-in to the lowest viewable level of detail while you have access to the Internet. The level of saved detail will reflect the zoom level you viewed.
 
-Read also: Cache Info.
+Read also: [Cache Info](/03-settings.md#advanced).
 
 **Note**: map download speed can vary while using an online sources, and depends on the speed of your Internet connection and the speed of the server from where the map is downloaded.
 
 In addition to built-in online raster maps, Galileo Offline Maps also supports custom online maps. You can add any source of maps you like using a special XML file that contains formatted description from the map provider.
 
-Read also: Custom Map Sources.
+Read also: [Custom Map Sources](/04-tips-and-tricks-and-troubleshooting.md#customMapSources).
 
 ## Network Mode {#NetworkMode}
 
