@@ -226,7 +226,7 @@ To **copy coordinates**, tap the ![](/assets/icon_copy.png) icon next to coordin
 
 To **edit coordinates**, tap the coordinates to start edit \(X ,Y\) GPS coordinates.
 
-To **show the direction to the bookmark**, tap the **Bearing Line** switch option to **ON**. The bearing line to only one bookmark can be displayed on the map at any given moment.
+To **show the direction to the bookmark**, tap the _Bearing Line_ switch option to **ON**. The bearing line to only one bookmark can be displayed on the map at any given moment.
 
 To **view the bookmark on the map** tap the ![](/assets/icon_show_on_map.png) icon.  It will open the map centered on the selected bookmark.
 
