@@ -234,7 +234,7 @@ Backups are stored on your device and will be removed automatically when the App
 
 The best way to keep your backups available across all your iOS devices is to use the Files App. Within the Files App you can set up your other cloud services as well \(Box, Dropbox, OneDrive, Adobe Creative Cloud, Google Drive, etc\).
 
-To save the backup, tap the ![](/assets/) icon, then select Save to Files option.
+To save the backup, tap the ![](/assets/icon_share.png) icon, then select Save to Files option.
 
 Read also: [**Use the Files App on your iPhone, iPad, and iPod touch**](https://support.apple.com/en-us/HT206481).
 
@@ -242,7 +242,7 @@ Read also: [**Use the Files App on your iPhone, iPad, and iPod touch**](https://
 
 #### Restore from a backup
 
-Tap the backup you created earlier in the list on the Data Backup screen to restore, or select .gbackup file from the Files app or from other cloud service \(e.g. in Dropbox App\), then tap the ![](/assets/) icon and select "Copy to Galileo" option.
+Tap the backup you created earlier in the list on the Data Backup screen to restore, or select .gbackup file from the Files app or from other cloud service \(e.g. in Dropbox App\), then tap the ![](/assets/icon_export.png) icon and select "Copy to Galileo" option.
 
 ![](/assets/data_backup_restore.png)
 
