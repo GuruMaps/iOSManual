@@ -56,15 +56,13 @@ Type city, zip or address of any location on the world map \(in that sequence wi
 
 ![](/assets/search_address_1.png)
 
-**Navigate to. **Swipe right on the search result in the list to get routed to the selected location.
+To get routed to the selected search result, swipe right on the cell in the list.![](/assets/search_address_2.png)
 
-![](/assets/search_address_2.png)
-
-**View details. **To view more address and contact information, tap the desired result in the list.
+To view more address and contact information, tap the desired result in the list.
 
 ![](/assets/search_address_3.png)
 
-**Save search result.** To save search result to your collections, tap ![](/assets/icon_save_to_collections.png) icon at the bottom of details screen.
+To save search result to your collections, tap ![](/assets/icon_save_to_collections.png) icon at the bottom of details screen.
 
 ## Navigation {#navigation}
 
@@ -117,9 +115,9 @@ When you’re navigating to a place, you can hear navigation directions. You can
 
 A long tap on the sound icon allows to choose one of the supported languages, which will be used for voice instructions. You can also change the language selection to hear the navigation instructions in the app Settings &gt; Navigation.
 
-**Tip**: If you pair your iOS device with your Bluetooth capable device so you can stream voice instructions from the Galileo app to your Helmet devices and automobile speaker system. How it works: when listening to music the voice instructions would lower the music volume automatically and give directions and then would automatically go back to the normal volume of the mucis once voice instructions finished.
+**Tip**: If you pair your iOS device with your Bluetooth capable device so you can stream voice instructions from the Galileo app to your Helmet device or automobile speaker system. How it works: when listening to music the voice instructions would lower the music volume automatically and give directions and then would automatically go back to the normal volume of the mucis once voice instructions finished.
 
-Read also: [https://support.apple.com/en-ie/HT204091](https://support.apple.com/en-ie/HT204091).
+Read also: [How to pair your iOS device with your Bluetooth accessories.](https://support.apple.com/en-ie/HT204091)
 
 ## Importing KML/KMZ/GPX Files {#importing}
 
@@ -282,7 +280,6 @@ To **export a track**, tap the ![](/assets/icon_share.png) icon at the bottom of
 To **delete a track**, tap the ![](/assets/icon_trash.png) icon at the bottom of the track details screen.
 
 **Tip**: The best way to export several tracks at once is to save them in one collection and export the whole collection.
-
 
 ## Collections {#collections}
 

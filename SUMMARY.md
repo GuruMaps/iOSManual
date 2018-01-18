@@ -23,6 +23,7 @@
   * [Network Mode](03-settings.md#NetworkMode)
   * [Vector Maps Settings](03-settings.md#VectorMapsSettings)
   * [Appearance](03-settings.md#appearance)
+  * [Default Settings](03-settings.md#defaultSyles)
   * [Advanced](03-settings.md#advanced)
 * [Tips and Tricks and Troubleshooting](04-tips-and-tricks-and-troubleshooting.md)
   * [Custom Map Sources](04-tips-and-tricks-and-troubleshooting.md#customMapSources)
