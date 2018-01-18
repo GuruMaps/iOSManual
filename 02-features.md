@@ -26,17 +26,17 @@ Performing an offline search in the following ways allows you to search places f
 
 There are predefined categories available on the screen for a quick search. Just tap the category icon \(food, accommodation, etc\) to list the matching results for a given category:
 
-![](/assets/search_1.png)
+<img src="/assets/search_1.png" width="375" height="379" />
 
 You can also narrow your search by entering the keyword after the category name as shown below:
 
-![](/assets/search_2.png)
+<img src="/assets/search_2.png" width="374" height="423" />
 
 ### Search by name
 
 Just start typing the name of the object \(POI\) you are looking for. As you type, you'll see a list of search results and suggestions:
 
-![](/assets/search_3.png)
+<img src="/assets/search_3.png" width="375" height="378" />
 
 **Tip**: It is not necessary to type punctuation or worry about capital letters, but the search will not recognize a misspelling.
 
@@ -44,7 +44,7 @@ Just start typing the name of the object \(POI\) you are looking for. As you typ
 
 If you know the exact coordinates of a location, you can simply enter them into the search field to locate it on the map:
 
-![](/assets/search_4.png)
+<img src="/assets/search_4.png" width="375" height="223" />
 
 Read also: [Units Format](03-settings.md#unitsFormat).
 
@@ -54,13 +54,15 @@ Read also: [Units Format](03-settings.md#unitsFormat).
 
 Type city, zip or address of any location on the world map \(in that sequence with a comma as shown\). If there are no search results found within the downloaded maps, tap **Done** to perform a search online.
 
-![](/assets/search_address_1.png)
+!<img src="/assets/search_address_1.png" width="375" height="377" />
 
-To get routed to the selected search result, swipe right on the cell in the list.![](/assets/search_address_2.png)
+To get routed to the selected search result, swipe right on the cell in the list:
+
+!<img src="/assets/search_address_2.png" width="375" height="377" />
 
 To view more address and contact information, tap the desired result in the list.
 
-![](/assets/search_address_3.png)
+!<img src="/assets/search_address_3.png" width="375" height="492" />
 
 To save search result to your collections, tap ![](/assets/icon_save_to_collections.png) icon at the bottom of details screen.
 
@@ -85,7 +87,7 @@ A map will appear with your driving route highlighted in blue with some route in
 * Arrival time
 * Time to go
 
-![](/assets/navigation.png)
+!<img src="/assets/navigation.png" width="375" height="667" />
 
 Route will be shown for **drive** mode by default, but you may choose the appropriate mode for your needs:
 
@@ -131,7 +133,7 @@ If you have a KML/KMZ/GPX file that someone shared with you via email, you can v
 2. Tap and hold the attached KML/KMZ/GPX file name until a menu comes up.
 3. Choose the **Copy to Galileo** option to initiate the file import process.
 
-![](/assets/track_import_email.png)
+!<img src="/assets/track_import_email.png" width="360" height="640" />
 
 #### File Manager/Dropbox
 
@@ -147,14 +149,14 @@ In case you have a web link to the KML/KMZ/GPX file:
 1. Tap the link to open it in your browser.  
 2. Select **Copy to Galileo** option to initiate the import process.
 
-![](/assets/track_import_url.png)
+!<img src="/assets/track_import_url.png" width="360" height="640" />
 
 **Note**: There is also an option to import multiple folders from a single KML file separately or merge them in one collection available:
 
 * Keep several collections,
 * Save to one collection.
 
-![](/assets/import_several_collections.png)
+!<img src="/assets/import_several_collections.png" width="375" height="312" />
 
 ## Exporting Geodata {#exporting}
 
@@ -168,7 +170,7 @@ When you need to save your Galileo geodata or to transfer it to another app inst
 2. Swipe left to find and tap **Save as KML** or **Save as GPX **options.
 3. Tap **Save to Files** option or **Open in..** option, then select the app you want to copy your data.
 
-![](/assets/track_share.png)
+!<img src="/assets/track_share.png" width="375" height="667" />
 
 #### Send URL
 
@@ -218,7 +220,7 @@ To **copy coordinates**, tap the ![](/assets/icon_copy.png) icon next to coordin
 * **Copy as text** — coordinates will be copied to the clipboard in the format as you see it \(+9.570674, +100.060448\).
 * **Copy as URL** — coordinates will be copied as URL, containing geolocation information \(latitude, longitude, zoom level\) of selected bookmark to share it by Email or SMS \(galileo://9.570674,100.060446,16.0\). Tap this URL from the email or message on your device to view the location on the map within the installed Galileo Offline Maps.
 
-![](/assets/bookmark_detail.png)
+!<img src="/assets/bookmark_detail.png" width="375" height="667" />
 
 To **edit coordinates**, tap the coordinates to start edit \(X ,Y\) GPS coordinates.
 
@@ -259,7 +261,7 @@ Tap the REC button again and the recording stops:
 
 #### View GPS track details
 
-![](/assets/track_description.png)
+!<img src="/assets/track_description.png" width="375" height="667" />
 
 To **view track details**, tap the ![](/assets/icon_info.png) icon next to the track name on the map or open it from the **My Collections** list.
 
@@ -307,15 +309,17 @@ To **delete from the list**, swipe left your finger horizontally across the coll
 
 To **show/hide item**, tap the ![](/assets/icon_hide.png) icon to hide the track or bookmark from the map. Tap the ![](/assets/icon_show.png) icon to reveal it again. The text font color changes from black to gray: black – for visible, gray – for hidden items:
 
-![](/assets/collections_visible.png)
+!<img src="/assets/collections_visible.png" width="374" height="339" />
 
 Tap and hold any element or tap the Edit button to delete selected elements or move them to another collection in bulk.
 
-![](/assets/collections_choosing.png)
+!<img src="/assets/collections_choosing.png" width="375" height="323" />
 
 ![](https://lh5.googleusercontent.com/rFr4pOInXjPnrQvNgdGh7O_LI0P9Q2vvLLKMJXnS3ii7OQT1_DlJUDCU6UkX1z6jIISG0tZnScfw6o98jkHR9HMiVNfQ7Oo_bVCHk77N31tvBSd3GK7mU1JvOzcGU7r5KaLxYR2Z)— select all, ![](https://lh6.googleusercontent.com/kEeo3McG-a2iBFhsusltu0p_B1VtaPpB2-Q_Bse7S2uZRLgdwPKwlB7HaXuRtJwHnjab_UYu5X-HMVAr1HWfGVDHcl1GyGVdM7GNh1zLTgWMbnbdPAa7oj_EHViXs6IuexvQW7VA) — move to,![](https://lh5.googleusercontent.com/yVrs_kG5kfBepECvNLXZJZcEh78hm4arzk4brHGFHb1ub9K8umnWCUY9XIdHUcaRJXIAqdK0ieTMV3ql0PEIibPGr2HwxCaWRsV6LzH1pjwp9jsFwKlGLkBKVsMy68XXL9N-SGVc)— delete.
 
 #### Collections Details
+
+!<img src="/assets/collections_detail.png" width="375" height="667" />
 
 To **view collection details**, tap the ![](/assets/icon_info.png) icon next to the name in the **My Collections** list.
 
@@ -330,8 +334,6 @@ To **view collection on the map**, tap the ![](/assets/icon_show_on_map.png) ico
 To **show & hide** collection from map, scroll down the collection details screen and tap the ![](/assets/icon_hide.png) icon. To reveal it tap the ![](/assets/icon_show.png) icon.
 
 Another way to show or hide the collection from the map is tapping the cell with the number of bookmarks and tracks currently displayed on the map:
-
-![](/assets/collection_detail.png)
 
 To **Export a collection**, tap the ![](/assets/icon_share.png) icon at the bottom of the collection details screen, choose the way to share your data.
 
