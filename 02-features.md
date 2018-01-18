@@ -91,7 +91,7 @@ A map will appear with your driving route highlighted in blue with some route in
 
 Route will be shown for **drive** mode by default, but you may choose the appropriate mode for your needs:
 
-![](/assets/route_set_2.png)
+<img src="/assets/route_set_2.png" width="375" height="64" />
 
 To begin navigation, tap ![](/assets/play_icon.png) icon.  
 To stop your route, tap ![](/assets/pause_button.png) icon, then **Stop movement** option from menu.  
@@ -101,7 +101,7 @@ If you miss a turn or intentionally go the wrong way from the planned route, the
 
 To edit your route, tap ![](/assets/pause_button.png)  icon, then **Edit route** option from menu. It is possible to add additional transit points \(also known as waypoints\) or stops to the route by a long tap on the map for each you want to add:
 
-![](/assets/route_editing_1.png)
+<img src="/assets/route_editing_1.png" width="293" height="61" />
 
 These signs will appear on the map along your route:
 
@@ -109,7 +109,7 @@ These signs will appear on the map along your route:
 
 To edit or delete the point, just tap it on the map to bring up the pop-up menu:
 
-![](/assets/route_editing_2.png)
+<img src="/assets/route_editing_2.png" width="228" height="79" />
 
 #### Voice instructions
 
@@ -199,13 +199,13 @@ The Bookmarks feature, available as an in-app purchase, is a great way to keep y
 
 Touch and hold on the map until the pop-up appears, then tap the Bookmark icon:
 
-![](/assets/long_tap.png)
+<img src="/assets/long_tap.png" width="269" height="86" />
 
 #### View bookmark name
 
 Tap the bookmark icon on the map. Tap it again to hide it:
 
-![](/assets/bookmark_name_1.png)
+<img src="/assets/bookmark_name_1.png" width="288" height="146" />
 
 To **move the bookmark**, tap the bookmark icon and hold for a second, then drag the bookmark to where you want and drop it.
 
@@ -255,11 +255,11 @@ Tap the REC button again and the recording stops:
 
 **Tip**: while a GPS track is being recorded, a numbered badge appears over the upper-right corner of an App icon on the Home screen:
 
-![](/assets/app_active.png)
+<img src="/assets/app_active.png" width="99" height="93" />
 
 **Note**: to record GPS tracks in the background, make sure you have allowed the background activity for Galileo app in Settings &gt; General &gt; Background App Refresh.
 
-![](/assets/track_example.png)
+<img src="/assets/track_example.png" width="375" height="236" />
 
 #### View GPS track details
 
