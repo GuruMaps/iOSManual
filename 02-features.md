@@ -220,7 +220,7 @@ To **move a bookmark to another collection**, tap the field with the collection 
 To **copy coordinates**, tap the ![](/assets/icon_copy.png) icon next to coordinates. It will bring up the pop-up with available options to copy bookmark coordinates:
 
 * **Copy as text** — coordinates will be copied to the clipboard in the format as you see it \(+9.570674, +100.060448\).
-* **Copy as URL** — coordinates will be copied as URL, containing geolocation information \(latitude, longitude, zoom level\) of selected bookmark to share it by Email or SMS \(galileo://9.570674,100.060446,16.0\). Tap this URL from the email or message on your device to view the location on the map within the installed Galileo Offline Maps.
+* **Copy as URL** — coordinates will be copied as URL, containing geolocation information \(latitude, longitude, zoom level\) of selected bookmark to share it by Email or SMS \(galileo://9.570674,100.060446,16.0\). Tap this URL from the email or message on your device to view the location on the map within the installed Galileo app.
 
 <img src="/assets/bookmark_detail.png" width="375" height="667" />
 
