@@ -77,7 +77,6 @@ You can configure Galileo to display all text on a vector map at various font si
 
 <img src="/assets/font_and_language.png" width="375" height="515" />
 
-
 #### Preferred language order
 
 In some regions objects on the map in addition to local names have names in other languages. The Map will show the names of the user designated first language in this list if it has been defined by the user. This feature may be useful for multilingual countries, such as Belgium where Dutch, French and German share official language status.
