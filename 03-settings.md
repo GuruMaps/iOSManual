@@ -117,7 +117,7 @@ The following group of settings is used to configure how the main map looks:
 
 To hide trip computer panel from the map view, turn off this option.
 
-Read also: Trip Computer. ![](/assets/)
+Read also: [Trip Computer](01-launching-the-application.md#tripComputer)
 
 ### Show Coordinates {#showCoordinates}
 
@@ -125,16 +125,13 @@ To enable the real-time display of coordinates on the map, turn this option on. 
 
 ![](/assets/show_coordinates.png)
 
-Read also: Units Format.![](/assets/)
-
-
 ### Show Zoom Buttons {#showZoomButtons}
 
 To make zoom control buttons display on the map, turn this option on. It will appear with plus and minus zoom buttons.
 
 ![](/assets/zoom_buttons.png)
 
-Read also: Navigating the Map.![](/assets/)
+Read also: [Navigating the Map](01-launching-the-application.md##NavigatingAMap)
 
 
 ### Show Bookmark Name
@@ -157,7 +154,7 @@ Turn this option on to display the the major application functions. The function
 
 #### Default track style
 
-\[!!\] сделать скриншоты из настроек
+![](/assets/) сделать скриншоты из настроек
 
 Selected style is a default line style for the newly recorded and imported GPS tracks:
 
@@ -175,7 +172,7 @@ _3. By altitude:_
 
 #### GPS Filtering
 
-![](/assets/)
+![](/assets/gps_filtering.png)
 
 #### Accuracy Threshold
 
