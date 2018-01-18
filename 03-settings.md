@@ -154,7 +154,7 @@ Turn this option on to display the the major application functions. The function
 
 #### Default track style
 
-![](/assets/) сделать скриншоты из настроек
+![](/assets/default_settings.png)
 
 Selected style is a default line style for the newly recorded and imported GPS tracks:
 
