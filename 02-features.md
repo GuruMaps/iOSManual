@@ -156,7 +156,7 @@ In case you have a web link to the KML/KMZ/GPX file:
 * Keep several collections,
 * Save to one collection.
 
-![](/assets/IMG_5504.png)
+![](/assets/import_several_collections.png)
 
 ## Exporting Geodata {#exporting}
 
