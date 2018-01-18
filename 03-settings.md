@@ -47,7 +47,7 @@ This setting lets you configure how the App is allowed to connect to the network
 
 * **WiFi+3G** is set by default and uses a combination of two networks: if a Wi-Fi connection to the Internet is not available, the App connects over to the cellular data network, if available.
 * **WiFi** in case you want the App to load data only over the Wi-Fi network, if available.
-* **Offline** allows to use the App completely offline and not to worry about roaming charges. Even if you have full Cellular or WiFi internet connection, the App will act like the connection is ‘off’.
+* **Offline** allows to use the App completely offline and not to worry about roaming charges. Even if you have full Cellular or WiFi Internet connection, the App will act like the connection is ‘off’.
 
 ## Vector Maps Settings {#VectorMapsSettings}
 
