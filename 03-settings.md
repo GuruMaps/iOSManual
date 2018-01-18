@@ -57,7 +57,7 @@ This section describes the vector maps related settings within the App.
 
 Free vector maps by country are available for download within the App:
 
-![](/assets/download_map_3.png)
+<img src="/assets/download_map_3.png" width="375" height="667" />
 
 To **download the map of the selected country**, tap the ![](/assets/icon_download_map.png) button next to the country name in _Available Maps_ list.  
 
@@ -77,7 +77,8 @@ To **update all your downloaded maps**, tap the **Update All** button.
 
 You can configure Galileo to display all text on a vector map at various font size. To increase, decrease, or change the default font size, go to app Settings &gt; Font and Languages:
 
-![](/assets/font_and_language.png)
+<img src="/assets/font_and_language.png" width="375" height="515" />
+
 
 #### Preferred language order
 
@@ -110,8 +111,7 @@ In addition to the basic appearance settings, you can select the **POIs** you wi
 
 The following group of settings is used to configure how the main map looks:
 
-![](/assets/settings_appearance.png)
-
+<img src="/assets/settings_appearance.png" width="375" height="311" />
 
 ### Show Trip Computer {#showTripComputer}
 
@@ -138,7 +138,7 @@ Read also: [Navigating the Map](01-launching-the-application.md##NavigatingAMap)
 
 To display a bookmark name on the map, turn this option on. The bookmark view will change and the name of bookmark will appear. The bookmark name can be changed to your preference:
 
-![](/assets/bookmark_name_2.png)
+<img src="/assets/bookmark_name_2.png" width="375" height="189" />
 
 ### Screen Auto-Lock {#screenAutoLock}
 
@@ -148,11 +148,11 @@ The device screen will be turned off automatically after a specified period of t
 
 Turn this option on to display the the major application functions. The functions will be aligned to the right of the screen for single finger selection.
 
-![](/assets/new_buttons_layout.png)
+<img src="/assets/new_buttons_layout.png" width="375" height="424" />
 
 ### Default Settings {#defaultSyles}
 
-![](/assets/default_settings.png)
+<img src="/assets/default_settings.png" width="375" height="667" />
 
 #### Default bookmark category
 
@@ -164,19 +164,19 @@ Selected style is a default line style for the newly recorded and imported GPS t
 
 _1. By color:_
 
-![](/assets/track_appearance_1.png)
+<img src="/assets/track_appearance_1.png" width="375" height="193" />
 
 _2. By speed:_
 
-![](/assets/track_appearance_2.png)
+<img src="/assets/track_appearance_2.png" width="375" height="193" />
 
 _3. By altitude:_
 
-![](/assets/track_appearance_3.png)
+<img src="/assets/track_appearance_3.png" width="375" height="194" />
 
 #### GPS Filtering {#GpsFiltering}
 
-![](/assets/gps_filtering.png)
+<img src="/assets/gps_filtering.png" width="375" height="138" />
 
 #### Accuracy Threshold
 
@@ -202,14 +202,14 @@ To enable the synchronization feature, go to the app Settings &gt; Sync and sele
 
 **Tip**: synchronization is a beta feature, so we recommend you backup your collections in advance to avoid unexpected data loss.
 
-![](/assets/sync.png)
+<img src="/assets/sync.png" width="375" height="297" />
 
 ### Navigation {#navigation}
 
 The default language for voice instructions you hear while navigating a route depends on the language your device is set to use.  
 To change the language, select one from the Voice Instructions list:
 
-![](/assets/settings_navigation.png)
+<img src="/assets/settings_navigation.png" width="374" height="522" />
 
 **Note: **as the App uses text-to-speech \(TTS\) engine instead of pre-recorded audio, correct pronunciation depends on the TTS engine.
 
@@ -224,7 +224,7 @@ Backing up data is a great way to minimize accidental data loss and restore the 
 Tap **Back Up My Collections** button on Settings &gt; Data Backup screen to backup the collections within the App.  
 When the backup finished successfully, you'll see the name of the device along with the date and time the backup was created:
 
-![](/assets/data_backup.png)
+<img src="/assets/data_backup.png" width="359" height="306" />
 
 **Note**: Created backup only includes data from My Collections \(bookmarks and GPS tracks\), and it doesn't include downloaded and cached tiles.
 
@@ -238,13 +238,13 @@ To save the backup, tap the ![](/assets/icon_share.png) icon, then select Save t
 
 Read also: [**Use the Files App on your iPhone, iPad, and iPod touch**](https://support.apple.com/en-us/HT206481).
 
-![](/assets/data_backup_share.png)
+<img src="/assets/data_backup_share.png" width="360" height="640" />
 
 #### Restore from a backup
 
 Tap the backup you created earlier in the list on the Data Backup screen to restore, or select .gbackup file from the Files app or from other cloud service \(e.g. in Dropbox App\), then tap the ![](/assets/icon_export.png) icon and select "Copy to Galileo" option.
 
-![](/assets/data_backup_restore.png)
+<img src="/assets/data_backup_restore.png" width="360" height="640" />
 
 **Note**: Restoring from backup will remove all current bookmarks and GPS tracks in My Collections.
 
@@ -260,7 +260,7 @@ To set how often to refresh cached map tiles for online maps, go to Settings &gt
 
 All loaded map tiles will be automatically saved to your device's storage and can be managed in Settings &gt; Cache Info, so you can delete the tiles you no longer need if you want to free up storage space:
 
-![](/assets/cache_info.png)
+<img src="/assets/cache_info.png" width="375" height="422" />
 
 ### Units Format {#unitsFormat}
 
