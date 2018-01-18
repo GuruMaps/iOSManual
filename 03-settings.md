@@ -43,7 +43,7 @@ Read also: Custom Map Sources.
 
 This setting lets you configure how the App is allowed to connect to the network:
 
-![](/assets/network_mode.png)
+<img src="/assets/network_mode.png" width="374" height="101" />
 
 * **WiFi+3G** is set by default and uses a combination of two networks: if a Wi-Fi connection to the Internet is not available, the App connects over to the cellular data network, if available.
 * **WiFi** in case you want the App to load data only over the Wi-Fi network, if available.
@@ -123,13 +123,13 @@ Read also: [Trip Computer](01-launching-the-application.md#tripComputer)
 
 To enable the real-time display of coordinates on the map, turn this option on. If enabled, “crosshairs” will appear in the map’s center with coordinates and zoom level in the selected format.
 
-![](/assets/show_coordinates.png)
+<img src="/assets/show_coordinates.png" width="270" height="42" />
 
 ### Show Zoom Buttons {#showZoomButtons}
 
 To make zoom control buttons display on the map, turn this option on. It will appear with plus and minus zoom buttons.
 
-![](/assets/zoom_buttons.png)
+<img src="/assets/zoom_buttons.png" width="59" height="122" />
 
 Read also: [Navigating the Map](01-launching-the-application.md##NavigatingAMap)
 
