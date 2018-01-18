@@ -326,13 +326,13 @@ Tap and hold any element or tap the **Edit** button to delete selected elements 
 
 <img src="/assets/collection_detail.png" width="375" height="667" />
 
-To **view collection details**, tap the ![](/assets/icon_info.png) icon next to the name in the **My Collections** list.
+To **view collection details**, tap the ![](/assets/icon_info.png) icon next to the name in the _My Collections_ list.
 
 To **edit collection name and description**, tap the name or description field and use the onscreen keyboard to type a new text.
 
-To **set a collection as default**, tap the **Default Collection** switch to **ON** to save newly added bookmarks and GPS tracks to this collection.
+To **set a collection as default**, tap the _Default Collection_ switch to **ON** to save newly added bookmarks and GPS tracks to this collection.
 
-To **select a parent collection** in which this current collection is cataloged, tap **My Collections** cell.
+To **select a parent collection** in which this current collection is cataloged, tap _My Collections_ cell.
 
 To **view collection on the map**, tap the ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected collection.
 
