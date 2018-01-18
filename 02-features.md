@@ -235,6 +235,7 @@ To **hide the bookmark** from the map, scroll down the bookmark details screen a
 To **create a route** to this bookmark, tap ![](/assets/route_to_icon.png) icon.
 
 To **export a bookmark**, tap the ![](/assets/icon_share.png) icon at the bottom of the bookmark details screen and choose the method to save your data.
+
 Read also: [Exporting Geodata](/02-features.md#exporting).
 
 To **delete a bookmark**, tap the ![](/assets/icon_trash.png) icon at the bottom of the bookmark details screen.
@@ -283,6 +284,7 @@ To **view the track on the map**, tap the ![](/assets/icon_show_on_map.png) icon
 To **hide the track from the map**, scroll down the track details screen and tap the ![](/assets/icon_hide.png) icon. To reveal it again, tap the ![](/assets/icon_show.png) icon.
 
 To **export a track**, tap the ![](/assets/icon_share.png) icon at the bottom of the track details screen and choose the way to save your data.
+
 Read also: [Exporting Geodata](/02-features.md#exporting).
 
 To **delete a track**, tap the ![](/assets/icon_trash.png) icon at the bottom of the track details screen.
@@ -343,4 +345,5 @@ To **show & hide** collection from map, scroll down the collection details scree
 Another way to show or hide the collection from the map is tapping the cell with the number of bookmarks and tracks currently displayed on the map:
 
 To **export a collection**, tap the ![](/assets/icon_share.png) icon at the bottom of the collection details screen, choose the way to share your data.
+
 Read also: [Exporting Geodata](/02-features.md#exporting).
