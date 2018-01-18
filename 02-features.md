@@ -54,15 +54,15 @@ Read also: [Units Format](03-settings.md#unitsFormat).
 
 Type city, zip or address of any location on the world map \(in that sequence with a comma as shown\). If there are no search results found within the downloaded maps, tap **Done** to perform a search online.
 
-!<img src="/assets/search_address_1.png" width="375" height="377" />
+<img src="/assets/search_address_1.png" width="375" height="377" />
 
 To get routed to the selected search result, swipe right on the cell in the list:
 
-!<img src="/assets/search_address_2.png" width="375" height="377" />
+<img src="/assets/search_address_2.png" width="375" height="377" />
 
 To view more address and contact information, tap the desired result in the list.
 
-!<img src="/assets/search_address_3.png" width="375" height="492" />
+<img src="/assets/search_address_3.png" width="375" height="492" />
 
 To save search result to your collections, tap ![](/assets/icon_save_to_collections.png) icon at the bottom of details screen.
 
@@ -87,7 +87,7 @@ A map will appear with your driving route highlighted in blue with some route in
 * Arrival time
 * Time to go
 
-!<img src="/assets/navigation.png" width="375" height="667" />
+<img src="/assets/navigation.png" width="375" height="667" />
 
 Route will be shown for **drive** mode by default, but you may choose the appropriate mode for your needs:
 
@@ -170,7 +170,7 @@ When you need to save your Galileo geodata or to transfer it to another app inst
 2. Swipe left to find and tap **Save as KML** or **Save as GPX **options.
 3. Tap **Save to Files** option or **Open in..** option, then select the app you want to copy your data.
 
-!<img src="/assets/track_share.png" width="375" height="667" />
+<img src="/assets/track_share.png" width="375" height="667" />
 
 #### Send URL
 
@@ -220,7 +220,7 @@ To **copy coordinates**, tap the ![](/assets/icon_copy.png) icon next to coordin
 * **Copy as text** — coordinates will be copied to the clipboard in the format as you see it \(+9.570674, +100.060448\).
 * **Copy as URL** — coordinates will be copied as URL, containing geolocation information \(latitude, longitude, zoom level\) of selected bookmark to share it by Email or SMS \(galileo://9.570674,100.060446,16.0\). Tap this URL from the email or message on your device to view the location on the map within the installed Galileo Offline Maps.
 
-!<img src="/assets/bookmark_detail.png" width="375" height="667" />
+<img src="/assets/bookmark_detail.png" width="375" height="667" />
 
 To **edit coordinates**, tap the coordinates to start edit \(X ,Y\) GPS coordinates.
 
@@ -261,7 +261,7 @@ Tap the REC button again and the recording stops:
 
 #### View GPS track details
 
-!<img src="/assets/track_description.png" width="375" height="667" />
+<img src="/assets/track_description.png" width="375" height="667" />
 
 To **view track details**, tap the ![](/assets/icon_info.png) icon next to the track name on the map or open it from the **My Collections** list.
 
@@ -309,17 +309,17 @@ To **delete from the list**, swipe left your finger horizontally across the coll
 
 To **show/hide item**, tap the ![](/assets/icon_hide.png) icon to hide the track or bookmark from the map. Tap the ![](/assets/icon_show.png) icon to reveal it again. The text font color changes from black to gray: black – for visible, gray – for hidden items:
 
-!<img src="/assets/collections_visible.png" width="374" height="339" />
+<img src="/assets/collections_visible.png" width="374" height="339" />
 
 Tap and hold any element or tap the Edit button to delete selected elements or move them to another collection in bulk.
 
-!<img src="/assets/collections_choosing.png" width="375" height="323" />
+<img src="/assets/collections_choosing.png" width="375" height="323" />
 
 ![](https://lh5.googleusercontent.com/rFr4pOInXjPnrQvNgdGh7O_LI0P9Q2vvLLKMJXnS3ii7OQT1_DlJUDCU6UkX1z6jIISG0tZnScfw6o98jkHR9HMiVNfQ7Oo_bVCHk77N31tvBSd3GK7mU1JvOzcGU7r5KaLxYR2Z)— select all, ![](https://lh6.googleusercontent.com/kEeo3McG-a2iBFhsusltu0p_B1VtaPpB2-Q_Bse7S2uZRLgdwPKwlB7HaXuRtJwHnjab_UYu5X-HMVAr1HWfGVDHcl1GyGVdM7GNh1zLTgWMbnbdPAa7oj_EHViXs6IuexvQW7VA) — move to,![](https://lh5.googleusercontent.com/yVrs_kG5kfBepECvNLXZJZcEh78hm4arzk4brHGFHb1ub9K8umnWCUY9XIdHUcaRJXIAqdK0ieTMV3ql0PEIibPGr2HwxCaWRsV6LzH1pjwp9jsFwKlGLkBKVsMy68XXL9N-SGVc)— delete.
 
 #### Collections Details
 
-!<img src="/assets/collections_detail.png" width="375" height="667" />
+<img src="/assets/collection_detail.png" width="375" height="667" />
 
 To **view collection details**, tap the ![](/assets/icon_info.png) icon next to the name in the **My Collections** list.
 
