@@ -133,7 +133,7 @@ If you have a KML/KMZ/GPX file that someone shared with you via email, you can v
 2. Tap and hold the attached KML/KMZ/GPX file name until a menu comes up.
 3. Choose the **Copy to Galileo** option to initiate the file import process.
 
-!<img src="/assets/track_import_email.png" width="360" height="640" />
+<img src="/assets/track_import_email.png" width="360" height="640" />
 
 #### File Manager/Dropbox
 
@@ -149,14 +149,14 @@ In case you have a web link to the KML/KMZ/GPX file:
 1. Tap the link to open it in your browser.  
 2. Select **Copy to Galileo** option to initiate the import process.
 
-!<img src="/assets/track_import_url.png" width="360" height="640" />
+<img src="/assets/track_import_url.png" width="360" height="640" />
 
 **Note**: There is also an option to import multiple folders from a single KML file separately or merge them in one collection available:
 
 * Keep several collections,
 * Save to one collection.
 
-!<img src="/assets/import_several_collections.png" width="375" height="312" />
+<img src="/assets/import_several_collections.png" width="375" height="312" />
 
 ## Exporting Geodata {#exporting}
 
