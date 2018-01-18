@@ -52,7 +52,7 @@ Read also: [Units Format](03-settings.md#unitsFormat).
 
 ### Search by address
 
-Type city, zip or address of any location on the world map \(in that sequence with a comma as shown\). If there are no search results found within the downloaded maps, tap **Done** to perform a search online.
+Type city, zip or address of any location on the world map \(in that sequence with a comma as shown\). If there are no search results found within the downloaded maps, tap **Done** to perform a search **online**.
 
 <img src="/assets/search_address_1.png" width="375" height="377" />
 
