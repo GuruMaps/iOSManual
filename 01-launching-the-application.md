@@ -35,15 +35,15 @@ Other regions will be available for download while browsing and zooming directly
 There are standard and well known options such as tap, drag and pinch which are used to interact with the App.  
 To **move the map**, drag it with your finger in the direction you want to position the map:
 
-![](/assets/finger-moving.png)
+<img src="/assets/finger-moving.png" width="53" height="84" />
 
 To **zoom in**, use double tap or spread your fingers apart:
 
-![](/assets/double-tap.png) ![](/assets/expanding.png)
+<img src="/assets/double-tap.png" width="53" height="84" /> <img src="/assets/expanding.png" width="75" height="83" />
 
 To **zoom out**, tap with two fingers or pinch your fingers together:
 
-![](/assets/two-finger-tap.png) ![](/assets/reducing-size.png)
+<img src="/assets/two-finger-tap.png" width="58" height="84" /> <img src="/assets/reducing-size.png" width="71" height="84" />
 
 To **zoom in/out with only one finger**, double-tap the map, hold the second tap and drag your finger up or down.
 
@@ -51,7 +51,7 @@ To **zoom using on-map +/- buttons**, go to app [Settings &gt; Show Zoom Buttons
 
 To **rotate the map**, hold the map with two fingers and drag them simultaneously in a circular motion. A compass icon will appear which you can tap to return the map to north-up. To enable this feature you should go to the system **Settings**&gt;**Galileo**&gt;**Allow map rotation.**
 
-![](/assets/hand_gesture.png)
+<img src="/assets/hand_gesture.png" width="98" height="98" />
 
 Tap the map and hold to bring up the pop-up with available options \(from left to right\):
 
@@ -61,10 +61,9 @@ Tap the map and hold to bring up the pop-up with available options \(from left t
 
 <img src="/assets/map_popup.png" width="268" height="97" />
 
-
 To measure the straight line distance between two points “as the crow flies”, tap your starting and destination points simultaneously with your fingers on the map and hold to trace the path. A dashed line will appear on the map between the two locations, and the estimated distance will then be displayed.
 
-![](/assets/measuring_distance.png)
+<img src="/assets/measuring_distance.png" width="270" height="63" />
 
 # Interface Overview {#interfaceOverview}
 
@@ -74,7 +73,7 @@ To measure the straight line distance between two points “as the crow flies”
 
 The App works in multiple modes depending on the number of taps on the _Location_ button with the following sign ![](/assets/icon_gps.png). Your position is shown on the map as a blue marker where you are currently position and as a blue arrow when you are moving:  .
 
-![](/assets/map_location.png) ![](/assets/map_driving.png)
+<img src="/assets/map_location.png" width="250" height="250" /> !<img src="/assets/map_driving.png" width="250" height="250" />
 
 **Tip**: if your location cannot be determined precisely, a blue circle also appears around the location marker. The size of the circle depends on how accurately your location can be determined: the smaller the circle – the greater the accuracy.
 
