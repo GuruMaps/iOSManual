@@ -1,6 +1,6 @@
 # Features
 
-In this article we will show some distinguishing features, that will make your Galileo experience easier and more complete.
+> In this article we will show some distinguishing features, that will make your Galileo experience easier and more complete.
 
 ## Search {#search}
 
@@ -193,7 +193,7 @@ Read also: [About File Sharing on iOS](https://support.apple.com/en-us/HT201301)
 
 ## Bookmarks {#bookmarks}
 
-The Bookmarks feature, available as an in-app purchase, is a great way to keep your favourite places at your fingertips. Save places you want to go to or mark an interesting POI on the go that you could come back to later.
+> The Bookmarks feature, available as an in-app purchase, is a great way to keep your favourite places at your fingertips. Save places you want to go to or mark an interesting POI on the go that you could come back to later.
 
 #### Create new bookmark
 
@@ -242,7 +242,7 @@ To **delete a bookmark**, tap the ![](/assets/icon_trash.png) icon at the bottom
 
 ## GPS Tracks {#GPSTracks}
 
-Galileo Offline Maps lets you record your movements, view detailed statistics and export recorded GPS tracks in most common formats \(feature available as an in-app purchase\).
+> Galileo Offline Maps lets you record your movements, view detailed statistics and export recorded GPS tracks in most common formats \(feature available as an in-app purchase\).
 
 #### Record GPS Track
 
@@ -265,17 +265,17 @@ Tap the REC button again and the recording stops:
 
 <img src="/assets/track_description.png" width="375" height="667" />
 
-To **view track details**, tap the ![](/assets/icon_info.png) icon next to the track name on the map or open it from the **My Collections** list.
+To **view track details**, tap the ![](/assets/icon_info.png) icon next to the track name on the map or open it from the _My Collection_s list.
 
 To **edit track name and description**, tap the name or description field and use the onscreen keyboard to type a new text.
 
-To **move a track to another collection**, tap the field with the collection name and select the new name from the list of available collections, then tap Back.
+To **move a track to another collection**, tap the field with the collection name and select the new name from the list of available collections, then tap **Back**.
 
 To **change the track style**, tap the desired color or set the track color based on speed or altitude.
 
-To **filter GPS data** and delete inaccurate points in already recorded track, tap **GPS Filtering**
+To **filter GPS data** and delete inaccurate points in already recorded track, tap _GPS Filtering_.
 
-Read also: [Default Setings](03-settings.md#GpsFiltering)
+Read also: [Default Setings](03-settings.md#GpsFiltering).
 
 To **view the track on the map**, tap the ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected GPS track.
 
