@@ -2,7 +2,7 @@
 
 > Galileo Offline Maps is available in a ready-to-use state and app settings should be considered as optional and more advanced way of using the App. Settings lets you configure app options, purchase additional features and manage routing geo data representation.
 
-## Map Sources {#MapSources}
+## Map Source {#MapSources}
 
 To switch to another map to display, select **Map Source** menu in app settings. There are two types of maps you can use within the app: offline and online maps.
 
@@ -80,7 +80,7 @@ You can configure Galileo to display all text on a vector map at various font si
 
 #### Preferred language order
 
-In some regions objects on the map in addition to local names have names in other languages. The Map will show the names of the user designated first language in this list if it has been defined by the user. This feature may be useful for multilingual countries, such as Belgium where Dutch, French and German share official language status.
+In some regions objects on the map in addition to local names have names in other languages. The map will show the names of the user designated first language in this list if it has been defined by the user. This feature may be useful for multilingual countries, such as Belgium where Dutch, French and German share official language status.
 
 Tap **Edit** button on the top right of the screen, to rearrange or delete languages from the list.
 
@@ -172,7 +172,7 @@ _3. By altitude:_
 
 <img src="/assets/track_appearance_3.png" width="375" height="194" />
 
-#### GPS Filtering {#GpsFiltering}
+#### GPS filtering {#GpsFiltering}
 
 <img src="/assets/gps_filtering.png" width="375" height="138" />
 
@@ -209,7 +209,7 @@ To change the language, select one from the Voice Instructions list:
 
 <img src="/assets/settings_navigation.png" width="374" height="522" />
 
-**Note: **as the App uses text-to-speech \(TTS\) engine instead of pre-recorded audio, correct pronunciation depends on the TTS engine.
+**Note**: as the App uses text-to-speech \(TTS\) engine instead of pre-recorded audio, correct pronunciation depends on the TTS engine.
 
 **Tip**: If you connect your iOS device to the Bluetooth-capable stereo system in a car, you will hear voice instructions over your car speakers.
 
@@ -252,7 +252,7 @@ Tap the backup you created earlier in the list on the Data Backup screen to rest
 
 To set how often to refresh cached map tiles for online maps, go to Settings &gt; Cache Info. All tiles older than selected time will be downloaded while browsing online.
 
-**Note:** The map refresh setting only applies to raster maps and not the vector maps.
+**Note**: The map refresh setting only applies to raster maps and not the vector maps.
 
 #### Cache Info
 
