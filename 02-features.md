@@ -139,8 +139,8 @@ If you have a KML/KMZ/GPX file that someone shared with you via email, you can v
 
 If you store your KML/KMZ/GPX files in the iOS Files app or other cloud service \(e.g. Dropbox\):
 
-1. Open the file you want to import, 
-2. Tap the ![](/assets/icon_export.png) icon, 
+1. Open the file you want to import. 
+2. Tap the ![](/assets/icon_export.png) icon. 
 3. Select **Copy to Galileo** button.
 
 #### URL
@@ -209,13 +209,13 @@ Tap the bookmark icon on the map. Tap it again to hide it:
 
 To **move the bookmark**, tap the bookmark icon and hold for a second, then drag the bookmark to where you want and drop it.
 
-To **view bookmark details**, tap the ![](/assets/icon_info.png) button next to the bookmark name on the map or open it from the My Collections list.
+To **view bookmark details**, tap the ![](/assets/icon_info.png) button next to the bookmark name on the map or open it from the _My Collections_ list.
 
 To **edit bookmark name and description**, tap the name or description field and use the onscreen keyboard to type a new text.
 
-To **change the bookmark icon**, tap the Category field and select the icon you want from the list with available icons that will open, then tap Back.
+To **change the bookmark icon**, tap the _Category_ field and select the icon you want from the list with available icons that will open, then tap **Back**.
 
-To **move a bookmark to another collection**, tap the field with the collection name and select the new name from the list of available collections, then tap Back.
+To **move a bookmark to another collection**, tap the field with the collection name and select the new name from the list of available collections, then tap **Back**.
 
 To **copy coordinates**, tap the ![](/assets/icon_copy.png) icon next to coordinates. It will bring up the pop-up with available options to copy bookmark coordinates:
 
