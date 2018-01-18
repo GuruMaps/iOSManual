@@ -259,6 +259,8 @@ Tap the REC button again and the recording stops:
 
 #### View GPS track details
 
+![](/assets/track_description.png)
+
 To **view track details**, tap the ![](/assets/icon_info.png) icon next to the track name on the map or open it from the **My Collections** list.
 
 To **edit track name and description**, tap the name or description field and use the onscreen keyboard to type a new text.
@@ -267,7 +269,7 @@ To **move a track to another collection**, tap the field with the collection nam
 
 To **change the track style**, tap the desired color or set the track color based on speed or altitude.
 
-To **filter GPS data** and delete inaccurate points in already recorded track, tap **GPS Filtering**[**.**](http://monamishop.by/nabor-termoapplikatsii-tsifryi-tsvet-temno-rozovyii-2191442)** **
+To **filter GPS data** and delete inaccurate points in already recorded track, tap **GPS Filtering**
 
 Read also: [Default Setings](03-settings.md#GpsFiltering)
 
