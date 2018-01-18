@@ -321,6 +321,8 @@ Tap and hold any element or tap the **Edit** button to delete selected elements 
 
 <img src="/assets/collections_choosing.png" width="375" height="323" />
 
+![](/assets/icon_checkmark_multiple_preview.png)- select all,
+![](/assets/icon_choose_folder_preview.png)— move to,
 ![](/assets/icon_trash.png)— delete.
 
 
