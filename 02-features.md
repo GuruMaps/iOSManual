@@ -13,14 +13,14 @@ If search results are found, the search icon will be changed to the ![](/assets/
 
 **Voice Search**: You can use your voice to perform search instead of typing when you're connected to the Internet. Just tap the search field, and then tap the microphone icon next to the spacebar on the iOS keyboard to start dictating. When you’re finished, tap **Done** and then wait for your words to be processed. It can take a few seconds for text to appear.
 
-Performing an offline search in the following ways allows you to search places fast and easy:
-
-* by categories  
-* by name
-* by GPS coordinates
-* by address \(Internet connection require\)
-
 **Note**: The App makes searching within the downloaded offline maps and only places which are mapped within OpenStreetMap can be found and displayed.
+
+Performing a search in the following ways allows you to search places fast and easy:
+
+* by categories,  
+* by name,
+* by GPS coordinates,
+* by address \(Internet connection require\).
 
 ### Search by category
 
