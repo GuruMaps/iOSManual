@@ -5,20 +5,20 @@ In this article we will show some distinguishing features, that will make your G
 ## Search {#search}
 
 The App lets you search within [My Collections](02-features.md#collections) content as well as the vector map data within OpenStreetMap.  
-To open the search screen, tap the ![](/assets/icon_serach.png) search button. Type or paste the keyword you want to find in the search field, then tap _Done_ on the keyboard.  
+To open the search screen, tap the ![](/assets/icon_serach.png) search button. Type or paste the keyword you want to find in the search field, then tap **Done** on the keyboard.  
 Search results will be displayed on the map and in the list below the search field. It is also possible to narrow down your search using the **Search around me** option at the bottom.  
 Tap an any of the results in the list to open its entry or back to the map to overview them all. The search will be refined as you browse the map automatically and only results meeting the selected search criteria will be displayed on the visible area.
 
 If search results are found, the search icon will be changed to the ![](/assets/icon_search_results.png). To reset search results, tap the clear ![](/assets/icon_cross.png) icon.
 
-**Tip**: You can use your voice to perform search instead of typing when you're connected to the Internet. Just tap the search field, and then tap the microphone icon next to the spacebar on the iOS keyboard to start dictating. When you’re finished, tap Done and then wait for your words to be processed. It can take a few seconds for text to appear.
+**Voice Search**: You can use your voice to perform search instead of typing when you're connected to the Internet. Just tap the search field, and then tap the microphone icon next to the spacebar on the iOS keyboard to start dictating. When you’re finished, tap **Done** and then wait for your words to be processed. It can take a few seconds for text to appear.
 
 Performing an offline search in the following ways allows you to search places fast and easy:
 
 * by categories  
 * by name
 * by GPS coordinates
-* by address \(online\)
+* by address \(Internet connection require\)
 
 **Note**: The App makes searching within the downloaded offline maps and only places which are mapped within OpenStreetMap can be found and displayed.
 
@@ -68,9 +68,9 @@ To save search result to your collections, tap ![](/assets/icon_save_to_collecti
 
 ## Navigation {#navigation}
 
-Galileo Offline Maps gives you the ability to find the best route and get step by step directions for your drive or walk.
+Galileo Offline Maps gives you the ability to find the best route and get step by step directions for your drive or walk \(**Internet connection required**\).
 
-**Note**: building a route requires Internet connection
+
 
 #### Create route
 
