@@ -250,7 +250,7 @@ To **delete a bookmark**, tap the ![](/assets/icon_trash.png) icon at the bottom
 
 To **record GPS Track**, tap the **REC** button on the map. It will change the “track dot” color from gray to red. If you recorded track before, you will be prompted to continue the last track recording, or to start a new one. Tap the **REC** button again and the recording stops:
 
-Tap the REC button again and the recording stops:
+Tap the **REC** button again and the recording stops:
 
 * ![](/assets/icon_rec_disabled.png) — track is not recording,
 * ![](/assets/icon_rec_enabled.png) — track is recording now.
@@ -259,7 +259,7 @@ Tap the REC button again and the recording stops:
 
 <img src="/assets/app_active.png" width="99" height="93" />
 
-**Note**: to record GPS tracks in the background, make sure you have allowed the background activity for Galileo app in Settings &gt; General &gt; Background App Refresh.
+**Note**: To record GPS tracks in the background, make sure you have allowed the background activity for Galileo app in Settings &gt; General &gt; Background App Refresh.
 
 <img src="/assets/track_example.png" width="375" height="236" />
 
