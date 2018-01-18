@@ -8,7 +8,7 @@ To switch to another map to display, select **Map Source** menu in app settings.
 
 #### Offline maps
 
-Vector map source is set by default. Once you’ve downloaded the map \(**internet connection required**\), it will be available offline.  
+Vector map source is set by default. Once you’ve downloaded the map \(**Internet connection required**\), it will be available offline.  
 Vector maps are detailed, smooth, fast and provide high quality image rendered in real time on the device. It takes up less storage space than raster maps.
 
 Read also: [Vector Maps Settings](/01-launching-the-application.md#interfaceOverview).
@@ -50,8 +50,6 @@ This setting lets you configure how the App is allowed to connect to the network
 * **Offline** allows to use the App completely offline and not to worry about roaming charges. Even if you have full Cellular or WiFi internet connection, the App will act like the connection is ‘off’.
 
 ## Vector Maps Settings {#VectorMapsSettings}
-
-This section describes the vector maps related settings within the App.
 
 ### Download Maps
 
@@ -242,7 +240,7 @@ Read also: [**Use the Files App on your iPhone, iPad, and iPod touch**](https://
 
 #### Restore from a backup
 
-Tap the backup you created earlier in the list on the Data Backup screen to restore, or select .gbackup file from the Files app or from other cloud service \(e.g. in Dropbox App\), then tap the ![](/assets/icon_export.png) icon and select "Copy to Galileo" option.
+Tap the backup you created earlier in the list on the Data Backup screen to restore, or select .gbackup file from the Files app or from other cloud service \(e.g. in Dropbox App\), then tap the ![](/assets/icon_export.png) icon and select **Copy to Galileo** option.
 
 <img src="/assets/data_backup_restore.png" width="360" height="640" />
 
@@ -258,7 +256,7 @@ To set how often to refresh cached map tiles for online maps, go to Settings &gt
 
 #### Cache Info
 
-All loaded map tiles will be automatically saved to your device's storage and can be managed in Settings &gt; Cache Info, so you can delete the tiles you no longer need if you want to free up storage space:
+All loaded map tiles will be automatically saved to your device's storage and can be managed in Settings &gt; Cache Info, so you can delete the tiles you no longer need if you want to free up storage space.
 
 <img src="/assets/cache_info.png" width="375" height="422" />
 
