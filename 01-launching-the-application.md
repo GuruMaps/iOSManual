@@ -9,7 +9,7 @@ When launching the Galileo application on your device for the first time, you wi
 * Tapping **Only While Using the App** or **Always Allow** will give the App permission to use Location Services to determine your current location on map if needed \(Highly Recommended\).
 * Tapping **Don't Allow** will prevent the App from accessing your location. 
 
-![](/assets/permission_location.png)
+<img src="/assets/permission_location.png" width="270" height="268" />
 
 **Note**: Galileo app depends on data services and location-based information might be unavailable, inaccurate, or incomplete unless you turn on Location Services.  
 To turn Location Services on or off, go to Settings &gt; Privacy &gt; Location Services.
@@ -18,17 +18,17 @@ To turn Location Services on or off, go to Settings &gt; Privacy &gt; Location S
 
 The App will also request permission to send you push notifications with the following system dialog. Tap **Allow** to be notified when new map updates are available.
 
-![](/assets/permission_notification.png)
+<img src="/assets/permission_notification.png" width="270" height="179" />
 
 ## Download a Map {#MapDownload}
 
 When you allow the Galileo to use your location, the App will ask you to download the map for your region when launching it for the first time.
 
-![](/assets/download_map_1.png)
+<img src="/assets/download_map_1.png" width="270" height="127" />
 
 Other regions will be available for download while browsing and zooming directly on the map or from the app settings at [Download Maps](03-settings.md#downloadMaps) menu.
 
-![](/assets/download_map_2.png)
+<img src="/assets/download_map_2.png" width="342" height="137" />
 
 ## Navigating a Map {#NavigatingAMap}
 
@@ -59,7 +59,8 @@ Tap the map and hold to bring up the pop-up with available options \(from left t
 * Mark your current location,  
 * Create route and directions to this location.
 
-![](/assets/map_popup.png)
+<img src="/assets/map_popup.png" width="268" height="97" />
+
 
 To measure the straight line distance between two points “as the crow flies”, tap your starting and destination points simultaneously with your fingers on the map and hold to trace the path. A dashed line will appear on the map between the two locations, and the estimated distance will then be displayed.
 
@@ -107,14 +108,14 @@ Enable Location Services on your device and give your permission to the Galileo 
 
 The trip computer panel provides you all the necessary trip statistics while moving. If enabled, it will display such useful information as \(from left to right\):
 
-![](/assets/trip_monitor_1.png)
+<img src="/assets/trip_monitor_1.png" width="375" height="56" />
 
 * current speed
 * altitude
 
 While recording a GPS track it will additionally display \(from left to right\):
 
-![](/assets/trip_monitor_2.png)
+<img src="/assets/trip_monitor_2.png" width="375" height="114" />
 
 * distance traveled
 * trip duration
