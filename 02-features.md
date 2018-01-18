@@ -271,7 +271,7 @@ To **change the track style**, tap the desired color or set the track color base
 
 To **filter GPS data** and delete inaccurate points in already recorded track, tap **GPS Filtering**[**.**](http://monamishop.by/nabor-termoapplikatsii-tsifryi-tsvet-temno-rozovyii-2191442)** **
 
-Read also: Default Setings\#Filtering. \[!!\]
+Read also: [Default Setings](03-settings.md#GpsFiltering)
 
 To **view the track on the map**, tap the ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected GPS track.
 

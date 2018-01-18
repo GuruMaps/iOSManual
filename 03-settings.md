@@ -174,7 +174,7 @@ _3. By altitude:_
 
 ![](/assets/track_appearance_3.png)
 
-#### GPS Filtering
+#### GPS Filtering {#GpsFiltering}
 
 ![](/assets/gps_filtering.png)
 
