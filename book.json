@@ -1,0 +1,6 @@
+{
+    "plugins" : [
+	"theme-galileo@git+https://github.com/GalileoApp/theme-galileo.git",
+	"-theme-default"
+    ]
+}

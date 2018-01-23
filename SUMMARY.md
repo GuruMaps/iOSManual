@@ -3,6 +3,7 @@
 * [Introduction](README.md)
   * [What is Galileo Offline Maps](README.md#whatIsGalileoOffllineMaps)
   * [About This Manual](README.md#aboutThisManual)
+
 * [Launching the Application](01-launching-the-application.md)
   * [App permissions](01-launching-the-application.md#appPermissions)
   * [Download a map](01-launching-the-application.md#MapDownload)
@@ -10,6 +11,7 @@
 * [Interface Overview](01-launching-the-application.md#interfaceOverview)
   * [Application Modes](01-launching-the-application.md#applicationModes)
   * [Trip Computer](01-launching-the-application.md#tripComputer)
+
 * [Features](02-features.md)
   * [Search](02-features.md#search)
   * [Navigation](02-features.md#navigation)
@@ -18,6 +20,7 @@
   * [Bookmarks](02-features.md#bookmarks)
   * [GPS Tracks](02-features.md#GPSTracks)
   * [Collections](02-features.md#collections)
+
 * [Settings](03-settings.md)
   * [Map Sources](03-settings.md#MapSources)
   * [Network Mode](03-settings.md#NetworkMode)
@@ -25,6 +28,7 @@
   * [Appearance](03-settings.md#appearance)
   * [Default Settings](03-settings.md#defaultSyles)
   * [Advanced](03-settings.md#advanced)
+  
 * [Tips and Tricks and Troubleshooting](04-tips-and-tricks-and-troubleshooting.md)
   * [Custom Map Sources](04-tips-and-tricks-and-troubleshooting.md#customMapSources)
   * [Offline Maps Import](04-tips-and-tricks-and-troubleshooting.md#offlineMapsImport)
