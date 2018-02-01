@@ -7,11 +7,11 @@
 The App lets you search within [My Collections](02-features.md#collections) content as well as the vector map data within OpenStreetMap.  
 To open the search screen, tap the ![](/assets/icon_serach.png) search button. Type or paste the keyword you want to find in the search field, then tap **Done** on the keyboard.  
 Search results will be displayed on the map and in the list below the search field. It is also possible to narrow down your search using the **Search around me** option at the bottom.  
-Tap an any of the results in the list to open its entry or back to the map to overview them all. The search will be refined as you browse the map automatically and only results meeting the selected search criteria will be displayed on the visible area.
+Tap an any of the results in the list to open its entry or back to the map to overview them all. The search will be refined as you browse the map automatically and only results meeting the selected search criteria will be displayed in the visible area.
 
 If search results are found, the search icon will be changed to the ![](/assets/icon_search_results.png). To reset search results, tap the clear ![](/assets/icon_cross.png) icon.
 
-**Voice Search**: You can use your voice to perform search instead of typing when you're connected to the Internet. Just tap the search field, and then tap the microphone icon next to the spacebar on the iOS keyboard to start dictating. When you’re finished, tap **Done** and then wait for your words to be processed. It can take a few seconds for text to appear.
+**Voice Search**: You can use your voice to perform a search instead of typing when you're connected to the Internet. Just tap the search field, and then tap the microphone icon next to the spacebar on the iOS keyboard to start dictating. When you’re finished, tap **Done** and then wait for your words to be processed. It can take a few seconds for text to appear.
 
 **Note**: The App makes searching within the downloaded offline maps and only places which are mapped within OpenStreetMap can be found and displayed.
 
@@ -20,7 +20,7 @@ Performing a search in the following ways allows you to search places fast and e
 * by categories,  
 * by name,
 * by GPS coordinates,
-* by address \(Internet connection require\).
+* by address \(Internet connection required\).
 
 ### Search by category
 
@@ -74,12 +74,12 @@ Galileo Offline Maps gives you the ability to find the best route and get step b
 
 #### Create route
 
-To get started with the route planner feature, define the place you want to go first, long tap the destination point on the map, then tap ![](/assets/route_to_icon.png) icon from the pop up menu.
+To get started with the route planner feature, define the place you want to go first, long tap the destination point on the map, then tap ![](/assets/route_to_icon.png) icon from the pop-up menu.
 
 Alternatively:
 
-* you can tap ![](/assets/route_to_icon.png) icon on the bottom line of the bookmark/POI/search results details screen
-* swipe right on bookmark in My Collections or search results list, then tap.
+* you can tap ![](/assets/route_to_icon.png) icon on the bottom line of the bookmark/POI/search results in details screen
+* swipe right on a bookmark in My Collections or search results list, then tap.
 
 A map will appear with your driving route highlighted in blue with some route information at the bottom:
 
@@ -115,9 +115,9 @@ To edit or delete the point, just tap it on the map to bring up the pop-up menu:
 
 When you’re navigating to a place, you can hear navigation directions. You can stop receiving directions at any time while in navigation mode by tapping the sound icon ![](/assets/sound_icon.png).
 
-A long tap on the sound icon allows to choose one of the supported languages, which will be used for voice instructions. You can also change the language selection to hear the navigation instructions in the app Settings &gt; Navigation.
+A long tap on the sound icon allows choosing one of the supported languages, which will be used for voice instructions. You can also change the language selection to hear the navigation instructions in the app Settings &gt; Navigation.
 
-**Tip**: If you pair your iOS device with your Bluetooth capable device so you can stream voice instructions from the Galileo app to your Helmet device or automobile speaker system. How it works: when listening to music the voice instructions would lower the music volume automatically and give directions and then would automatically go back to the normal volume of the mucis once voice instructions finished.
+**Tip**: If you pair your iOS device with your Bluetooth capable device so you can stream voice instructions from the Galileo app to your Helmet device or automobile speaker system. How it works: when listening to music the voice instructions would lower the music volume automatically and give directions and then would automatically go back to the normal volume of the music once voice instructions finished.
 
 Read also: [How to pair your iOS device with your Bluetooth accessories.](https://support.apple.com/en-ie/HT204091)
 
@@ -151,7 +151,7 @@ In case you have a web link to the KML/KMZ/GPX file:
 
 <img src="/assets/track_import_url.png" width="360" height="640" />
 
-**Note**: There is also an option to import multiple folders from a single KML file separately or merge them in one collection available:
+**Note**: There is also an option to import multiple folders from a single KML file separately or merge them into one collection available:
 
 * Keep several collections,
 * Save to one collection.
@@ -174,7 +174,7 @@ When you need to save your Galileo geodata or to transfer it to another app inst
 
 #### Send URL
 
-Create a shared link if you want anyone to be able to click a link to preview of your geodata on the map in browser. They will also have the option to download a copy of it as KML/GPX file:
+Create a shared link if you want anyone to be able to click a link to preview of your geodata on the map in the browser. They will also have the option to download a copy of it as KML/GPX file:
 
 1. Tap the ![](/assets/icon_share.png) icon on details screen.
 2. Select the method \(AirDrop, email, text message or social networks\) you want to share your link through.
@@ -193,7 +193,7 @@ Read also: [About File Sharing on iOS](https://support.apple.com/en-us/HT201301)
 
 ## Bookmarks {#bookmarks}
 
-> The Bookmarks feature, available as an in-app purchase, is a great way to keep your favourite places at your fingertips. Save places you want to go to or mark an interesting POI on the go that you could come back to later.
+> The Bookmarks feature, available as an in-app purchase, is a great way to keep your favorite places at your fingertips. Save places you want to go to or mark an interesting POI on the go that you could come back to later.
 
 #### Create new bookmark
 
@@ -220,7 +220,7 @@ To **move a bookmark to another collection**, tap the field with the collection 
 To **copy coordinates**, tap the ![](/assets/icon_copy.png) icon next to coordinates. It will bring up the pop-up with available options to copy bookmark coordinates:
 
 * **Copy as text** — coordinates will be copied to the clipboard in the format as you see it \(+9.570674, +100.060448\).
-* **Copy as URL** — coordinates will be copied as URL, containing geolocation information \(latitude, longitude, zoom level\) of selected bookmark to share it by Email or SMS \(galileo://9.570674,100.060446,16.0\). Tap this URL from the email or message on your device to view the location on the map within the installed Galileo app.
+* **Copy as URL** — coordinates will be copied as URL, containing geolocation information \(latitude, longitude, zoom level\) of a selected bookmark to share it by Email or SMS \(galileo://9.570674,100.060446,16.0\). Tap this URL from the email or message on your device to view the location on the map within the installed Galileo app.
 
 <img src="/assets/bookmark_detail.png" width="375" height="667" />
 
@@ -275,7 +275,7 @@ To **move a track to another collection**, tap the field with the collection nam
 
 To **change the track style**, tap the desired color or set the track color based on speed or altitude.
 
-To **filter GPS data** and delete inaccurate points in already recorded track, tap _GPS Filtering_.
+To **filter GPS data** and delete inaccurate points in the already recorded track, tap _GPS Filtering_.
 
 Read also: [Default Setings](03-settings.md#GpsFiltering).
 

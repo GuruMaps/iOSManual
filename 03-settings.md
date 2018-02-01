@@ -1,6 +1,6 @@
 # Settings
 
-> Galileo Offline Maps is available in a ready-to-use state and app settings should be considered as optional and more advanced way of using the App. Settings lets you configure app options, purchase additional features and manage routing geo data representation.
+> Galileo Offline Maps is available in a ready-to-use state and app settings should be considered as an optional and more advanced way of using the App. Settings let you configure app options, purchase additional features and manage routing geo data representation.
 
 ## Map Source {#MapSources}
 
@@ -9,11 +9,11 @@ To switch to another map to display, select **Map Source** menu in app settings.
 #### Offline maps
 
 Vector map source is set by default. Once you’ve downloaded the map \(**Internet connection required**\), it will be available offline.  
-Vector maps are detailed, smooth, fast and provide high quality image rendered in real time on the device. It takes up less storage space than raster maps.
+Vector maps are detailed, smooth, fast and provide high-quality image rendered in real time on the device. It takes up less storage space than raster maps.
 
 Read also: [Vector Maps Settings](/01-launching-the-application.md#interfaceOverview).
 
-**Note**: you can also use your own maps in .sqlitedb and .mbtiles formats, previously created on computer and then imported into your device. Such maps can be viewed offline even when your mobile device has no internet connection. However any personal raster/tile maps will use considerably more space than vector maps you may install.
+**Note**: you can also use your own maps in .sqlitedb and .mbtiles formats, previously created on a computer and then imported into your device. Such maps can be viewed offline even when your mobile device has no internet connection. However, any personal raster/tile maps will use considerably more space than vector maps you may install.
 
 Read also: [Offline Maps Import](/04-tips-and-tricks-and-troubleshooting.md).
 
@@ -33,7 +33,7 @@ Caching is always enabled – the app saves all recently viewed map images in yo
 
 Read also: [Cache Info](/03-settings.md#advanced).
 
-**Note**: map download speed can vary while using an online sources, and depends on the speed of your Internet connection and the speed of the server from where the map is downloaded.
+**Note**: map download speed can vary while using online sources, and depends on the speed of your Internet connection and the speed of the server from where the map is downloaded.
 
 In addition to built-in online raster maps, Galileo Offline Maps also supports custom online maps. You can add any source of maps you like using a special XML file that contains formatted description from the map provider.
 
@@ -79,7 +79,7 @@ You can configure Galileo to display all text on a vector map at various font si
 
 #### Preferred language order
 
-In some regions objects on the map in addition to local names have names in other languages. The map will show the names of the user designated first language in this list if it has been defined by the user. This feature may be useful for multilingual countries, such as Belgium where Dutch, French and German share official language status.
+In some regions, objects on the map in addition to local names have names in other languages. The map will show the names of the user designated the first language in this list if it has been defined by the user. This feature may be useful for multilingual countries, such as Belgium where Dutch, French and German share official language status.
 
 Tap **Edit** button on the top right of the screen, to rearrange or delete languages from the list.
 
@@ -133,7 +133,7 @@ Read also: [Navigating the Map](01-launching-the-application.md##NavigatingAMap)
 
 ### Show Bookmark Name
 
-To display a bookmark name on the map, turn this option on. The bookmark view will change and the name of bookmark will appear. The bookmark name can be changed to your preference:
+To display a bookmark name on the map, turn this option on. The bookmark view will change and the name of the bookmark will appear. The bookmark name can be changed to your preference:
 
 <img src="/assets/bookmark_name_2.png" width="375" height="189" />
 
@@ -143,7 +143,7 @@ The device screen will be turned off automatically after a specified period of t
 
 ### New Buttons Layout
 
-Turn this option on to display the the major application functions. The functions will be aligned to the right of the screen for single finger selection.
+Turn this option on to display the major application functions. The functions will be aligned to the right of the screen for single finger selection.
 
 <img src="/assets/new_buttons_layout.png" width="375" height="424" />
 
@@ -179,11 +179,11 @@ _3. By altitude:_
 
 Filter by the minimum accuracy at which the new points will be accepted. New points will be added to GPS track while recording if the accuracy is lower than selected \(recommended value is 150 m\).
 
-**Example**: You are recording your GPS track while walking around your neighbourhood and you have entered a supermarket. Tall walls, roofs and other obstructions can block the signal from GPS satellites and the device cannot determine your location accurately enough. You may enable the accuracy filter to set the required accuracy and ignore inaccurate GPS data. If the received signal has lower than the required accuracy, that point will not be recorded in the track.
+**Example**: You are recording your GPS track while walking around your neighborhood and you have entered a supermarket. Tall walls, roofs and other obstructions can block the signal from GPS satellites and the device cannot determine your location accurately enough. You may enable the accuracy filter to set the required accuracy and ignore inaccurate GPS data. If the received signal has lower than the required accuracy, that point will not be recorded in the track.
 
 #### Distance Threshold
 
-Filter by the minimum distance travelled before a new point will be recorded. New points will be added to GPS track while recording if the distance between them is greater than selected \(recommended value is 5 m\).
+Filter by the minimum distance traveled before a new point will be recorded. New points will be added to GPS track while recording if the distance between them is greater than selected \(recommended value is 5 m\).
 
 **Example**: You are recording your GPS track while jogging, then you meet a friend and stop to talk to him. As the GPS sends location coordinates every second, too many points will be recorded on the same spot while you are talking, and the recorded track will take up more space. You may enable the distance filter to ignore GPS points if they are too close to each other. New points will start recording as you exceed the distance selected in the filter.
 

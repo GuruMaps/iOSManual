@@ -1,6 +1,6 @@
 # Tips and Tricks and Troubleshooting
 
-> In this section we will go over some of advanced features as they pertain to specific areas of using an app.
+> In this section we will go over some of the advanced features as they pertain to specific areas of using an app.
 
 ## Custom Map Sources {#customMapSources}
 
@@ -65,7 +65,7 @@ The most important tags of this definition are described below:
 There are several ways to add custom online map source to the app:
 
 1. Place the XML file in the app shared folder in iTunes.
-2. Open the XML file attached in Email on your device using the "Open in Galileo" option.
+2. Open the XML file attached to Email on your device using the "Open in Galileo" option.
 3. Open the XML file from Dropbox on your device using the "Open in.." option.
 	
 As a result, the new map source will appear in Map Source list.
@@ -79,7 +79,7 @@ Sometimes you can see empty map areas (tiles), with the following warning messag
 
 ## Offline Maps Import {#offlineMapsImport}
 
-Feature, available as an in-app purchase, allows you to import previously created custom offline maps in **.sqlitedb** or **.mbtiles** format.
+A feature, available as an in-app purchase, allows you to import previously created custom offline maps in **.sqlitedb** or **.mbtiles** format.
 
 #### Creating an offline map
 
@@ -109,7 +109,7 @@ Once you have created an offline map, you should upload it to your device. There
 Connect your device to your computer and perform these steps:
 1. Launch the iTunes application and select your device.
 2. Open File Sharing in the left sidebar and select Galileo in the Apps list.
-3. Add the file with the offline map into the Galileo Documents.
+3. Add the file to the offline map into the Galileo Documents.
 
 ![](assets/file_sharing_itunes.png)
 
@@ -123,7 +123,7 @@ In addition to iTunes sync, there is another handy way to upload your offline ma
 
 #### Using offline maps
 
-Go to Map Source in app settings and select the imported map name in the list and back to the map view. If you are not over the area with offline map, tap the green arrow indicating the direction to the offline map. Zoom in to see a detailed view of your offline map.
+Go to Map Source in app settings and select the imported map name in the list and back to the map view. If you are not over the area with an offline map, tap the green arrow indicating the direction to the offline map. Zoom in to see a detailed view of your offline map.
 
 ## Getting Exported Files {#GettingExportedFiles}
 
@@ -132,13 +132,13 @@ In order to access the exported collection, bookmark or GPS track using File Sha
 1. Launch the iTunes application and select your device.
 2. Open File Sharing in the left sidebar and select Galileo in the Apps list to view a list of the files exported within the app on your iOS device.
 3. Select the file you want to copy to your computer from the Documents list and click the "Save to.." button.
-4. Locate the folder on your computer to which you want to copy selected file and click the Open button. The selected files will be copied to your computer immediately.
+4. Locate the folder on your computer to which you want to copy a selected file and click the Open button. The selected files will be copied to your computer immediately.
 
 					
 #### Hidden Settings
 
 
-Hidden settings are tweaks which have been developed to adapt the behaviour and appearance of the application to your specific way of use. To access them, just go to the system Settings, scroll down and find the Galileo in the app list.
+Hidden settings are tweaks which have been developed to adapt the behavior and appearance of the application to your specific way of use. To access them, just go to the system Settings, scroll down and find the Galileo in the app list.
 The following additional settings are available for Galileo:
 
 * **Allow overzoom on map**. If enabled, the map can be zoomed closer than the scale allows.
