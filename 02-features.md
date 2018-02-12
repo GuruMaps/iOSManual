@@ -125,7 +125,7 @@ Read also: [How to pair your iOS device with your Bluetooth accessories.](https:
 
 > You can easily import KML/KMZ/GPX files to view them on the map in several ways using email, URL or Files app.
 
-#### Email / File Manager
+#### Email
 
 If you have a KML/KMZ/GPX file that someone shared with you via email, you can view it in the Galileo app:
 
@@ -135,15 +135,14 @@ If you have a KML/KMZ/GPX file that someone shared with you via email, you can v
 
 <img src="/assets/track_import_email.png" width="360" height="640" />
 
-#### Dropbox
+#### iCloud Drive
 
-If you store your KML/KMZ/GPX files in Dropbox:
+If you store your KML/KMZ/GPX in **iCloud Drive**, you could import it using **Files** app:
 
-1. Open the file you want to import. 
-2. Tap the **...** button.
-3. Select **Export** option from dropdown.
-4. Tap on **Open in..** button.
-5. Select **Copy to Galileo** to initiate the import process.
+1. Open the file you want to import.
+2. Tap the ![](/assets/icon_export.png)
+ button.
+3. Select **Copy to Galileo** to initiate the import process.
 
 #### URL
 
@@ -153,6 +152,16 @@ In case you have a web link to the KML/KMZ/GPX file:
 2b. If you have another app used by default to open this file format, select **More...**, then select **Copy to Galileo** option to initiate the import process.
 
 <img src="/assets/track_import_url.png" width="360" height="640" />
+
+#### Dropbox app
+
+If you store your KML/KMZ/GPX files in Dropbox:
+
+1. Open the file you want to import.
+2. Tap the **...** button.
+3. Select **Export** option from dropdown.
+4. Tap on **Open in..** button.
+5. Select **Copy to Galileo** to initiate the import process.
 
 **Note**: There is also an option to import multiple folders from a single KML file separately or merge them into one collection available:
 
