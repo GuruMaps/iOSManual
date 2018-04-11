@@ -293,6 +293,9 @@ To **change the track style**, tap the desired color or set the track color base
 
 To **filter GPS data** and delete inaccurate points in the already recorded track, tap _GPS Filtering_.
 
+<img src="/assets/track_gradient.png" width="375" height="667" />
+
+
 Read also: [Default Setings](03-settings.md#GpsFiltering).
 
 To **view the track on the map**, tap the ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected GPS track.
