@@ -145,8 +145,7 @@ If you have a KML/KMZ/GPX file that someone shared with you via email, you can v
 If you store your KML/KMZ/GPX in **iCloud Drive**, you could import it using **Files** app:
 
 1. Open the file you want to import.
-2. Tap the ![](/assets/icon_export.png)
- button.
+2. Tap the ![](/assets/icon_export.png) button.
 3. Select **Copy to Galileo** to initiate the import process.
 
 #### URL
