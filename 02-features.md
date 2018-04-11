@@ -291,10 +291,9 @@ To **move a track to another collection**, tap the field with the collection nam
 
 To **change the track style**, tap the desired color or set the track color based on speed or altitude.
 
-To **filter GPS data** and delete inaccurate points in the already recorded track, tap _GPS Filtering_.
+To **filter GPS data** and delete inaccurate points in the already recorded track, tap _GPS Filtering_:
 
 <img src="/assets/track_gradient.png" width="375" height="667" />
-
 
 Read also: [Default Setings](03-settings.md#GpsFiltering).
 
