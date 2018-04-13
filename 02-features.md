@@ -89,7 +89,7 @@ A map will appear with your driving route highlighted in blue with some route in
 
 <img src="/assets/navigation.png" width="375" height="667" /> 
 
-If you choose cycle or hiking a gradient will appear which shows altitude during the route:
+If you choose cycle or hiking a gradient will appear which shows an altitude during the route:
 
 <img src="/assets/navigation_2.png" width="375" height="667" />
 
@@ -294,6 +294,8 @@ To **change the track style**, tap the desired color or set the track color base
 To **filter GPS data** and delete inaccurate points in the already recorded track, tap _GPS Filtering_:
 
 <img src="/assets/track_gradient.png" width="375" height="667" />
+
+**Note:** you can change gradient to show speed or altitude during the route by tapping button in the upper right corner.
 
 Read also: [Default Setings](03-settings.md#GpsFiltering).
 
