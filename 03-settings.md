@@ -151,9 +151,7 @@ Turn this option on to display the major application functions. The functions wi
 
 <img src="/assets/default_settings.png" width="375" height="667" />
 
-#### Default bookmark category
 
-The category you select will become the default icon for newly created and imported bookmarks.
 
 #### Default track style
 
@@ -186,6 +184,13 @@ Filter by the minimum accuracy at which the new points will be accepted. New poi
 Filter by the minimum distance traveled before a new point will be recorded. New points will be added to GPS track while recording if the distance between them is greater than selected \(recommended value is 5 m\).
 
 **Example**: You are recording your GPS track while jogging, then you meet a friend and stop to talk to him. As the GPS sends location coordinates every second, too many points will be recorded on the same spot while you are talking, and the recorded track will take up more space. You may enable the distance filter to ignore GPS points if they are too close to each other. New points will start recording as you exceed the distance selected in the filter.
+
+#### Default bookmark category
+
+The category you select will become the default icon for newly created and imported bookmarks.
+
+<img src="/assets/default_bookmark.png" width="375" height="138" />
+
 
 ## Advanced Settings {#advanced}
 
