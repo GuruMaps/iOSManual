@@ -26,7 +26,7 @@ When you allow the Galileo to use your location, the App will ask you to downloa
 
 <img src="/assets/download_map_1.png" width="270" height="127" />
 
-Other regions will be available for download while browsing and zooming directly on the map or from the app settings at [Download Maps](03-settings.md#downloadMaps) menu.
+Other regions will be available for download while browsing and zooming directly on the map or from the app settings at **Download Maps** menu.
 
 <img src="/assets/download_map_2.png" width="342" height="137" />
 
