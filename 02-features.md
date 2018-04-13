@@ -93,6 +93,9 @@ If you choose cycle or hiking a gradient will appear which shows an altitude dur
 
 <img src="/assets/navigation_2.png" width="375" height="667" />
 
+**Note:** The point on the track is related to the speed and altitude values.
+
+
 
 Route will be shown for **drive** mode by default, but you may choose the appropriate mode for your needs:
 
