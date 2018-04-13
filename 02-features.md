@@ -309,7 +309,7 @@ To **filter GPS data** and delete inaccurate points in the already recorded trac
 
 **Accuracy Threshold:** filter by the minimum accuracy of the received points. Points that are on the outside of the filter value will not be displayed in the track.
 
-**Distance Threshold:** filter by the minimum distance between points of a recorded track. Points that are less than the distance specified in the filter will not be displayed in the track.
+**Distance Threshold:** filter by the minimum distance between points of a recorded track. Points that are closer than the distance specified in the filter will not be displayed in the track.
 
 **Note:** you can change gradient to show speed or altitude during the route by tapping button in the upper right corner. The point on the track is related to the speed and altitude values.
 
