@@ -149,7 +149,7 @@ Turn this option on to display the major application functions. The functions wi
 
 ### Default Settings {#defaultSyles}
 
-<img src="/assets/default_settings.png" width="375" height="667" />
+<img src="/assets/default_settings.png" width="375" height="377" />
 
 
 #### Default track style
