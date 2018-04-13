@@ -126,8 +126,6 @@ To make zoom control buttons display on the map, turn this option on. It will ap
 
 <img src="/assets/zoom_buttons.png" width="59" height="122" />
 
-Read also: [Navigating the Map](01-launching-the-application.md##NavigatingAMap)
-
 
 ### Show Bookmark Name
 
