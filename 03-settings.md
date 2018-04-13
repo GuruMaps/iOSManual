@@ -160,21 +160,21 @@ Selected style is a default line style for the newly recorded and imported GPS t
 
 <img src="/assets/gps_filtering.png" width="375" height="138" />
 
-**Note:** by default, all received points are recorded.
+**Note:** all received points are recorded. Filters settings influence the appearance of track on a map and size of track while exporting.
 
 #### Accuracy Threshold
 
-Filter by the minimum accuracy at which the new points will be accepted. New points will be added to GPS track while recording if the accuracy is lower than selected \(recommended value is 150 m\).
+Filter by the minimum accuracy of the received points. Points that are on the outside of the filter value will not be displayed on the map.
 
-**Example**: You are recording your GPS track while walking around your neighborhood and you have entered a supermarket. Tall walls, roofs and other obstructions can block the signal from GPS satellites and the device cannot determine your location accurately enough. You may enable the accuracy filter to set the required accuracy and ignore inaccurate GPS data. If the received signal has lower than the required accuracy, that point will not be recorded in the track.
+**Example**: You are recording your GPS track while walking around your neighborhood and you have entered a supermarket. Tall walls, roofs and other obstructions can block the signal from GPS satellites and the device cannot determine your location accurately enough. You may enable the accuracy filter to hide GPS points if they are too far. If the received signal has lower than the required accuracy, that points will not be displayed on a map.
 
 #### Distance Threshold
 
 **Note:**filter values will be applied after track recording is stopped. If a recorded track will be shorter than filter value - the track will not be displayed on the map.
 
-Filter by the minimum distance between points of a track which will be shown on a map. 
+Filter by the minimum distance between points of a recorded track. Points that are less than the distance specified in the filter will not be displayed on the map.
 
-**Example**: You are recording your GPS track while jogging, then you meet a friend and stop to talk to him. As the GPS sends location coordinates every second, too many points will be recorded on the same spot while you are talking and too many lines of a track will be drawn. You may enable the distance filter to ignore GPS points if they are too close to each other and get rid of unnecessary lines.
+**Example**: You are recording your GPS track while jogging, then you meet a friend and stop to talk to him. As the GPS sends location coordinates every second, too many points will be recorded on the same spot while you are talking and too many lines of a track will be drawn. You may enable the distance filter to hide GPS points if they are too close to each other and get rid of unnecessary lines.
 
 #### Default bookmark category
 
