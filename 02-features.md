@@ -283,7 +283,7 @@ Tap the **REC** button again and the recording stops:
 
 <img src="/assets/track_description.png" width="375" height="667" />
 
-To **view track details**, tap the ![](/assets/icon_info.png) icon next to the track name on the map or open it from the _My Collections_ list.
+To **view track details**, tap the track name on the map or open it from the _My Collections_ list.
 
 To **edit track name and description**, tap the name or description field and use the onscreen keyboard to type a new text.
 
