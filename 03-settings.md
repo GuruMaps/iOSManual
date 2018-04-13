@@ -152,26 +152,15 @@ Turn this option on to display the major application functions. The functions wi
 <img src="/assets/default_settings.png" width="375" height="667" />
 
 
-
 #### Default track style
 
-Selected style is a default line style for the newly recorded and imported GPS tracks:
-
-_1. By color:_
-
-<img src="/assets/track_appearance_1.png" width="375" height="193" />
-
-_2. By speed:_
-
-<img src="/assets/track_appearance_2.png" width="375" height="193" />
-
-_3. By altitude:_
-
-<img src="/assets/track_appearance_3.png" width="375" height="194" />
+Selected style is a default line style for the newly recorded and imported GPS tracks (solid color/speed gradient/altitude gradient).
 
 #### GPS filtering {#GpsFiltering}
 
 <img src="/assets/gps_filtering.png" width="375" height="138" />
+
+**Note:** by default, all received points are recorded.
 
 #### Accuracy Threshold
 
@@ -181,13 +170,15 @@ Filter by the minimum accuracy at which the new points will be accepted. New poi
 
 #### Distance Threshold
 
-Filter by the minimum distance traveled before a new point will be recorded. New points will be added to GPS track while recording if the distance between them is greater than selected \(recommended value is 5 m\).
+**Note:**filter values will be applied after track recording is stopped. If a recorded track will be shorter than filter value - the track will not be displayed on the map.
 
-**Example**: You are recording your GPS track while jogging, then you meet a friend and stop to talk to him. As the GPS sends location coordinates every second, too many points will be recorded on the same spot while you are talking, and the recorded track will take up more space. You may enable the distance filter to ignore GPS points if they are too close to each other. New points will start recording as you exceed the distance selected in the filter.
+Filter by the minimum distance between points of a track which will be shown on a map. 
+
+**Example**: You are recording your GPS track while jogging, then you meet a friend and stop to talk to him. As the GPS sends location coordinates every second, too many points will be recorded on the same spot while you are talking and too many lines of a track will be drawn. You may enable the distance filter to ignore GPS points if they are too close to each other and get rid of unnecessary lines.
 
 #### Default bookmark category
 
-The category you select will become the default icon for newly created and imported bookmarks.
+The category you select will become the default icon for newly created and imported bookmarks:
 
 <img src="/assets/default_bookmark.png" width="375" height="138" />
 
