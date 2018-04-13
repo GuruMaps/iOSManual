@@ -156,6 +156,15 @@ Turn this option on to display the major application functions. The functions wi
 
 Selected style is a default line style for the newly recorded and imported GPS tracks (solid color/speed gradient/altitude gradient).
 
+#### Show Direction arrows
+
+Enables/disables display of arrows on the track:
+
+<img src="/assets/direction_arrows_1.png" width="375" height="311" />
+
+<img src="/assets/direction_arrows_2.png" width="375" height="311" />
+
+
 #### GPS filtering {#GpsFiltering}
 
 <img src="/assets/gps_filtering.png" width="375" height="138" />
