@@ -169,19 +169,17 @@ Enables/disables display of arrows on the track:
 
 <img src="/assets/gps_filtering.png" width="375" height="138" />
 
-**Note:** filters settings influence the appearance of track on a map and size of track while exporting, but they **do not** affect the number of received points, so all received points are recorded.
+**Note:** filters settings influence the appearance of track on a map and size of track while exporting, but they **do not** affect the number of recorded points.
 
 #### Accuracy Threshold
 
-Filter by the minimum accuracy of the received points. Points that are on the outside of the filter value will not be displayed on the map.
+Filter by the minimum accuracy of the received points. Points that are on the outside of the filter value will not be displayed in the track.
 
 **Example**: You are recording your GPS track while walking around your neighborhood and you have entered a supermarket. Tall walls, roofs and other obstructions can block the signal from GPS satellites and the device cannot determine your location accurately enough. You may enable the accuracy filter to hide GPS points if they are too far from your location. If the received signal has lower than the required accuracy, that points will not be displayed on a map.
 
 #### Distance Threshold
 
-**Note:**filter values will be applied after track recording is stopped. If a recorded track will be shorter than filter value - the track will not be displayed on the map.
-
-Filter by the minimum distance between points of a recorded track. Points that are less than the distance specified in the filter will not be displayed on the map.
+Filter by the minimum distance between points of a recorded track. Points that are less than the distance specified in the filter will not be displayed in the track.
 
 **Example**: You are recording your GPS track while jogging, then you meet a friend and stop to talk to him. As the GPS sends location coordinates every second, too many points will be recorded on the same spot while you are talking and too many lines of a track will be drawn. You may enable the distance filter to hide GPS points if they are too close to each other and get rid of unnecessary lines.
 
