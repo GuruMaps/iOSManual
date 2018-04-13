@@ -71,7 +71,6 @@ To save search result to your collections, tap ![](/assets/icon_save_to_collecti
 Galileo Offline Maps gives you the ability to find the best route and get step by step directions for your drive or walk \(**Internet connection required**\).
 
 
-
 #### Create route
 
 To get started with the route planner feature, define the place you want to go first, long tap the destination point on the map, then tap ![](/assets/route_to_icon.png) icon from the pop-up menu.
@@ -292,6 +291,18 @@ To **move a track to another collection**, tap the field with the collection nam
 
 To **change the track style**, tap the desired color or set the track color based on speed or altitude.
 
+To **view the track on the map**, tap the ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected GPS track.
+
+To **hide the track from the map**, scroll down the track details screen and tap the ![](/assets/icon_hide.png) icon. To reveal it again, tap the ![](/assets/icon_show.png) icon.
+
+To **export a track**, tap the ![](/assets/icon_share.png) icon at the bottom of the track details screen and choose the way to save your data.
+
+Read also: [Exporting Geodata](/02-features.md#exporting).
+
+To **delete a track**, tap the ![](/assets/icon_trash.png) icon at the bottom of the track details screen.
+
+**Tip**: The best way to export several tracks at once is to save them in one collection and export the whole collection.
+
 To **filter GPS data** and delete inaccurate points in the already recorded track, tap _GPS Filtering_:
 
 <img src="/assets/track_gradient.png" width="375" height="667" />
@@ -304,17 +315,6 @@ To **filter GPS data** and delete inaccurate points in the already recorded trac
 
 Read also: [Default Setings](03-settings.md#GpsFiltering).
 
-To **view the track on the map**, tap the ![](/assets/icon_show_on_map.png) icon to open the map centered on the selected GPS track.
-
-To **hide the track from the map**, scroll down the track details screen and tap the ![](/assets/icon_hide.png) icon. To reveal it again, tap the ![](/assets/icon_show.png) icon.
-
-To **export a track**, tap the ![](/assets/icon_share.png) icon at the bottom of the track details screen and choose the way to save your data.
-
-Read also: [Exporting Geodata](/02-features.md#exporting).
-
-To **delete a track**, tap the ![](/assets/icon_trash.png) icon at the bottom of the track details screen.
-
-**Tip**: The best way to export several tracks at once is to save them in one collection and export the whole collection.
 
 ## Collections {#collections}
 

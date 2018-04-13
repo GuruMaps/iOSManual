@@ -189,7 +189,7 @@ Filter by the minimum distance between points of a recorded track. Points that a
 
 The category you select will become the default icon for newly created and imported bookmarks:
 
-<img src="/assets/default_bookmark.png" width="375" height="138" />
+<img src="/assets/default_bookmark.png" width="375" height="474" />
 
 
 ## Advanced Settings {#advanced}
