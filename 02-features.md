@@ -295,7 +295,7 @@ To **filter GPS data** and delete inaccurate points in the already recorded trac
 
 <img src="/assets/track_gradient.png" width="375" height="667" />
 
-**Note:** you can change gradient to show speed or altitude during the route by tapping button in the upper right corner.
+**Note:** you can change gradient to show speed or altitude during the route by tapping button in the upper right corner. The point on the track is related to the speed and altitude values.
 
 Read also: [Default Setings](03-settings.md#GpsFiltering).
 
