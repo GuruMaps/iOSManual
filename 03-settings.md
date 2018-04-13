@@ -160,7 +160,7 @@ Selected style is a default line style for the newly recorded and imported GPS t
 
 <img src="/assets/gps_filtering.png" width="375" height="138" />
 
-**Note:** all received points are recorded. Filters settings influence the appearance of track on a map and size of track while exporting.
+**Note:** all received points are recorded. Filters settings influence the appearance of track on a map and size of track while exporting, but they **do not** affect the number of recorded points.
 
 #### Accuracy Threshold
 
