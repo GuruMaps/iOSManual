@@ -11,8 +11,6 @@ To switch to another map to display, select **Map Source** menu in app settings.
 Vector map source is set by default. Once you’ve downloaded the map \(**Internet connection required**\), it will be available offline.  
 Vector maps are detailed, smooth, fast and provide high-quality image rendered in real time on the device. It takes up less storage space than raster maps.
 
-Read also: [Vector Maps Settings](/01-launching-the-application.md#interfaceOverview).
-
 **Note**: you can also use your own maps in .sqlitedb and .mbtiles formats, previously created on a computer and then imported into your device. Such maps can be viewed offline even when your mobile device has no internet connection. However, any personal raster/tile maps will use considerably more space than vector maps you may install.
 
 Read also: [Offline Maps Import](/04-tips-and-tricks-and-troubleshooting.md).
