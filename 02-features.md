@@ -217,6 +217,11 @@ Touch and hold on the map until the pop-up appears, then tap the Bookmark icon:
 
 <img src="/assets/long_tap.png" width="269" height="86" />
 
+If you have coordinates in clipboard Galileo cam import them for you:
+
+<img src="/assets/Bookmark_clipboard.png" width="375" height="194" />
+
+
 #### View bookmark name
 
 Tap the bookmark icon on the map. Tap it again to hide it:
