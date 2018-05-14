@@ -24,7 +24,7 @@ The App will also request permission to send you push notifications with the fol
 
 When you allow the Galileo to use your location, the App will ask you to download the map for your region when launching it for the first time.
 
-<img src="/assets/download_map_1.png" width="270" height="127" />
+<img src="/assets/download_map_1.png" width="375" height="303" />
 
 Other regions will be available for download while browsing and zooming directly on the map or from the app settings at **Download Maps** menu.
 
