@@ -208,6 +208,8 @@ Select the mode in which the route will be built.
 
 <img src="/assets/settings_navigation_2.png" width="375" height="297" />
 
+**Note:** to download a map with navigation data you need to use "Online First" or "Offline" mode.
+
 
 #### Voice Instructions
 

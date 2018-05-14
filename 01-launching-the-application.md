@@ -22,9 +22,15 @@ The App will also request permission to send you push notifications with the fol
 
 ## Download a Map {#MapDownload}
 
-When you allow the Galileo to use your location, the App will ask you to download the map for your region when launching it for the first time.
+When you allow the Galileo to use your location, the App will ask you to download the map for your region when launching it for the first time:
 
 <img src="/assets/download_map_1.png" width="375" height="303" />
+
+* Download map - only an offline map will be downloaded
+
+* Map with navigation data - in addition to a map navigation data will be downloaded as well (**required for an offline navigation**)
+
+**Note:** after installation the size of map with navigation data will be more than during download (for example, the map of England with navigation data after installation will occupy 1759MB).
 
 Other regions will be available for download while browsing and zooming directly on the map or from the app settings at **Download Maps** menu.
 
