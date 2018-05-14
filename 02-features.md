@@ -68,8 +68,9 @@ To save search result to your collections, tap ![](/assets/icon_save_to_collecti
 
 ## Navigation {#navigation}
 
-Galileo Offline Maps gives you the ability to find the best route and get step by step directions for your drive or walk \(**Internet connection required**\).
+Galileo Offline Maps gives you the ability to find the best route and get step by step directions for your drive or walk.
 
+**Note:** to build a route offline you need to download navigation data first.
 
 #### Create route
 
@@ -92,7 +93,7 @@ Route will be shown for **drive** mode by default, but you may choose the approp
 
 <img src="/assets/route_set_2.png" width="375" height="64" />
 
-If you choose cycle or hiking a gradient will appear which shows an altitude during the route:
+If you choose cycle or hiking a gradient will appear which shows an altitude during the route (**gradient will appear only if there is an internet connection**):
 
 <img src="/assets/navigation_2.png" width="375" height="667" />
 
@@ -100,7 +101,7 @@ If you choose cycle or hiking a gradient will appear which shows an altitude dur
 
 To begin navigation, tap ![](/assets/play_icon.png) icon.  
 To stop your route, tap ![](/assets/pause_button.png) icon, then **Stop movement** option from menu.  
-If you miss a turn or intentionally go the wrong way from the planned route, the App will automatically recalculate the route \(**Internet connection required**\).
+If you miss a turn or intentionally go the wrong way from the planned route, the App will automatically recalculate the route.
 
 #### Edit route
 
