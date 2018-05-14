@@ -37,15 +37,6 @@ In addition to built-in online raster maps, Galileo Offline Maps also supports c
 
 Read also: [Custom Map Sources](/04-tips-and-tricks-and-troubleshooting.md#customMapSources).
 
-## Network Mode {#NetworkMode}
-
-This setting lets you configure how the App is allowed to connect to the network:
-
-<img src="/assets/network_mode.png" width="374" height="101" />
-
-* **WiFi+3G** is set by default and uses a combination of two networks: if a Wi-Fi connection to the Internet is not available, the App connects over to the cellular data network, if available.
-* **WiFi** in case you want the App to load data only over the Wi-Fi network, if available.
-* **Offline** allows to use the App completely offline and not to worry about roaming charges. Even if you have full Cellular or WiFi Internet connection, the App will act like the connection is ‘off’.
 
 ## Vector Maps Settings {#VectorMapsSettings}
 
@@ -201,10 +192,25 @@ To enable the synchronization feature, go to the app Settings &gt; Sync and sele
 
 ### Navigation {#navigation}
 
+#### Navigation Mode
+
+Select the mode in which the route will be built.
+
+* Online - internet connection required to build a route
+
+* Online First - if there's no internet connection, the rout will be build using an offline navigation data (**downloaded navigation data required**)
+
+* Offline -  no internet connection required to build a route (**downloaded navigation data required**)
+
+<img src="/assets/settings_navigation_1.png" width="375" height="297" />
+
+<img src="/assets/settings_navigation_1.png" width="375" height="297" />
+
+
+#### Voice Instructions
+
 The default language for voice instructions you hear while navigating a route depends on the language your device is set to use.  
 To change the language, select one from the Voice Instructions list:
-
-<img src="/assets/settings_navigation.png" width="374" height="522" />
 
 **Note**: as the App uses text-to-speech \(TTS\) engine instead of pre-recorded audio, correct pronunciation depends on the TTS engine.
 
