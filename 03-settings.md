@@ -37,6 +37,11 @@ In addition to built-in online raster maps, Galileo Offline Maps also supports c
 
 Read also: [Custom Map Sources](/04-tips-and-tricks-and-troubleshooting.md#customMapSources).
 
+#### Additional source
+
+You can add more online map sources to Galileo here: https://ms.galileo-app.com/
+
+
 
 ## Vector Maps Settings {#VectorMapsSettings}
 
