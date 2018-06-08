@@ -49,7 +49,7 @@ Just start typing the name of the object \(POI\) you are looking for. As you typ
 
 **Tip**: It is not necessary to type punctuation or worry about capital letters, but the search will not recognize a misspelling.
 
-### Search by GPS coordinates
+### Coordinates search
 
 If you know the exact coordinates of a location, you can simply enter them into the search field to locate it on the map:
 
@@ -59,9 +59,9 @@ Read also: [Units Format](03-settings.md#unitsFormat)
 
 **Tip**: You may enter the coordinates in any of the supported coordinate formats. To avoid confusion while inputting coordinates from the keyboard it is possible to use spaces instead of \(‘\) Right Single Quotation Mark, \(”\) Right Double Quotation Mark or \(°\) Degree Sign.
 
-### Search by address
+### Address search
 
-Type city, zip or address of any location on the world map \(in that sequence with a comma as shown\). If there are no search results found within the downloaded maps, tap **Done** to perform a search **online**.
+Type city, zip or address of any location on the world map \(in that sequence with a comma as shown\). If there are no search results found within the downloaded maps, tap **Done** to perform a search **online**:
 
 <img src="/assets/search_address_1.png" width="375" height="377" />
 
@@ -88,7 +88,7 @@ To get started with the route planner feature, define the place you want to go f
 Alternatively:
 
 * you can tap ![](/assets/route_to_icon.png) icon on the bottom line of the bookmark/POI/search results in details screen
-* swipe right on a bookmark in My Collections or search results list, then tap.
+* swipe right on a bookmark in My Collections or search results list, then tap ![](/assets/route_to_icon.png).
 
 A map will appear with your driving route highlighted in blue with some route information at the bottom:
 
@@ -198,7 +198,7 @@ When you need to save your Galileo geodata or to transfer it to another app inst
 
 <img src="/assets/track_share.png" width="375" height="667" />
 
-#### Send URL
+#### Share
 
 Create a shared link if you want anyone to be able to click a link to preview of your geodata on the map in the browser. They will also have the option to download a copy of it as KML/GPX file:
 
@@ -219,7 +219,7 @@ Read also: [About File Sharing on iOS](https://support.apple.com/en-us/HT201301)
 
 ## Bookmarks {#bookmarks}
 
-> The Bookmarks feature, available as an in-app purchase, is a great way to keep your favorite places at your fingertips. Save places you want to go to or mark an interesting POI on the go that you could come back to later.
+> The Bookmarks feature is a great way to keep your favorite places at your fingertips. Save places you want to go to or mark an interesting POI on the go that you could come back to later.
 
 #### Create new bookmark
 
