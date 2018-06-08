@@ -97,7 +97,7 @@ To enable the **driving mode**, double tap the _Location_ button:
 
 ![](/assets/icon_gps.png) → ![](/assets/icon_gps_act.png) → ![](/assets/icon_compas.png)
 
-While in driving mode, the app will orient the map in the direction you are currently moving. If you stop moving, the map will be oriented by compass.
+While in driving mode, the app will orient the map in the direction you are currently moving. If you stop moving, the map will be oriented to the north.
 
 **Note**: the accuracy of the compass can be affected by magnetic or environmental interference \(e.g. the magnets in earbuds\) and the compass may need to be calibrated from time to time. When the device displays the calibration alert, rotate the screen to move the red ball around in a circle.
 
@@ -107,7 +107,7 @@ Every time you see this icon ![](/assets/icon_question.png), it means that your 
 
 Enable Location Services on your device and give your permission to the Galileo app to determine your location in system Settings &gt; Privacy &gt; Location Services.
 
-**Note**: depending on your device and available services, Location Services uses a combination of cellular, Wi-Fi, Bluetooth, and GPS to determine your location. If you're not within a clear line of sight to GPS satellites, your device will automatically determine your location using crowd-sourced Wi-Fi and cell tower locations or even iBeacons any of which are in range \(These may vary in availability in more remote areas\).
+**Note**: depending on your device and available services, Location Services uses a combination of cellular, Wi-Fi, Bluetooth, and GPS to determine your location. If you're not within a clear line of sight to GPS satellites, your device will automatically determine your location using crowd-sourced Wi-Fi and cell tower locations or even iBeacons any of which are in range \(these may vary in availability in more remote areas\).
 
 ## Trip Computer {#tripComputer}
 
