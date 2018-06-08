@@ -283,8 +283,8 @@ To **record GPS Track**, tap the **REC** button on the map. It will become red. 
 
 Tap the **REC** button again and the recording stops:
 
-* <img src="/assets/icon_rec_disabled.png" width="44" height="44" /> — track is not recording
-* <img src="/assets/icon_rec_enabled.png" width="44" height="44" /> — track is recording now
+<img src="/assets/icon_rec_disabled.png" width="44" height="44" /> — track is not recording
+<img src="/assets/icon_rec_enabled.png" width="44" height="44" /> — track is recording now
 
 **Tip**: while a GPS track is being recorded, a numbered badge appears over the upper-right corner of an App icon on the Home screen:
 
