@@ -198,7 +198,7 @@ When you need to save your Galileo geodata or to transfer it to another app inst
 
 <img src="/assets/track_share.png" width="375" height="667" />
 
-#### Send URL
+#### Share
 
 Create a shared link if you want anyone to be able to click a link to preview of your geodata on the map in the browser. They will also have the option to download a copy of it as KML/GPX file:
 
@@ -219,7 +219,7 @@ Read also: [About File Sharing on iOS](https://support.apple.com/en-us/HT201301)
 
 ## Bookmarks {#bookmarks}
 
-> The Bookmarks feature, available as an in-app purchase, is a great way to keep your favorite places at your fingertips. Save places you want to go to or mark an interesting POI on the go that you could come back to later.
+> The Bookmarks feature is a great way to keep your favorite places at your fingertips. Save places you want to go to or mark an interesting POI on the go that you could come back to later.
 
 #### Create new bookmark
 
