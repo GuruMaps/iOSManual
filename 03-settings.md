@@ -6,7 +6,7 @@
 
 To switch to another map to display, select **Map Source** menu in app settings. There are two types of maps you can use within the app: offline and online maps.
 
-#### Offline maps
+### Offline maps
 
 Vector map source is set by default. Once you’ve downloaded the map \(**Internet connection required**\), it will be available offline.  
 Vector maps are detailed, smooth, fast and provide high-quality image rendered in real time on the device. It takes up less storage space than raster maps.
@@ -15,7 +15,7 @@ Vector maps are detailed, smooth, fast and provide high-quality image rendered i
 
 Read also: [Offline Maps Import](/04-tips-and-tricks-and-troubleshooting.md).
 
-#### Online maps
+### Online maps
 
 There is a list of built-in raster map sources available online:
 
@@ -40,8 +40,6 @@ Read also: [Custom Map Sources](/04-tips-and-tricks-and-troubleshooting.md#custo
 #### Additional source
 
 You can add more online map sources to Galileo here: https://ms.galileo-app.com/
-
-
 
 ## Vector Maps Settings {#VectorMapsSettings}
 
@@ -69,13 +67,13 @@ To **update all your downloaded maps**, tap the **Update All** button.
 
 You can configure Galileo to display all text on a vector map at various font size. To increase, decrease, or change the default font size, go to app Settings &gt; Font and Languages:
 
-<img src="/assets/font_and_language.png" width="375" height="515" />
-
 #### Preferred language order
 
 In some regions, objects on the map in addition to local names have names in other languages. The map will show the names of the user designated the first language in this list if it has been defined by the user. This feature may be useful for multilingual countries, such as Belgium where Dutch, French and German share official language status.
 
-Tap **Edit** button on the top right of the screen, to rearrange or delete languages from the list.
+Tap **Edit** button on the top right of the screen, to rearrange or delete languages from the list:
+
+<img src="/assets/font_and_language.png" width="375" height="515" />
 
 ### Map Features \(**Points of Interest\)** {#mapFeatures}
 
