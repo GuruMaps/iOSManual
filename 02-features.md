@@ -275,16 +275,16 @@ To **delete a bookmark**, tap the ![](/assets/icon_trash.png) icon at the bottom
 
 ## GPS Tracks {#GPSTracks}
 
-> Galileo Offline Maps lets you record your movements, view detailed statistics and export recorded GPS tracks in most common formats \(feature available as an in-app purchase\).
+> Galileo Offline Maps lets you record your movements, view detailed statistics and export recorded GPS tracks in most common formats.
 
 #### Record GPS Track
 
-To **record GPS Track**, tap the **REC** button on the map. It will change the “track dot” color from gray to red. If you recorded track before, you will be prompted to continue the last track recording, or to start a new one. Tap the **REC** button again and the recording stops:
+To **record GPS Track**, tap the **REC** button on the map. It will become red. If you recorded track before, you will be prompted to continue the last track recording, or to start a new one. Tap the **REC** button again and the recording stops:
 
 Tap the **REC** button again and the recording stops:
 
-* ![](/assets/icon_rec_disabled.png) — track is not recording,
-* ![](/assets/icon_rec_enabled.png) — track is recording now.
+* <img src="/assets/icon_rec_disabled.png" width="44" height="44" /> — track is not recording
+* <img src="/assets/icon_rec_enabled.png" width="44" height="44" /> — track is recording now
 
 **Tip**: while a GPS track is being recorded, a numbered badge appears over the upper-right corner of an App icon on the Home screen:
 
