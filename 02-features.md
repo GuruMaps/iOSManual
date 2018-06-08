@@ -88,7 +88,7 @@ To get started with the route planner feature, define the place you want to go f
 Alternatively:
 
 * you can tap ![](/assets/route_to_icon.png) icon on the bottom line of the bookmark/POI/search results in details screen
-* swipe right on a bookmark in My Collections or search results list, then tap.
+* swipe right on a bookmark in My Collections or search results list, then tap ![](/assets/route_to_icon.png).
 
 A map will appear with your driving route highlighted in blue with some route information at the bottom:
 
