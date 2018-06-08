@@ -49,7 +49,7 @@ Just start typing the name of the object \(POI\) you are looking for. As you typ
 
 **Tip**: It is not necessary to type punctuation or worry about capital letters, but the search will not recognize a misspelling.
 
-### Search by GPS coordinates
+### Coordinates search
 
 If you know the exact coordinates of a location, you can simply enter them into the search field to locate it on the map:
 
@@ -59,9 +59,9 @@ Read also: [Units Format](03-settings.md#unitsFormat)
 
 **Tip**: You may enter the coordinates in any of the supported coordinate formats. To avoid confusion while inputting coordinates from the keyboard it is possible to use spaces instead of \(‘\) Right Single Quotation Mark, \(”\) Right Double Quotation Mark or \(°\) Degree Sign.
 
-### Search by address
+### Address search
 
-Type city, zip or address of any location on the world map \(in that sequence with a comma as shown\). If there are no search results found within the downloaded maps, tap **Done** to perform a search **online**.
+Type city, zip or address of any location on the world map \(in that sequence with a comma as shown\). If there are no search results found within the downloaded maps, tap **Done** to perform a search **online**:
 
 <img src="/assets/search_address_1.png" width="375" height="377" />
 
