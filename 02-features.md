@@ -6,10 +6,19 @@
 
 The App lets you search within [My Collections](02-features.md#collections) content as well as the vector map data within OpenStreetMap.  
 To open the search screen, tap the ![](/assets/icon_serach.png) search button. Type or paste the keyword you want to find in the search field, then tap **Done** on the keyboard.  
+
 Search results will be displayed on the map and in the list below the search field. It is also possible to narrow down your search using the **Search around me** option at the bottom.  
+
 Tap an any of the results in the list to open its entry or back to the map to overview them all. The search will be refined as you browse the map automatically and only results meeting the selected search criteria will be displayed in the visible area.
 
 If search results are found, the search icon will be changed to the ![](/assets/icon_search_results.png). To reset search results, tap the clear ![](/assets/icon_cross.png) icon.
+
+**Note:** if you didn't clean your search query - search results will be displayed on a map as icons:
+
+<img src="/assets/search_query_1.png" width="375" height="667" />
+ 
+<img src="/assets/search_query_2.png" width="375" height="667" />
+
 
 **Voice Search**: You can use your voice to perform a search instead of typing when you're connected to the Internet. Just tap the search field, and then tap the microphone icon next to the spacebar on the iOS keyboard to start dictating. When you’re finished, tap **Done** and then wait for your words to be processed. It can take a few seconds for text to appear.
 
