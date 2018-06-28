@@ -22,7 +22,7 @@ Example: `https://galileo-app.com/map?a=nav&lat=1.234&lon=1.234`
 
 ```
 [[UIApplication sharedApplication] openURL:
-    [NSURL URLWithString:@"galileo://maps.yandex.ru/?ll=30.310182,59.951059&z=12&l=map"]];
+    [NSURL URLWithString:@"https://galileo-app.com/map?a=nav&lat=1.234&lon=1.234"]];
 ```
 
 ##Perform search {#search}
