@@ -14,13 +14,13 @@ All examples based on same URL `https://galileo-app.com/map?a={nav,search,pin}` 
 
 ##Start navigation {#navigation}
 
-Example: `https://galileo-app.com/map?a=nav&lat=53.9&lon=27.4[&type={car,bike,walk}]`
+Example: `https://galileo-app.com/map?a=nav&lat=53.9&lon=27.4&type=bike`
 
 | param    | value                 | description             |
 |----------|-----------------------|-------------------------|
 | a        | nav                   | Action is navigation    |
 | lat, lon | WGS84 location        | Destination coordinates |
-| type*    | car, bike, walk       | Costing function. Default value is 'car' |
+| type*    | car, bike, walk       | Costing function. Default value is `car` |
 
 *Optional params
 
@@ -44,7 +44,7 @@ Example: `https://galileo-app.com/map?a=search&q=Минск`
 | a      | pin                   | Action is pin          |
 | lat    | from -90 to 90        | Pin latitude  |
 | lon    | from -180 to 180      | Pin longitude |  
-| zoom*  | 3 - 22 | Map zoom. Default value is 15 |
+| zoom*  | 3 - 22 | Map zoom. Default value is `15` |
 | title* | Some nice title | It will be displayed on ballon
 | descr* | Pin description | Description is only visible when user opens details screen |
 
