@@ -36,19 +36,18 @@ Example: `https://galileo-app.com/map?a=search&q=Минск`
 
 *Optional params
 
-##Show pin {#bookmark}
+##Show pin {#pin}
 
 | param  | value                 | description            |
 |--------|-----------------------|------------------------|
 | a      | pin                   | Action is pin          |
 | loc    | lat,lon               | Pin location           |
-| zoom*  | 3 - 22 | Map zoom. Default value is `15` |
-| title* | Some nice title | It will be displayed on ballon
-| descr* | Pin description | Description is only visible when user opens details screen |
+| title* | Some nice title       | It will be displayed on ballon
+| descr* | Pin description       | Description is only visible when user opens details screen |
 
 *Optional params
 
-##Example
+##Usage example
 
 ```
   if ([[UIApplication sharedApplication] canOpenURL:[NSURL URLWithString:@"galileo://"]]) {
