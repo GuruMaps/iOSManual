@@ -12,38 +12,36 @@ The Galileo application can then locate an address, mark an address on the map, 
 
 All examples based on same URL `https://galileo-app.com/map?a={nav,search,pin}` where  action name is stored inside `a` param. And everything after it is an action params.
 
-##Start navigation {#navigation}
+##Preview route or start navigation {#navigation}
 
 Example: `https://galileo-app.com/map?a=nav&dest=53.9,27.4&type=bike`
 
 | param    | value                 | description             |
 |----------|-----------------------|-------------------------|
-| a        | nav                   | Action is navigation    |
-| dest     | lat,lon               | Destination coordinates |
-| type*    | {car,bike,walk}       | Costing function. Default value is `car` |
+| a        | {route, nav}           | Action `route` opens route preview, `nav` starts navigation right away |
+| dest     | lat,lon                 | Destination coordinates |
+| dep*     | lat,lon                 | Departure coordinates. By default is user location. |
+| type*    | {car, bike, walk}       | Costing function. Default value is `car` |
 
 *Optional params
 
-Example: `https://galileo-app.com/map?a=nav&lat=1.234&lon=1.234`
-
 ##Perform search {#search}
+
+Example: `https://galileo-app.com/map?a=search&q=Минск`
 
 | param  | value                 | description            |
 |--------|-----------------------|------------------------|
 | a      | search                | Action is search       |
 | q      | query text            | It could be object name, coordinates or address |
-| lat, lon*   | latitude | Location where search should be performed. Typically it's user location.
-| lon*   | longitude | |
 
-Example: `https://galileo-app.com/map?a=search&q=Минск`
+*Optional params
 
 ##Show pin {#bookmark}
 
 | param  | value                 | description            |
 |--------|-----------------------|------------------------|
 | a      | pin                   | Action is pin          |
-| lat    | from -90 to 90        | Pin latitude  |
-| lon    | from -180 to 180      | Pin longitude |  
+| loc    | lat,lon               | Pin location           |
 | zoom*  | 3 - 22 | Map zoom. Default value is `15` |
 | title* | Some nice title | It will be displayed on ballon
 | descr* | Pin description | Description is only visible when user opens details screen |
@@ -52,3 +50,13 @@ Example: `https://galileo-app.com/map?a=search&q=Минск`
 
 ##Example
 
+```
+  if ([[UIApplication sharedApplication] canOpenURL:[NSURL URLWithString:@"galileo://"]]) {
+      // Galileo is installed. Launch Galileo and start navigation
+      NSString *urlStr = [NSString stringWithFormat:@"https://galileo-app.com/map?a=nav&dest=%f,%f", latitude,  longitude];
+      [[UIApplication sharedApplication] openURL:[NSURL URLWithString:urlStr]];
+  } else {
+    // Galileo is not installed. Launch AppStore to install Galileo app
+    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"http://itunes.apple.com/us/app/id321745474"]];
+  }
+```
