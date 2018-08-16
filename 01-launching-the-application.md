@@ -67,7 +67,7 @@ Tap the map and hold to bring up the pop-up with available options \(from left t
 
 <img src="/assets/map_popup.png" width="268" height="97" />
 
-To measure the straight line distance between two points “as the crow flies”, tap your starting and destination points simultaneously with your fingers on the map and hold to trace the path. A dashed line will appear on the map between the two locations, and the estimated distance will then be displayed.
+To measure the straight line distance between two points “as the crow flies”, tap your starting and destination points simultaneously with your fingers on the map and hold to trace the path. A dashed line will appear on the map between the two locations, and the estimated distance will then be displayed:
 
 <img src="/assets/measuring_distance.png" width="270" height="63" />
 
@@ -77,7 +77,7 @@ To measure the straight line distance between two points “as the crow flies”
 
 ### Location button {#locationButton}
 
-The App works in multiple modes depending on the number of taps on the _Location_ button with the following sign ![](/assets/icon_gps.png). Your position is shown on the map as a blue marker where you are currently position and as a blue arrow when you are moving:
+The app works in multiple modes depending on the number of taps on the _Location_ button with the following sign ![](/assets/icon_gps.png). Your position is shown on the map as a blue marker where you are currently position and as a blue arrow when you are moving:
 
 <img src="/assets/map_location.png" width="250" height="250" /> !<img src="/assets/map_driving.png" width="250" height="250" />
 
