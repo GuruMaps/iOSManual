@@ -199,15 +199,15 @@ Select the mode in which the route will be built.
 
 * Online - internet connection required to build a route:
 
-<img src="/assets/settings_navigation_1.png" width="375" height="297" />
+<img src="/assets/settings_navigation_1.png" width="375" height="172" />
 
 * Online First - if there's no internet connection, the rout will be build using an offline navigation data (**downloaded navigation data required**):
 
-<img src="/assets/settings_navigation_3.png" width="375" height="297" />
+<img src="/assets/settings_navigation_3.png" width="375" height="236" />
 
 * Offline -  no internet connection required to build a route (**downloaded navigation data required**):
 
-<img src="/assets/settings_navigation_2.png" width="375" height="297" />
+<img src="/assets/settings_navigation_2.png" width="375" height="238" />
 
 **Note:** to download a map with navigation data you need to use "Online First" or "Offline" mode.
 
