@@ -29,7 +29,7 @@ Performing a search in the following ways allows you to search places fast and e
 * by categories,  
 * by name,
 * by GPS coordinates,
-* by address \(Internet connection required\).
+* by address (**internet connection required**).
 
 ### Search by category
 
@@ -138,7 +138,7 @@ Read also: [How to pair your iOS device with your Bluetooth accessories.](https:
 
 ## Importing KML/KMZ/GPX Files {#importing}
 
-> You can easily import KML/KMZ/GPX files to view them on the map in several ways using email, URL or Files app.
+You can easily import KML/KMZ/GPX files to view them on the map in several ways using email, URL or Files app.
 
 #### Email
 
@@ -179,14 +179,14 @@ If you store your KML/KMZ/GPX files in Dropbox:
 
 **Note**: There is also an option to import multiple folders from a single KML file separately or merge them into one collection available:
 
-* Keep several collections,
-* Save to one collection.
+* Keep several collections
+* Save to one collection
 
 <img src="/assets/import_several_collections.png" width="375" height="312" />
 
 ## Exporting Geodata {#exporting}
 
-> Galileo allows you to export any of you routing geodata \(bookmarks, tracks or whole collections\) to KML/GPX files in several ways.
+Galileo allows you to export any of you routing geodata \(bookmarks, tracks or whole collections\) to KML/GPX files in several ways.
 
 #### Save to Files
 
@@ -219,7 +219,7 @@ Read also: [About File Sharing on iOS](https://support.apple.com/en-us/HT201301)
 
 ## Bookmarks {#bookmarks}
 
-> The Bookmarks feature is a great way to keep your favorite places at your fingertips. Save places you want to go to or mark an interesting POI on the go that you could come back to later.
+The Bookmarks feature is a great way to keep your favorite places at your fingertips. Save places you want to go to or mark an interesting POI on the go that you could come back to later.
 
 #### Create new bookmark
 
@@ -275,13 +275,11 @@ To **delete a bookmark**, tap the ![](/assets/icon_trash.png) icon at the bottom
 
 ## GPS Tracks {#GPSTracks}
 
-> Galileo Offline Maps lets you record your movements, view detailed statistics and export recorded GPS tracks in most common formats.
+Galileo Offline Maps lets you record your movements, view detailed statistics and export recorded GPS tracks in most common formats.
 
 #### Record GPS Track
 
-To **record GPS Track**, tap the **REC** button on the map. It will become red. If you recorded track before, you will be prompted to continue the last track recording, or to start a new one. Tap the **REC** button again and the recording stops:
-
-Tap the **REC** button again and the recording stops:
+To **record GPS Track**, tap the **REC** button on the map. It will become red. If you recorded track before, you will be prompted to continue the last track recording, or to start a new one. Tap the **REC** button again and the recording stops.
 
 <img src="/assets/icon_rec_disabled.png" width="44" height="44" /> — track is not recording
 <img src="/assets/icon_rec_enabled.png" width="44" height="44" /> — track is recording now
@@ -295,7 +293,6 @@ Tap the **REC** button again and the recording stops:
 <img src="/assets/track_example.png" width="375" height="236" />
 
 #### View GPS track details {#TrackDetails}
-
 
 <img src="/assets/track_description.png" width="375" height="667" />
 
@@ -342,7 +339,7 @@ Filter by the minimum distance between points of a recorded track. Points that a
 
 ## Collections {#collections}
 
-> Collections are groups of bookmarks and GPS tracks, like folders on your desktop. Organising items into collections makes it easy to keep your travel itineraries separate from each other.
+Collections are groups of bookmarks and GPS tracks, like folders on your desktop. Organising items into collections makes it easy to keep your travel itineraries separate from each other.
 
 #### My Collections List
 
