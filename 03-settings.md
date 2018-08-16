@@ -13,7 +13,7 @@ Vector maps are detailed, smooth, fast and provide high-quality image rendered i
 
 **Note**: you can also use your own maps in .sqlitedb and .mbtiles formats, previously created on a computer and then imported into your device. Such maps can be viewed offline even when your mobile device has no internet connection. However, any personal raster/tile maps will use considerably more space than vector maps you may install.
 
-Read also: [Offline Maps Import](/04-tips-and-tricks-and-troubleshooting.md).
+Read also: [Offline Maps Import](/04-tips-and-tricks-and-troubleshooting.md)
 
 ### Online maps
 
@@ -24,7 +24,7 @@ There is a list of built-in raster map sources available online:
 * OpenBusMap
 * OpenCycleMap
 * OpenStreetMap
-* Stamen – Terrain \(USA only\)
+* Stamen – Terrain (USA only)
 * Stamen – Toner
 
 Caching is always enabled – the app saves all recently viewed map images in your cache and keeps them available for offline usage. To save maps, navigate to the area you are going to visit and zoom-in to the lowest viewable level of detail while you have access to the Internet. The level of saved detail will reflect the zoom level you viewed.
@@ -232,7 +232,7 @@ When the backup finished successfully, you'll see the name of the device along w
 
 <img src="/assets/data_backup.png" width="359" height="306" />
 
-**Note**: Created backup only includes data from My Collections \(bookmarks and GPS tracks\), and it doesn't include downloaded and cached tiles.
+**Note**: Created backup only includes data from My Collections (bookmarks and GPS tracks), and it doesn't include downloaded and cached tiles.
 
 #### Save backup
 
@@ -248,7 +248,7 @@ Read also: [**Use the Files App on your iPhone, iPad, and iPod touch**](https://
 
 #### Restore from a backup
 
-Tap the backup you created earlier in the list on the Data Backup screen to restore, or select .gbackup file from the Files app or from other cloud service \(e.g. in Dropbox App\), then tap the ![](/assets/icon_export.png) icon and select **Copy to Galileo** option.
+Tap the backup you created earlier in the list on the Data Backup screen to restore, or select .gbackup2 file from the Files app or from other cloud service \(e.g. in Dropbox App\), then tap the ![](/assets/icon_export.png) icon and select **Copy to Galileo** option.
 
 <img src="/assets/data_backup_restore.png" width="360" height="640" />
 
