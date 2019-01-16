@@ -2,84 +2,118 @@
 
 > In this article we will show some distinguishing features, that will make your Galileo experience easier and more complete.
 
+## Download Maps {#download}
+
+Free vector maps by country are available for download within the App:
+
+<img src="/assets/download_map_3.png" width="375" height="667" />
+
+To **download the map of the selected country**, tap the ![](/assets/icon_download_map.png) button next to the country name in _Available Maps_ list.  
+
+To **pause a download**, tap the cell with the country name tap it again to resume a download.  
+
+To **go to the downloaded map**, tap the ![](/assets/icon_show_on_map.png) button.  
+
+To **remove the map,** swipe your finger across the country name from right to left, then tap the **Delete** button, or use the **Edit** button.
+
+As OpenStreetMap data is constantly updated by thousands of volunteers around the world, map updates are available from time to time within the app. In the Galileo app all vector map updates are free and distributed automatically. If there is an update for a previously downloaded map, you will see the **Update** button beside the map.
+
+To **update all your downloaded maps**, tap the **Update All** button.
+
+**Tip**: if you wat to use navigation while being offline, please further download the navigation data at the [Navigation Settings](03-settings.md#navigationSettings).
+
 ## Search {#search}
 
-The App lets you search within [My Collections](02-features.md#collections) content as well as the vector map data within OpenStreetMap.  
-To open the search screen, tap the ![](/assets/icon_serach.png) search button. Type or paste the keyword you want to find in the search field, then tap **Done** on the keyboard.  
+Galileo allows to search within the downloaded vector maps by name, by categories, by address and by GPS coordinates.
 
-Search results will be displayed on the map and in the list below the search field. It is also possible to narrow down your search using the **Search around me** option at the bottom.  
+All types of searches are completely offline and require only the vector maps to be downloaded. The object will be found in Galileo if it exists on OpenStreetMap.org.
 
-Tap an any of the results in the list to open its entry or back to the map to overview them all. The search will be refined as you browse the map automatically and only results meeting the selected search criteria will be displayed in the visible area.
+#### Start search
 
-If search results are found, the search icon will be changed to the ![](/assets/icon_search_results.png). To reset search results, tap the clear ![](/assets/icon_cross.png) icon.
+To open the search screen, tap the magnifying-glass ![](/assets/icon_serach.png) icon. Type or paste the keyword you want to find in the search field, then tap **Find** on the keyboard.  
 
-**Note:** if you didn't clean your search query - search results will be displayed on a map as icons:
+You can also use your voice to perform a search instead of typing when you're connected to the Internet. Just tap the search field, and then tap the microphone ![](/assets/icon_mic.png) icon next to the spacebar on the iOS keyboard to start dictating. When you’re finished, tap **Done** and then wait for your words to be processed. It can take a few seconds for text to appear.
 
-<img src="/assets/search_query_1.png" width="375" height="667" />
- 
-<img src="/assets/search_query_2.png" width="375" height="667" />
+#### Search suggestions
+
+Quick search mechanism designed to make it faster to complete your searches. Just begin typing, and you’ll see the
+suggested results appear:
+
+<img src="/assets/search_quick_suggest.png" width="375" />
+
+If nothing of these quick suggestions matches your query, then tap **Find** on the keyboard to get the full list of results.
+
+#### History
+Below the category icons you’ll see a list of search queries with a clock icon on the left. We show these to help you quickly get back to a previous search you may have conducted.
+
+<img src="/assets/search_history.png" width="375" />
+
+#### Results on the map
+
+Search results will appear on the map in addition to the scrollable list below. Map preview is interactive and search results are refreshed on the fly as you move and scale the map.
+
+<img src="/assets/search_results_list.png" width="375" />
+
+Tap any result on the map or in the list to get more information in details view below. Tap it again on the map to come back to all search results list again. 
+
+<img src="/assets/search_results_details.png" width="375" />
+
+After you find a place, you can view it on the map, get directions to this place or save as bookmarks in your collections:
+
+<img src="/assets/search_results_actions.png" width="375" />
 
 
-**Voice Search**: You can use your voice to perform a search instead of typing when you're connected to the Internet. Just tap the search field, and then tap the microphone icon next to the spacebar on the iOS keyboard to start dictating. When you’re finished, tap **Done** and then wait for your words to be processed. It can take a few seconds for text to appear.
+#### Search by name
 
-**Note**: The App makes searching within the downloaded offline maps and only places which are mapped within OpenStreetMap can be found and displayed.
+It is not necessary to type punctuation or worry about capital letters, but the search will not recognize a misspelling.
 
-Performing a search in the following ways allows you to search places fast and easy:
 
-* by categories,  
-* by name,
-* by GPS coordinates,
-* by address (**internet connection required**).
+#### Search by category
+You can also search for a category, like food or shops:
 
-### Search by category
+<img src="/assets/search_categories.png" width="375" />
 
-There are predefined categories available on the screen for a quick search. Just tap the category icon \(food, accommodation, etc\) to list the matching results for a given category:
+At the top of a search results for selected category, you can see ways to narrow down your results:
 
-<img src="/assets/search_1.png" width="375" height="379" />
+<img src="/assets/search_categories_filter.png" width="375" />
 
-You can also narrow your search by entering the keyword after the category name as shown below:
+You can edit your search criteria to find exactly what you want. Just tap the search field and start typing to refine your search:
 
-<img src="/assets/search_2.png" width="374" height="423" />
+<img src="/assets/search_categories_refine.png" width="375" />
 
-### Search by name
 
-Just start typing the name of the object \(POI\) you are looking for. As you type, you'll see a list of search results and suggestions:
+#### Search by address
 
-<img src="/assets/search_3.png" width="375" height="378" />
+Start typing the street name, and Galileo starts offering matching entries, choose one you want:
 
-**Tip**: It is not necessary to type punctuation or worry about capital letters, but the search will not recognize a misspelling.
+<img src="/assets/search_address.png" width="375" />
 
-### Coordinates search
+Then Galileo displays a list of all house numbers on the street:
+
+<img src="/assets/search_address_2.png" width="375" />
+
+Enter house numbers to narrow the selection:
+
+<img src="/assets/search_address_3.png" width="375" />
+
+### Search by coordinates
 
 If you know the exact coordinates of a location, you can simply enter them into the search field to locate it on the map:
 
-<img src="/assets/search_4.png" width="375" height="223" />
+<img src="/assets/search_coordinates.png" width="375" />
 
-Read also: [Units Format](03-settings.md#unitsFormat)
+You may enter the coordinates in any of the supported coordinate formats. To avoid confusion while inputting coordinates from the keyboard it is possible to use spaces instead of \(‘\) Right Single Quotation Mark, \(”\) Right Double Quotation Mark or \(°\) Degree Sign.
 
-**Tip**: You may enter the coordinates in any of the supported coordinate formats. To avoid confusion while inputting coordinates from the keyboard it is possible to use spaces instead of \(‘\) Right Single Quotation Mark, \(”\) Right Double Quotation Mark or \(°\) Degree Sign.
+Read also: [Units Format](03-settings.md#unitsFormat).
 
-### Address search
-
-Type city, zip or address of any location on the world map \(in that sequence with a comma as shown\). If there are no search results found within the downloaded maps, tap **Done** to perform a search **online**:
-
-<img src="/assets/search_address_1.png" width="375" height="377" />
-
-To get routed to the selected search result, swipe right on the cell in the list:
-
-<img src="/assets/search_address_2.png" width="375" height="377" />
-
-To view more address and contact information, tap the desired result in the list.
-
-<img src="/assets/search_address_3.png" width="375" height="492" />
-
-To save search result to your collections, tap ![](/assets/icon_save_to_collections.png) icon at the bottom of details screen.
 
 ## Navigation {#navigation}
 
 Galileo Offline Maps gives you the ability to find the best route and get step by step directions for your drive or walk.
 
 **Note:** to build a route offline you need to download navigation data first.
+
+Read also: [Navigation Settings](03-settings.md#navigationSettings).
 
 #### Create route
 
@@ -227,7 +261,7 @@ Touch and hold on the map until the pop-up appears, then tap the Bookmark icon:
 
 <img src="/assets/long_tap.png" width="269" height="86" />
 
-If you have coordinates in your clipboard Galileo cam import them for you:
+If you have coordinates in your clipboard Galileo can import them for you:
 
 <img src="/assets/bookmark_clipboad.png" width="375" height="194" />
 

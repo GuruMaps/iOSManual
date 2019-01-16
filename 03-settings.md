@@ -29,37 +29,24 @@ There is a list of built-in raster map sources available online:
 
 Caching is always enabled – the app saves all recently viewed map images in your cache and keeps them available for offline usage. To save maps, navigate to the area you are going to visit and zoom-in to the lowest viewable level of detail while you have access to the Internet. The level of saved detail will reflect the zoom level you viewed.
 
-Read also: [Cache Info](/03-settings.md#cacheInfo).
+Read also: [Online Maps Settings](/03-settings.md#cacheInfo).
 
 **Note**: map download speed can vary while using online sources, and depends on the speed of your Internet connection and the speed of the server from where the map is downloaded.
 
-In addition to built-in online raster maps, Galileo Offline Maps also supports custom online maps. You can add any source of maps you like using a special XML file that contains formatted description from the map provider.
+
+
+#### Additional sources
+In addition to built-in online raster maps, Galileo Offline Maps also supports custom online maps. You can add more online map sources to Galileo from here: 
+
+* https://ms.galileo-app.com/ 
+* https://custom-map-source.appspot.com
+
+You can also add any source of maps you like using a special XML file that contains formatted description from the map provider.
 
 Read also: [Custom Map Sources](/04-tips-and-tricks-and-troubleshooting.md#customMapSources).
 
-#### Additional source
-
-You can add more online map sources to Galileo here: https://ms.galileo-app.com/
 
 ## Vector Maps Settings {#VectorMapsSettings}
-
-### Download Maps
-
-Free vector maps by country are available for download within the App:
-
-<img src="/assets/download_map_3.png" width="375" height="667" />
-
-To **download the map of the selected country**, tap the ![](/assets/icon_download_map.png) button next to the country name in _Available Maps_ list.  
-
-To **pause a download**, tap the cell with the country name tap it again to resume a download.  
-
-To **go to the downloaded map**, tap the ![](/assets/icon_show_on_map.png) button.  
-
-To **remove the map,** swipe your finger across the country name from right to left, then tap the **Delete** button, or use the **Edit** button.
-
-As OpenStreetMap data is constantly updated by thousands of volunteers around the world, map updates are available from time to time within the app. In the Galileo app all vector map updates are free and distributed automatically. If there is an update for a previously downloaded map, you will see the **Update** button beside the map.
-
-To **update all your downloaded maps**, tap the **Update All** button.
 
 ### Font and Language {#FontAndLanguage}
 
@@ -131,7 +118,7 @@ To display a bookmark name on the map, turn this option on. The bookmark view wi
 
 The device screen will be turned off automatically after a specified period of time to save power. Turn this option off If you don’t want the screen to lock while using the Galileo.
 
-### New Buttons Layout
+### Buttons at Right
 
 Turn this option on to display the major application functions. The functions will be aligned to the right of the screen for single finger selection.
 
@@ -144,15 +131,16 @@ Turn this option on to display the major application functions. The functions wi
 
 #### Default track style
 
-Selected style is a default line style for the newly recorded and imported GPS tracks (solid color/speed gradient/altitude gradient).
+Selected style is a default line style for the newly recorded and imported GPS tracks (**solid color**/**speed gradient**/**altitude gradient**).
 
-#### Show Direction arrows
+#### Show direction arrows
 
 Enables/disables display of arrows on the track:
 
 <img src="/assets/direction_arrows_1.png" width="375" height="311" />
 
 <img src="/assets/direction_arrows_2.png" width="375" height="311" />
+
 
 
 #### GPS filtering {#GpsFiltering}
@@ -179,19 +167,8 @@ The category you select will become the default icon for newly created and impor
 <img src="/assets/default_bookmark.png" width="375" height="474" />
 
 
-## Advanced Settings {#advanced}
 
-### Synchronization {#sync}
-
-Galileo Offline Maps allows you to synchronize all your data to make your collections visible and available through all your iOS devices using your Facebook or iCloud account.
-
-App uses Facebook/iCloud login only can be done, this does not let the Galileo post or share your data.
-
-To enable the synchronization feature, go to the app Settings &gt; Sync and select the desired synchronizing option. Use the same login on all your devices to keep the data synchronized.
-
-<img src="/assets/sync.png" width="375" height="297" />
-
-### Navigation {#navigation}
+## Navigation Settings {#navigationSettings}
 
 #### Navigation Mode
 
@@ -221,7 +198,20 @@ To change the language, select one from the Voice Instructions list:
 
 **Tip**: If you connect your iOS device to the Bluetooth-capable stereo system in a car, you will hear voice instructions over your car speakers.
 
-### Data Backup {#dataBackup}
+
+##Synchronization {#sync}
+
+Galileo Offline Maps allows you to synchronize all your data to make your collections visible and available through all your iOS devices using your Facebook or iCloud account.
+
+App uses Facebook/iCloud login only can be done, this does not let the Galileo post or share your data.
+
+To enable the synchronization feature, go to the app Settings > Sync and select the desired synchronizing option. Use the same login on all your devices to keep the data synchronized.
+
+<img src="/assets/sync.png" width="359" />
+
+
+
+## Data Backup {#dataBackup}
 
 Backing up data is a great way to minimize accidental data loss and restore the most important geodata on your iOS device.
 
@@ -254,21 +244,21 @@ Tap the backup you created earlier in the list on the Data Backup screen to rest
 
 **Note**: Restoring from backup will remove all current bookmarks and GPS tracks in My Collections.
 
-### Cache info {#cacheInfo}
+## Online Maps Settings {#cacheInfo}
 
 #### Map Refresh
 
-To set how often to refresh cached map tiles for online maps, go to Settings &gt; Cache Info. All tiles older than selected time will be downloaded while browsing online.
+To set how often to refresh cached map tiles for online maps, go to Settings &gt; Online Maps. All tiles older than selected time will be downloaded while browsing online.
 
 **Note**: The map refresh setting only applies to raster maps and not the vector maps.
 
 #### Cache Info
 
-All loaded map tiles will be automatically saved to your device's storage and can be managed in Settings &gt; Cache Info, so you can delete the tiles you no longer need if you want to free up storage space.
+All loaded map tiles will be automatically saved to your device's storage and can be managed in Settings &gt; Online Maps, so you can delete the tiles you no longer need if you want to free up storage space.
 
 <img src="/assets/cache_info.png" width="375" height="422" />
 
-### Units Format {#unitsFormat}
+## Units Format {#unitsFormat}
 
 To set the units system and coordinates format you would like to use with Galileo Offline Maps, go to Settings &gt; Units Format.
 
