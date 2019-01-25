@@ -1,6 +1,6 @@
 # Settings
 
-> Galileo Offline Maps is available in a ready-to-use state and app settings should be considered as an optional and more advanced way of using the App. Settings let you configure app options, purchase additional features and manage routing geo data representation.
+> Guru Maps is available in a ready-to-use state and app settings should be considered as an optional and more advanced way of using the App. Settings let you configure app options, purchase additional features and manage routing geo data representation.
 
 ## Map Source {#MapSources}
 
@@ -36,7 +36,7 @@ Read also: [Online Maps Settings](/03-settings.md#cacheInfo).
 
 
 #### Additional sources
-In addition to built-in online raster maps, Galileo Offline Maps also supports custom online maps. You can add more online map sources to Galileo from here: 
+In addition to built-in online raster maps, Guru app also supports custom online maps. You can add more online map sources from here: 
 
 * https://ms.galileo-app.com/ 
 * https://custom-map-source.appspot.com
@@ -52,7 +52,7 @@ Read also: [Custom Map Sources](/04-tips-and-tricks-and-troubleshooting.md#custo
 
 #### Font size
 
-You can configure Galileo to display all text on a vector map at various font size. To increase, decrease, or change the default font size, go to app Settings &gt; Font and Languages:
+You can configure Guru to display all text on a vector map at various font size. To increase, decrease, or change the default font size, go to app Settings &gt; Font and Languages:
 
 #### Preferred language order
 
@@ -82,6 +82,21 @@ In addition to the basic appearance settings, you can select the **POIs** you wi
 * Public transport stops
 * Train and metro stations
 * Building names and numbers
+
+
+## Online Maps Settings {#cacheInfo}
+
+#### Map Refresh
+
+To set how often to refresh cached map tiles for online maps, go to Settings &gt; Online Maps. All tiles older than selected time will be downloaded while browsing online.
+
+**Note**: The map refresh setting only applies to raster maps and not the vector maps.
+
+#### Cache Info
+
+All loaded map tiles will be automatically saved to your device's storage and can be managed in Settings &gt; Online Maps, so you can delete the tiles you no longer need if you want to free up storage space.
+
+<img src="/assets/cache_info.png" width="375" height="422" />
 
 ## Appearance Settings {#appearance}
 
@@ -116,7 +131,7 @@ To display a bookmark name on the map, turn this option on. The bookmark view wi
 
 ### Screen Auto-Lock {#screenAutoLock}
 
-The device screen will be turned off automatically after a specified period of time to save power. Turn this option off If you don’t want the screen to lock while using the Galileo.
+The device screen will be turned off automatically after a specified period of time to save power. Turn this option off If you don’t want the screen to lock while using the Guru Maps.
 
 ### Buttons at Right
 
@@ -166,7 +181,27 @@ The category you select will become the default icon for newly created and impor
 
 <img src="/assets/default_bookmark.png" width="375" height="474" />
 
+## Units Format {#unitsFormat}
 
+To set the units system and coordinates format you would like to use within the Guru app, go to Settings &gt; Units Format.
+
+#### Units system
+
+The following units of measure for distance and speed are available to select from:
+
+* **km** — for kilometres & km/h,
+* **mi** — for miles & mph,
+* **NM** — for nautical miles & kts.
+
+#### Coordinates format
+
+In Guru Maps you can choose to represent your coordinates in various formats. The coordinate format you select will be used to display all coordinates within the App. Here is an example of different coordinate formats for New York city follows:
+
+* +40.730598, -73.986580 \(DDD.DDDDD\)
+* 40°43'50.1" N, 73°59'11.6" W \(DDD°MM' SS.S"\)
+* 40°43.835' N, 73°59.194' W \(DDD°MM.MMM’\)
+* 40.73060° N, 73.98658° W \(DDD.DDDDD°\)
+* 18TWL 85577 09345 \(MGRS\)
 
 ## Navigation Settings {#navigationSettings}
 
@@ -201,9 +236,9 @@ To change the language, select one from the Voice Instructions list:
 
 ##Synchronization {#sync}
 
-Galileo Offline Maps allows you to synchronize all your data to make your collections visible and available through all your iOS devices using your Facebook or iCloud account.
+Guru app allows you to synchronize all your data to make your collections visible and available through all your iOS devices using your Facebook or iCloud account.
 
-App uses Facebook/iCloud login only can be done, this does not let the Galileo post or share your data.
+App uses Facebook/iCloud login only can be done, this does not let the Guru post or share your data.
 
 To enable the synchronization feature, go to the app Settings > Sync and select the desired synchronizing option. Use the same login on all your devices to keep the data synchronized.
 
@@ -238,51 +273,8 @@ Read also: [**Use the Files App on your iPhone, iPad, and iPod touch**](https://
 
 #### Restore from a backup
 
-Tap the backup you created earlier in the list on the Data Backup screen to restore, or select .gbackup2 file from the Files app or from other cloud service \(e.g. in Dropbox App\), then tap the ![](/assets/icon_export.png) icon and select **Copy to Galileo** option.
+Tap the backup you created earlier in the list on the Data Backup screen to restore, or select .gbackup2 file from the Files app or from other cloud service \(e.g. in Dropbox App\), then tap the ![](/assets/icon_export.png) icon and select **Copy to Guru Maps** option.
 
 <img src="/assets/data_backup_restore.png" width="360" height="640" />
 
 **Note**: Restoring from backup will remove all current bookmarks and GPS tracks in My Collections.
-
-## Online Maps Settings {#cacheInfo}
-
-#### Map Refresh
-
-To set how often to refresh cached map tiles for online maps, go to Settings &gt; Online Maps. All tiles older than selected time will be downloaded while browsing online.
-
-**Note**: The map refresh setting only applies to raster maps and not the vector maps.
-
-#### Cache Info
-
-All loaded map tiles will be automatically saved to your device's storage and can be managed in Settings &gt; Online Maps, so you can delete the tiles you no longer need if you want to free up storage space.
-
-<img src="/assets/cache_info.png" width="375" height="422" />
-
-## Units Format {#unitsFormat}
-
-To set the units system and coordinates format you would like to use with Galileo Offline Maps, go to Settings &gt; Units Format.
-
-#### Units system
-
-The following units of measure for distance and speed are available to select from:
-
-* **km** — for kilometres & km/h,
-* **mi** — for miles & mph,
-* **NM** — for nautical miles & kts.
-
-#### Coordinates format
-
-In Galileo Offline Maps you can choose to represent your coordinates in various formats. The coordinate format you select will be used to display all coordinates within the App. Here is an example of different coordinate formats for New York city follows:
-
-* +40.730598, -73.986580 \(DDD.DDDDD\)
-* 40°43'50.1" N, 73°59'11.6" W \(DDD°MM' SS.S"\)
-* 40°43.835' N, 73°59.194' W \(DDD°MM.MMM’\)
-* 40.73060° N, 73.98658° W \(DDD.DDDDD°\)
-* 18TWL 85577 09345 \(MGRS\)
-
-## Help {#Help}
-
-### Contact Us
-
-Feel free to ask for further assistance or to report any problems you find at info@galileo-app.com or choose the Contact Support option directly within the app settings \(**Internet connection required**\).
-

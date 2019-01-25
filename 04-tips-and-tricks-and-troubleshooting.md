@@ -65,7 +65,7 @@ The most important tags of this definition are described below:
 There are several ways to add custom online map source to the app:
 
 1. Place the XML file in the app shared folder in iTunes.
-2. Open the XML file attached to Email on your device using the "Open in Galileo" option.
+2. Open the XML file attached to Email on your device using the "Open in Guru Maps" option.
 3. Open the XML file from Dropbox on your device using the "Open in.." option.
 	
 As a result, the new map source will appear in Map Source list.
@@ -89,11 +89,11 @@ The main idea is to create an offline map for the desired area in advance with o
 * [TileMill](https://tilemill-project.github.io/tilemill/)
 * [SAS.Planet](http://sasgis.ru/sasplaneta/)
 
-_Mobile Atlas Creator (MOBAC)_ – is free software that allows you to download maps from numerous map sources, and save them in the .sqlitedb format used by Galileo Offline Maps. This tool is compatible with Windows, Mac OS X and Linux.
+_Mobile Atlas Creator (MOBAC)_ – is free software that allows you to download maps from numerous map sources, and save them in the .sqlitedb format used by Guru Maps. This tool is compatible with Windows, Mac OS X and Linux.
 
 Reference: to learn how to create offline maps in **.sqlitedb** format, please refer to the [MOBAC manual](http://mobac.sourceforge.net/quickstart/).
 				
-_TileMill (by MapBox)_ – is a desktop application for cartographers to quickly and easily design and create stunning offline maps in the .mbtiles format supported by Galileo Offline Maps. It is completely compatible with Mac OS X, Windows and Ubuntu.
+_TileMill (by MapBox)_ – is a desktop application for cartographers to quickly and easily design and create stunning offline maps in the .mbtiles format supported by Guru Maps. It is completely compatible with Mac OS X, Windows and Ubuntu.
 
 Reference: to learn how to create offline maps in **.mbtiles** format, please refer to the [TileMill manual](https://tilemill-project.github.io/tilemill/docs/manual/).
 					
@@ -108,8 +108,8 @@ Once you have created an offline map, you should upload it to your device. There
 
 Connect your device to your computer and perform these steps:
 1. Launch the iTunes application and select your device.
-2. Open File Sharing in the left sidebar and select Galileo in the Apps list.
-3. Add the file to the offline map into the Galileo Documents.
+2. Open File Sharing in the left sidebar and select Guru in the Apps list.
+3. Add the file to the offline map into the Guru Documents.
 
 ![](assets/file_sharing_itunes.png)
 
@@ -118,7 +118,7 @@ Connect your device to your computer and perform these steps:
 In addition to iTunes sync, there is another handy way to upload your offline maps using the iOS Files app:
 1. Put the file with the created offline map, in .sqlitedb/.mbtiles format, in the Files/iCloud drive on your computer.
 2. Open the Files app on your iOS device and wait until the file you placed there is synchronized automatically between the devices.
-3. Select the offline map you would like to import and tap the  icon, then select "Copy to Galileo" option to initiate the import process.
+3. Select the offline map you would like to import and tap the  icon, then select "Copy to Guru Maps" option to initiate the import process.
 
 
 #### Using offline maps
@@ -130,7 +130,7 @@ Go to Map Source in app settings and select the imported map name in the list an
 In order to access the exported collection, bookmark or GPS track using File Sharing:
 						
 1. Launch the iTunes application and select your device.
-2. Open File Sharing in the left sidebar and select Galileo in the Apps list to view a list of the files exported within the app on your iOS device.
+2. Open File Sharing in the left sidebar and select Guru in the Apps list to view a list of the files exported within the app on your iOS device.
 3. Select the file you want to copy to your computer from the Documents list and click the "Save to.." button.
 4. Locate the folder on your computer to which you want to copy a selected file and click the Open button. The selected files will be copied to your computer immediately.
 
@@ -138,8 +138,8 @@ In order to access the exported collection, bookmark or GPS track using File Sha
 #### Hidden Settings
 
 
-Hidden settings are tweaks which have been developed to adapt the behavior and appearance of the application to your specific way of use. To access them, just go to the system Settings, scroll down and find the Galileo in the app list.
-The following additional settings are available for Galileo:
+Hidden settings are tweaks which have been developed to adapt the behavior and appearance of the application to your specific way of use. To access them, just go to the system Settings, scroll down and find the Guru in the app list.
+The following additional settings are available for Guru:
 
 * **Allow overzoom on map**. If enabled, the map can be zoomed closer than the scale allows.
 * **Allow map rotation**. If enabled, the app recognizes the map rotation using two fingers gesture.
