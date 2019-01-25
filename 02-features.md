@@ -176,7 +176,7 @@ Read also: [How to pair your iOS device with your Bluetooth accessories.](https:
 
 You can easily import KML/KMZ/GPX files to view them on the map in several ways using email, URL or Files app.
 
-#### Email
+#### Import from Email
 
 If you have a KML/KMZ/GPX file that someone shared with you via email, you can view it in the Guru app:
 
@@ -186,7 +186,7 @@ If you have a KML/KMZ/GPX file that someone shared with you via email, you can v
 
 <img src="/assets/file_import_email.png" width="360" />
 
-#### iCloud Drive
+#### Import from iCloud Drive
 
 If you store your KML/KMZ/GPX in **iCloud Drive**, you could import it using **Files** app:
 
@@ -194,18 +194,17 @@ If you store your KML/KMZ/GPX in **iCloud Drive**, you could import it using **F
 2. Tap the ![](/assets/icon_export.png) button.
 3. Select **Copy to Guru Maps** to initiate the import process.
 
-#### URL
+#### Import from URL
 
 In case you have a web link to the KML/KMZ/GPX file:  
 1. Tap the link to open it in your browser.
+2. Tap the **Open in Guru Maps**, to initiate the import process. 
 
-2a. Tap the **Open in Guru Maps**, to initiate the import process. 
+Note: If you have another app used by default to open this file format, select **More...**, then select **Copy to Guru Maps** option to initiate the import process.
 
-2b. If you have another app used by default to open this file format, select **More...**, then select **Copy to Guru Maps** option to initiate the import process.
+<img src="/assets/file_import_url_1.png" width="360" />  <img src="/assets/file_import_url_2.png" width="360" />
 
-<img src="/assets/file_import_url_1.png" width="360" height="640" />  <img src="/assets/file_import_url_2.png" width="360" height="640" />
-
-#### Dropbox app
+#### Import from Dropbox app
 
 If you store your KML/KMZ/GPX files in Dropbox:
 
@@ -215,7 +214,7 @@ If you store your KML/KMZ/GPX files in Dropbox:
 4. Tap on **Open in..** button.
 5. Select **Copy to Guru Maps** to initiate the import process.
 
-**Note**: There is also an option to import multiple folders from a single KML file separately or merge them into one collection available:
+There is also an option to import multiple folders from a single KML file separately or merge them into one collection available:
 
 * Keep several collections
 * Save to one collection
@@ -228,7 +227,7 @@ Guru allows you to export any of you routing geodata \(bookmarks, tracks or whol
 
 #### Save as KML/GPX file
 
-When you need to save your Guru Maps geodata or to transfer it to another app installed on your device, tap the ![](/assets/icon_share.png) icon on details screen.
+When you need to save your Guru Maps geodata or to transfer it to another app installed on your device, tap the ![](/assets/icon_share.png) icon on details screen:
 
 <img src="/assets/file_share_menu.png" width="375" />
 
@@ -291,7 +290,7 @@ To **move a bookmark to another collection**, tap the field with the collection 
 To **copy coordinates**, tap the ![](/assets/icon_copy.png) icon next to coordinates. It will bring up the pop-up with available options to copy bookmark coordinates:
 
 * **Copy as text** — coordinates will be copied to the clipboard in the format as you see it \(+9.570674, +100.060448\).
-* **Copy as URL** — coordinates will be copied as URL, containing geolocation information \(latitude, longitude, zoom level\) of a selected bookmark to share it by Email or SMS \(guru://9.570674,100.060446,16.0\). Tap this URL from the email or message on your device to view the location on the map within the installed Guru app.
+* **Copy as URL** — coordinates will be copied as URL, containing geolocation information \(latitude, longitude, zoom level\) of a selected bookmark to share it by Email or SMS \(guru://9.570674,100.060446\). Tap this URL from the email or message on your device to view the location on the map within the installed Guru app.
 
 <img src="/assets/bookmark_detail.png" width="375" height="667" />
 

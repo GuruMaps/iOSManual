@@ -14,6 +14,6 @@ This user manual is designed to help you get started as quickly as possible by i
 
 ## Contact Us {#contactUs}
 
-Feel free to ask for further assistance or to report any problems you find at **info@gurumaps.app** or choose the [Contact Support](03-settings.md#Help) option directly from the app settings.
+Feel free to ask for further assistance or to report any problems you find at **info@gurumaps.app** or choose the **Contact Support** option directly from the app settings.
 
 
