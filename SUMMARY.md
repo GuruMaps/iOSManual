@@ -34,6 +34,4 @@
   * [Custom Map Sources](04-tips-and-tricks-and-troubleshooting.md#customMapSources)
   * [Offline Maps Import](04-tips-and-tricks-and-troubleshooting.md#offlineMapsImport)
   * [Getting Exported Files](04-tips-and-tricks-and-troubleshooting.md#GettingExportedFiles)
-* [Galileo API](galileo-api.md)
-  * [Test](galileo-api.md#Navigate)
 
