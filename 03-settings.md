@@ -205,27 +205,16 @@ In Guru Maps you can choose to represent your coordinates in various formats. Th
 
 ## Navigation Settings {#navigationSettings}
 
-#### Navigation Mode
+#### Use Navigation Online
 
-Select the mode in which the route will be built.
+Enable to build the routes online first. If there is no Internet conection, the route will be built using an offline navigation data (if downloaded):
 
-* Online - internet connection required to build a route:
-
-<img src="/assets/settings_navigation_1.png" width="375" height="172" />
-
-* Online First - if there's no internet connection, the rout will be build using an offline navigation data (**downloaded navigation data required**):
-
-<img src="/assets/settings_navigation_3.png" width="375" height="236" />
-
-* Offline -  no internet connection required to build a route (**downloaded navigation data required**):
-
-<img src="/assets/settings_navigation_2.png" width="375" height="238" />
-
-**Note:** to download a map with navigation data you need to use "Online First" or "Offline" mode.
+<img src="/assets/navigation_mode.png" width="375"/>
 
 
-#### Voice Instructions
 
+#### Voice Instructions {#voiceSettings}
+ 
 The default language for voice instructions you hear while navigating a route depends on the language your device is set to use.  
 To change the language, select one from the Voice Instructions list:
 

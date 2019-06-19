@@ -12,7 +12,7 @@
   * [Application Modes](01-launching-the-application.md#applicationModes)
   * [Trip Computer](01-launching-the-application.md#tripComputer)
 * [Features](02-features.md)
-  * [Dowload Maps](02-features.md#download)
+  * [Download Maps](02-features.md#download)
   * [Search](02-features.md#search)
   * [Navigation](02-features.md#navigation)
   * [Importing KML/KMZ/GPX Files](02-features.md#importing)

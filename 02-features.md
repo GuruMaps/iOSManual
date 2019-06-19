@@ -4,23 +4,35 @@
 
 ## Download Maps {#download}
 
-Free vector maps by country are available for download within the App:
+#### Download maps and navigation data
 
-<img src="/assets/download_map_3.png" width="375" height="667" />
+Free vector maps by country are available for download within the Guru Maps in the app settings menu called **Download Maps**.
 
-To **download the map of the selected country**, tap the ![](/assets/icon_download_map.png) button next to the country name in _Available Maps_ list.  
+<img src="/assets/download_map_3.png" width="375" />
 
-To **pause a download**, tap the cell with the country name tap it again to resume a download.  
+Tap the country name to expand the list of available options:
+* Download a map,
+* Download a navigation data (if you whant to use navigation while being offline).
 
-To **go to the downloaded map**, tap the ![](/assets/icon_show_on_map.png) button.  
 
-To **remove the map,** swipe your finger across the country name from right to left, then tap the **Delete** button, or use the **Edit** button.
+To pause a download, tap the cell. Tap it again to resume a download.
 
-As OpenStreetMap data is constantly updated by thousands of volunteers around the world, map updates are available from time to time within the app. In the Guru app all vector map updates are free and distributed automatically. If there is an update for a previously downloaded map, you will see the **Update** button beside the map.
 
-To **update all your downloaded maps**, tap the **Update All** button.
+To remove the map or navigation data, swipe your finger across the cell from right to left, then tap the **Delete** button, or use the **Edit** button at the top right corner.
 
-**Tip**: if you whant to use navigation while being offline, please further download the navigation data at the [Navigation Settings](03-settings.md#navigationSettings).
+
+#### Update maps and navigation data
+
+As OpenStreetMap data is constantly updated by thousands of volunteers around the world, so map updates are available from time to time within the app. In the Guru Maps app all vector map updates are free and distributed automatically. If there is an update for a previously downloaded map, you will see the **Update** button beside the map.
+
+To update all your downloaded maps, tap the **Update All** button.
+
+#### Share maps and navigation data
+
+It's possible to use AirDrop to share downloaded vector maps and offline navigation data between iOS devices that are nearby when you are without an Internet connection.
+
+<img src="/assets/vector_map_share.png" width="375"/> <img src="/assets/vector_map_share_airdrop.png" width="375"/>
+
 
 ## Search {#search}
 
@@ -111,62 +123,87 @@ Read also: [Units Format](03-settings.md#unitsFormat).
 
 ## Navigation {#navigation}
 
-Guru Maps gives you the ability to find the best route and get step by step directions for your drive or walk.
+Guru Maps gives you the ability to find the best multi-stop route and get step by step directions for your drive or walk.
 
-**Note:** to build a route offline you need to download navigation data first.
-
-Read also: [Navigation Settings](03-settings.md#navigationSettings).
+**Note:** to build a route offline you need to download navigation data first. 
+Read also: [Download maps and navigation data](03-settings.md#download).
 
 #### Create route
 
 To get started with the route planner feature, define the place you want to go first, long tap the destination point on the map, then tap ![](/assets/route_to_icon.png) icon from the pop-up menu.
 
+<img src="/assets/route_to_bookmark_2.png" width="375" /> 
+
 Alternatively:
 
-* you can tap ![](/assets/route_to_icon.png) icon on the bottom line of the bookmark/POI/search results in details screen
-* swipe right on a bookmark in My Collections or search results list, then tap ![](/assets/route_to_icon.png).
+* you can tap ![](/assets/route_to_icon.png) icon on the bottom line of the bookmark/POI/search results in details screen:
+<img src="/assets/route_to_bookmark_3.png" width="375" /> 
+* swipe right on a bookmark in My Collections list, then tap ![](/assets/route_to_icon.png):
+<img src="/assets/route_to_bookmark.png" width="375" /> 
 
-A map will appear with your driving route highlighted in blue with some route information at the bottom:
+A map will appear with your driving route highlighted in blue with some route information at the bottom: distance to go, time to go, arrival time:
 
-* Distance to go
-* Arrival time
-* Time to go
-
-<img src="/assets/navigation.png" width="375" height="667" /> 
+<img src="/assets/route_set.png" width="375" /> 
 
 Route will be shown for **drive** mode by default, but you may choose the appropriate mode for your needs:
 
-<img src="/assets/route_set_2.png" width="375" height="64" />
+<img src="/assets/route_set_2.png" width="375" />
 
-If you choose cycle or hiking a gradient will appear which shows an altitude during the route (**gradient will appear only if there is an internet connection**):
+If you choose cycle or pedestrian mode, a gradient will appear which shows an altitude during the route (**gradient will appear only if there is an internet connection**):
 
-<img src="/assets/navigation_2.png" width="375" height="667" />
+<img src="/assets/navigation_2.png" width="375" />
 
-**Note:** The point on the track is related to the speed and altitude values.
+**Note:** the point on the track is related to the speed and altitude values.
 
-To begin navigation, tap ![](/assets/play_icon.png) icon.  
-To stop your route, tap ![](/assets/pause_button.png) icon, then **Stop movement** option from menu.  
+
+#### Add waypoints
+
+Waypoints are via locations, that you want to go through along your route before you reach your destination. There are two ways to add waypoints to a route:
+
+* by tapping and holding on a location directly on the map:
+<img src="/assets/waypoint_add_map.png" width="375"/>
+* by tapping "+ Add waypoint" from the list and searching for the waypoint:
+<img src="/assets/waypoint_add_list.png" width="375"/>
+
+
+The route will be adjusted automatically after adding any waypoint. Once the route is calculated, you can drag and drop the waypoints on the map or reorder directly from the list to recalculate the route dynamically.
+
+To remove the waypoint, tap it on the map:  
+
+<img src="/assets/waypoint_remove_map.png" width="375"/>
+
+
+To save your route for later use, tap the 3-dots button in the top right corner and select **Save route** option from the menu.
+
+To get a route with shortest travel time, tap the 3-dots button in the top right corner and select **Optimize route** option from the menu.
+
+#### Navigation mode
+
+
+To begin navigation, tap ![](/assets/route_start.png) icon.  
+
+After the route is started, in navigation mode you can always:
+
+* stop your route by tapping ![](/assets/route_pause.png) icon, then **Stop movement** option from menu.  
+
+* edit your route by tapping ![](/assets/route_pause.png) icon, then **Edit route** option from menu. 
+
+* skip the next waypoint on your route and continue to the next one, or to your destination by tapping ![](/assets/route_rewind.png) icon:
+
+
+<img src="/assets/waypoint_skip.png" width="375"/>
+
 If you miss a turn or intentionally go the wrong way from the planned route, the App will automatically recalculate the route.
 
-#### Edit route
 
-To edit your route, tap ![](/assets/pause_button.png)  icon, then **Edit route** option from menu. It is possible to add additional transit points \(also known as waypoints\) or stops to the route by a long tap on the map for each you want to add:
 
-<img src="/assets/route_editing_1.png" width="293" height="61" />
-
-These signs will appear on the map along your route:
-
-![](/assets/transit_point.png) — for transit points, ![](/assets/stop_point.png) — for stop points.
-
-To edit or delete the point, just tap it on the map to bring up the pop-up menu:
-
-<img src="/assets/route_editing_2.png" width="228" height="79" />
 
 #### Voice instructions
 
 When you’re navigating to a place, you can hear navigation directions. You can stop receiving directions at any time while in navigation mode by tapping the sound icon ![](/assets/sound_icon.png).
 
 A long tap on the sound icon allows choosing one of the supported languages, which will be used for voice instructions. You can also change the language selection to hear the navigation instructions in the app Settings &gt; Navigation.
+Read also: [Navigation Settings](03-settings.md#voiceSettings).
 
 **Tip**: If you pair your iOS device with your Bluetooth capable device so you can stream voice instructions from the Guru app to your Helmet device or automobile speaker system. How it works: when listening to music the voice instructions would lower the music volume automatically and give directions and then would automatically go back to the normal volume of the music once voice instructions finished.
 
@@ -331,7 +368,7 @@ To **record GPS Track**, tap the **REC** button on the map. It will become red. 
 
 <img src="/assets/track_example.png" width="375" height="236" />
 
-#### View GPS track details {#TrackDetails}
+aView GPS track details {#TrackDetails}
 
 <img src="/assets/track_description.png" width="375" height="667" />
 
@@ -355,25 +392,31 @@ To **delete a track**, tap the ![](/assets/icon_trash.png) icon at the bottom of
 
 **Tip**: The best way to export several tracks at once is to save them in one collection and export the whole collection.
 
+
+
+#### GPS Filtering
+
 To **filter GPS data** and delete inaccurate points in the already recorded track, tap _GPS Filtering_:
 
 <img src="/assets/track_gradient.png" width="375" height="667" />
 
 **Note:** filters settings influence the appearance of track on a map and size of track while exporting, but they **do not** affect the number of recorded points. 
 
-#### Accuracy Threshold 
+**Accuracy Threshold** 
 
 Filter by the minimum accuracy of the received points. Points that are on the outside of the filter value will not be displayed in the track.
 
 **Example**: You are recording your GPS track while walking around your neighborhood and you have entered a supermarket. Tall walls, roofs and other obstructions can block the signal from GPS satellites and the device cannot determine your location accurately enough. You may enable the accuracy filter to hide GPS points if they are too far from your location. If the received signal has lower than the required accuracy, that points will not be displayed in the track.
 
-#### Distance Threshold 
+**Distance Threshold** 
 
 Filter by the minimum distance between points of a recorded track. Points that are closer than the distance specified in the filter will not be displayed in the track.
 
 **Example**: You are recording your GPS track while jogging, then you meet a friend and stop to talk to him. As the GPS sends location coordinates every second, too many points will be recorded on the same spot while you are talking and too many lines of a track will be drawn. You may enable the distance filter to hide GPS points if they are too close to each other and get rid of unnecessary lines.
 
 **Note:** you can change gradient to show speed or altitude during the route by tapping button in the upper right corner. The point on the track is related to the speed and altitude values.
+
+To set GPS filters for newly recorded and imported tracks, go to the app settings called [_Default Settings_](/03-settings.md#GpsFiltering).cds
 
 
 ## Collections {#collections}
