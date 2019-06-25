@@ -156,6 +156,7 @@ If you choose cycle or pedestrian mode, a gradient will appear which shows an al
 **Note:** the point on the track is related to the speed and altitude values.
 
 
+
 #### Add waypoints
 
 Waypoints are via locations, that you want to go through along your route before you reach your destination. There are two ways to add waypoints to a route:
@@ -173,9 +174,29 @@ To remove the waypoint, tap it on the map:
 <img src="/assets/waypoint_remove_map.png" width="375"/>
 
 
+The service error message "Path distance exceeds the max distance limit" will appear when the route is greater than the service limits:
+
+**Cycling**
+
+ • Online: 50 points or 400km 
+ • Offline: 50 points or 200km
+
+**Driving**
+
+ • Online: 20 points or 5000km 
+ • Offline: 20 points or 2000km
+
+**Walking**
+
+ • Online: 50 points or 100km 
+ • Offline: 50 points or 100km
+
+
 To save your route for later use, tap the 3-dots button in the top right corner and select **Save route** option from the menu.
 
 To get a route with shortest travel time, tap the 3-dots button in the top right corner and select **Optimize route** option from the menu.
+
+**Note**: created route does not take in account the real-time or historical traffic data.
 
 #### Navigation mode
 
