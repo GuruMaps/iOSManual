@@ -102,7 +102,20 @@ All loaded map tiles will be automatically saved to your device's storage and ca
 
 The following group of settings is used to configure how the main map looks:
 
-<img src="/assets/settings_appearance.png" width="375" height="311" />
+<img src="/assets/settings_appearance.png" width="375" />
+
+
+### Theme
+
+To change the app theme (for example to the dark at night), go to Settings &gt; Theme and choose one of available options:
+
+* Dark - for low light environments, 
+* Light - bright white interface (set by default),
+* System - automatically switch between light and dark together with the system mode.
+
+Read more: [Use Dark Mode on iOS](https://support.apple.com/en-us/HT210332).
+
+
 
 ### Show Trip Computer {#showTripComputer}
 
@@ -202,10 +215,22 @@ In Guru Maps you can choose to represent your coordinates in various formats. Th
 * 40°43.835' N, 73°59.194' W \(DDD°MM.MMM’\)
 * 40.73060° N, 73.98658° W \(DDD.DDDDD°\)
 * 18TWL 85577 09345 \(MGRS\)
+* 87G7WR9G+3Q \(Plus codes\)
 
 ## Navigation Settings {#navigationSettings}
 
-#### Use Navigation Online
+#### Route options
+
+To personalize your navigationg settings, go to to Settings &gt; Navigation and switch to the right mode (driving, cycling, walking):
+
+<img src="/assets/route_options.png" width="375"/>
+
+<img src="/assets/route_options_2.png" width="375"/>
+
+<img src="/assets/route_options_3.png" width="375"/>
+
+
+#### Use navigation online
 
 Enable to build the routes online first. If there is no Internet conection, the route will be built using an offline navigation data (if downloaded):
 
@@ -213,7 +238,7 @@ Enable to build the routes online first. If there is no Internet conection, the 
 
 
 
-#### Voice Instructions {#voiceSettings}
+#### Voice instructions {#voiceSettings}
  
 The default language for voice instructions you hear while navigating a route depends on the language your device is set to use.  
 To change the language, select one from the Voice Instructions list:
@@ -221,6 +246,13 @@ To change the language, select one from the Voice Instructions list:
 **Note**: as the App uses text-to-speech \(TTS\) engine instead of pre-recorded audio, correct pronunciation depends on the TTS engine.
 
 **Tip**: If you connect your iOS device to the Bluetooth-capable stereo system in a car, you will hear voice instructions over your car speakers.
+
+#### Auto-record track during navigation
+
+Enable "Auto-record track during navigation" option to save the finished routes automatically as GPS tracks to your collections.
+You can also choose where recorded routes are stored in your collections.
+
+<img src="/assets/auto_saved_routes.png" width="375"/>
 
 
 ##Synchronization {#sync}

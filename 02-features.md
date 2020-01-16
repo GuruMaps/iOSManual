@@ -145,7 +145,7 @@ A map will appear with your driving route highlighted in blue with some route in
 
 <img src="/assets/route_set.png" width="375" /> 
 
-Route will be shown for **drive** mode by default, but you may choose the appropriate mode for your needs:
+Route will be shown for **drive** mode by default, but you may choose the appropriate mode for your needs (driving, cycling, walking, in a straight line):
 
 <img src="/assets/route_set_2.png" width="375" />
 
@@ -192,11 +192,21 @@ The service error message "Path distance exceeds the max distance limit" will ap
  • Offline: 50 points or 100km
 
 
-To save your route for later use, tap the 3-dots button in the top right corner and select **Save route** option from the menu.
+#### Additional options
 
-To get a route with shortest travel time, tap the 3-dots button in the top right corner and select **Optimize route** option from the menu.
+Tap the 3-dots button in the top right corner of route planner screen and select the available options:
+
+ • **Save Route** to save your route for later use,
+
+ • **Optimize Route** to get a route with shortest travel time, appears if there are two waypoints added,
+
+ • **Open Navigation Settings** to set the navigation options not leaving the route set mode. After adjusting the settings, your route will be recalculated to match your needs.
+
+ Read also: [Navigation Settings](/03-settings.md#navigationSettings). 
+
 
 **Note**: created route does not take in account the real-time or historical traffic data.
+
 
 #### Navigation mode
 
@@ -219,7 +229,7 @@ If you miss a turn or intentionally go the wrong way from the planned route, the
 
 
 
-#### Voice instructions
+#### Voice instructions {#voiceInstructions}
 
 When you’re navigating to a place, you can hear navigation directions. You can stop receiving directions at any time while in navigation mode by tapping the sound icon ![](/assets/sound_icon.png).
 
@@ -437,7 +447,7 @@ Filter by the minimum distance between points of a recorded track. Points that a
 
 **Note:** you can change gradient to show speed or altitude during the route by tapping button in the upper right corner. The point on the track is related to the speed and altitude values.
 
-To set GPS filters for newly recorded and imported tracks, go to the app settings called [_Default Settings_](/03-settings.md#GpsFiltering).cds
+To set GPS filters for newly recorded and imported tracks, go to the app settings called [_Default Settings_](/03-settings.md#GpsFiltering).
 
 
 ## Collections {#collections}
@@ -470,9 +480,17 @@ Tap and hold any element or tap the **Edit** button to delete selected elements 
 
 <img src="/assets/collections_choosing.png" width="375" height="323" />
 
+<img src="/assets/collections_options.png" width="375" height="" />
+
 ![](/assets/icon_checkmark_multiple_preview.png)- select all,
 ![](/assets/icon_choose_folder_preview.png)— move to,
 ![](/assets/icon_trash.png)— delete.
+
+Tap the 3-dots button icon for displaying more options:
+
+* **Find the shortest route** - the shortest route for selected bookmarks will be calculated (route starts and ends at your current location).
+* **Share All** - send selected bookmarks and tracks as KML or GPX file via Messages, Mail or any third-party app installed on your device.
+
 
 #### Collections Details
 
