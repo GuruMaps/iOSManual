@@ -224,7 +224,7 @@ After the route is started, in navigation mode you can always:
 
 <img src="/assets/waypoint_skip.png" width="375"/>
 
-If you miss a turn or intentionally go the wrong way from the planned route, the App will automatically recalculate the route.
+If you miss a turn or intentionally go the wrong way from the planned route, the app will automatically recalculate the route.
 
 
 
@@ -320,7 +320,7 @@ The Guru supports File Sharing option that allows you to copy exported files fro
 2. Tap **Save as KML** or **Save as GPX** button.
 3. Then tap **Save to the App shared folder** option.
 
-Exported file will Appear in the Guru File Sharing section in iTunes.
+Exported file will appear in the Guru File Sharing section in iTunes.
 
 Read also: [About File Sharing on iOS](https://support.apple.com/en-us/HT201301).
 
@@ -399,7 +399,7 @@ To **record GPS Track**, tap the **REC** button on the map. It will become red. 
 
 <img src="/assets/track_example.png" width="375" height="236" />
 
-aView GPS track details {#TrackDetails}
+#### View GPS track details {#TrackDetails}
 
 <img src="/assets/track_description.png" width="375" height="667" />
 

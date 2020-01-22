@@ -121,7 +121,7 @@ Read more: [Use Dark Mode on iOS](https://support.apple.com/en-us/HT210332).
 
 To hide trip computer panel from the map view, turn off this option.
 
-Read also: [Trip Computer](01-launching-the-application.md#tripComputer)
+Read also: [Trip Computer](01-launching-the-application.md#tripComputer).
 
 ### Show Coordinates {#showCoordinates}
 
@@ -294,7 +294,7 @@ Read also: [**Use the Files App on your iPhone, iPad, and iPod touch**](https://
 
 #### Restore from a backup
 
-Tap the backup you created earlier in the list on the Data Backup screen to restore, or select .gbackup2 file from the Files app or from other cloud service \(e.g. in Dropbox App\), then tap the ![](/assets/icon_export.png) icon and select **Copy to Guru Maps** option.
+Tap the backup you created earlier in the list on the Data Backup screen to restore, or select .gbackup2 file from the Files app or from other cloud service \(e.g. in Dropbox app\), then tap the ![](/assets/icon_export.png) icon and select **Copy to Guru Maps** option.
 
 <img src="/assets/data_backup_restore.png" width="360" height="640" />
 
