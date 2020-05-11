@@ -8,18 +8,15 @@
 
 Free vector maps by country are available for download within the Guru Maps in the app settings menu called **Download Maps**.
 
-<img src="/assets/download_map_3.png" width="375" />
+<img src="/assets/download_map_3.png" width="375" height="346"/>
 
 Tap the country name to expand the list of available options:
 * Download a map,
 * Download a navigation data (if you whant to use navigation while being offline).
 
-
 To pause a download, tap the cell. Tap it again to resume a download.
 
-
 To remove the map or navigation data, swipe your finger across the cell from right to left, then tap the **Delete** button, or use the **Edit** button at the top right corner.
-
 
 #### Update maps and navigation data
 
@@ -31,8 +28,7 @@ To update all your downloaded maps, tap the **Update All** button.
 
 It's possible to use AirDrop to share downloaded vector maps and offline navigation data between iOS devices that are nearby when you are without an Internet connection.
 
-<img src="/assets/vector_map_share.png" width="375"/> <img src="/assets/vector_map_share_airdrop.png" width="375"/>
-
+<img src="/assets/vector_map_share.png" height="620"/> <img src="/assets/vector_map_share_airdrop.png" height="620"/>
 
 ## Search {#search}
 
@@ -53,29 +49,28 @@ You can also use your voice to perform a search instead of typing when you're co
 Quick search mechanism designed to make it faster to complete your searches. Just begin typing, and you’ll see the
 suggested results appear:
 
-<img src="/assets/search_quick_suggest.png" width="375" />
+<img src="/assets/search_quick_suggest.png" width="375" height="364" />
 
 If nothing of these quick suggestions matches your query, then tap **Find** on the keyboard to get the full list of results.
 
 #### History
 Below the category icons you’ll see a list of search queries with a clock icon on the left. We show these to help you quickly get back to a previous search you may have conducted.
 
-<img src="/assets/search_history.png" width="375" />
+<img src="/assets/search_history.png" width="375" height="224"/>
 
 #### Results on the map
 
 Search results will appear on the map in addition to the scrollable list below. Map preview is interactive and search results are refreshed on the fly as you move and scale the map.
 
-<img src="/assets/search_results_list.png" width="375" />
+<img src="/assets/search_results_list.png" width="375" height="737" />
 
 Tap any result on the map or in the list to get more information in details view below. Tap it again on the map to come back to all search results list again. 
 
-<img src="/assets/search_results_details.png" width="375" />
+<img src="/assets/search_results_details.png" width="375" height="690" />
 
 After you find a place, you can view it on the map, get directions to this place or save as bookmarks in your collections:
 
-<img src="/assets/search_results_actions.png" width="375" />
-
+<img src="/assets/search_results_actions.png" width="375" height="51" />
 
 #### Search by name
 
@@ -85,36 +80,36 @@ It is not necessary to type punctuation or worry about capital letters, but the 
 #### Search by category
 You can also search for a category, like food or shops:
 
-<img src="/assets/search_categories.png" width="375" />
+<img src="/assets/search_categories.png" width="375" height="182" />
 
 At the top of a search results for selected category, you can see ways to narrow down your results:
 
-<img src="/assets/search_categories_filter.png" width="375" />
+<img src="/assets/search_categories_filter.png" width="375" height="93" />
 
 You can edit your search criteria to find exactly what you want. Just tap the search field and start typing to refine your search:
 
-<img src="/assets/search_categories_refine.png" width="375" />
+<img src="/assets/search_categories_refine.png" width="375" height="319" />
 
 
 #### Search by address
 
 Start typing the street name, and Guru starts offering matching entries, choose one you want:
 
-<img src="/assets/search_address.png" width="375" />
+<img src="/assets/search_address.png" width="375" height="275" />
 
 Then Guru displays a list of all house numbers on the street:
 
-<img src="/assets/search_address_2.png" width="375" />
+<img src="/assets/search_address_2.png" width="375" height="572" />
 
 Enter house numbers to narrow the selection:
 
-<img src="/assets/search_address_3.png" width="375" />
+<img src="/assets/search_address_3.png" width="375" height="656" />
 
 ### Search by coordinates
 
 If you know the exact coordinates of a location, you can simply enter them into the search field to locate it on the map:
 
-<img src="/assets/search_coordinates.png" width="375" />
+<img src="/assets/search_coordinates.png" width="375" height="94" />
 
 You may enter the coordinates in any of the supported coordinate formats. To avoid confusion while inputting coordinates from the keyboard it is possible to use spaces instead of \(‘\) Right Single Quotation Mark, \(”\) Right Double Quotation Mark or \(°\) Degree Sign.
 
@@ -132,46 +127,44 @@ Read also: [Download maps and navigation data](03-settings.md#download).
 
 To get started with the route planner feature, define the place you want to go first, long tap the destination point on the map, then tap ![](/assets/route_to_icon.png) icon from the pop-up menu.
 
-<img src="/assets/route_to_bookmark_2.png" width="375" /> 
+<img src="/assets/route_to_bookmark_2.png" width="375" height="97" /> 
 
 Alternatively:
 
 * you can tap ![](/assets/route_to_icon.png) icon on the bottom line of the bookmark/POI/search results in details screen:
-<img src="/assets/route_to_bookmark_3.png" width="375" /> 
+<img src="/assets/route_to_bookmark_3.png" width="375" height="259" /> 
 * swipe right on a bookmark in My Collections list, then tap ![](/assets/route_to_icon.png):
-<img src="/assets/route_to_bookmark.png" width="375" /> 
+<img src="/assets/route_to_bookmark.png" width="375" height="194" /> 
 
 A map will appear with your driving route highlighted in blue with some route information at the bottom: distance to go, time to go, arrival time:
 
-<img src="/assets/route_set.png" width="375" /> 
+<img src="/assets/route_set.png" width="375" height="642" /> 
 
 Route will be shown for **drive** mode by default, but you may choose the appropriate mode for your needs (driving, cycling, walking, in a straight line):
 
-<img src="/assets/route_set_2.png" width="375" />
+<img src="/assets/route_set_2.png" width="375" height="53" />
 
 If you choose cycle or pedestrian mode, a gradient will appear which shows an altitude during the route (**gradient will appear only if there is an internet connection**):
 
-<img src="/assets/navigation_2.png" width="375" />
+<img src="/assets/navigation_2.png" width="375" height="643" />
 
 **Note:** the point on the track is related to the speed and altitude values.
-
-
 
 #### Add waypoints
 
 Waypoints are via locations, that you want to go through along your route before you reach your destination. There are two ways to add waypoints to a route:
 
 * by tapping and holding on a location directly on the map:
-<img src="/assets/waypoint_add_map.png" width="375"/>
+<img src="/assets/waypoint_add_map.png" width="375" height="108"/>
 * by tapping "+ Add waypoint" from the list and searching for the waypoint:
-<img src="/assets/waypoint_add_list.png" width="375"/>
+<img src="/assets/waypoint_add_list.png" width="375" height="217"/>
 
 
 The route will be adjusted automatically after adding any waypoint. Once the route is calculated, you can drag and drop the waypoints on the map or reorder directly from the list to recalculate the route dynamically.
 
 To remove the waypoint, tap it on the map:  
 
-<img src="/assets/waypoint_remove_map.png" width="375"/>
+<img src="/assets/waypoint_remove_map.png" width="375" height="113"/>
 
 
 The service error message "Path distance exceeds the max distance limit" will appear when the route is greater than the service limits:
@@ -204,12 +197,9 @@ Tap the 3-dots button in the top right corner of route planner screen and select
 
  Read also: [Navigation Settings](/03-settings.md#navigationSettings). 
 
-
 **Note**: created route does not take in account the real-time or historical traffic data.
 
-
 #### Navigation mode
-
 
 To begin navigation, tap ![](/assets/route_start.png) icon.  
 
@@ -222,7 +212,7 @@ After the route is started, in navigation mode you can always:
 * skip the next waypoint on your route and continue to the next one, or to your destination by tapping ![](/assets/route_rewind.png) icon:
 
 
-<img src="/assets/waypoint_skip.png" width="375"/>
+<img src="/assets/waypoint_skip.png" width="375" height="52"/>
 
 If you miss a turn or intentionally go the wrong way from the planned route, the app will automatically recalculate the route.
 

@@ -43,22 +43,14 @@ Map sources which consist of two or more layers can be defined, similar to singl
 
 The most important tags of this definition are described below:
 
-`<name>` – the name of the map source,
-	
-`<url>` – the path for the tiles of the map source with the specific placeholders in curly brackets:
+* `<name>` – the name of the map source,
+* `<url>` – the url for the tiles of the map source with the specific placeholders in curly brackets:
 							
-{$z} – the zoom level,
-{$x} – the X tile coordinate,
-{$y} – the Y tile coordinate,
-{$invX} – the inverted X tile coordinate,
-{$invY} – the inverted Y tile coordinate,
-{$serverpart} – (optional) in case of multiple servers for the map source.
-`<serverParts>` – a space-separated list of parts that replace the {$serverpart} in `<url>` tag.
-`<retina>` – tag for defining the size of Retina map tiles:
-							
-`<retina>1</retina>` – for 512х512 px (e.g. Google Maps HD),
-`<retina>2</retina>` – for 256х256 px (e.g. CloudMade HD).
-
+* `{$serverpart}` - random server name from `<serverParts>`.
+* `{$x}`, `{$y}`, `{$z}` - tile address
+* `{$quad}` - [Quad tile address](https://wiki.openstreetmap.org/wiki/QuadTiles)
+* `{$bbox}` - Tile bbox in SRID 3857. Typically used for WMS servers.
+* `{$invX}`, `{$invY}` - inverted coordinates. `N-x` and `N-y`, where `N` is the number of tiles on the current scale.
 
 #### How to add
 

@@ -8,12 +8,20 @@ If you use more than one iOS/Android device, Guru Maps app will securely [sync a
 
 Use your device to [find the shortest routes](02-features.md#navigation) between multiple stops and get turn-by-turn navigation directions with Bluetooth capable voice guidance.
 
+Supported file formats:
+
+* `.gpx`, `.kml`, `.kmz` - [for GPS-tracks, bookmarks, and routes](02-features.html#importing)
+* `.ms`, `.xml` - [for map sources](03-map-sources.html)
+* `.geojson`, `.mapcss` - [for vector overlays](03-map-sources.html#geojson_mapcss)
+* `.sqlitedb`, `.mbtiles` - [for offline raster maps](03-map-sources.html)
+* `.vm`, `.rt` - for vector maps and raster data in Guru Maps internal format
+
 ## About This Manual {#aboutThisManual}
 
 This user manual is designed to help you get started as quickly as possible by introducing you to Guru Maps app' main features. For a quick start guide, please refer to the introduction tour, which is available within the app settings.
 
 ## Contact Us {#contactUs}
 
-Feel free to ask for further assistance or to report any problems you find at **info@gurumaps.app** or choose the **Contact Support** option directly from the app settings.
+Feel free to ask for further assistance or to report any problems you find at [info@gurumaps.app](mailto:info@gurumaps.app) or choose the **Contact Support** option directly from the app settings.
 
 
