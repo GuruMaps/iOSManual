@@ -2,66 +2,6 @@
 
 > In this section we will go over some of the advanced features as they pertain to specific areas of using an app.
 
-## Custom Map Sources {#customMapSources}
-
-The following examples show how the XML file for OpenStreetMap source may be defined.
-
-### Simple custom map sources {#simpleCustomMapSources}
-
-```xml
-<?xml version="1.0" encoding="UTF-8"?>
-<customMapSource>
-<name>OpenStreetMap</name>
-<url>http://{$serverpart}.tile.openstreetmap.org/{$z}/{$x}/{$y}.png</url>
-<serverParts>a b c</serverParts>
-</customMapSource>
-```
-
-### Custom multi-layer map sources
-
-Map sources which consist of two or more layers can be defined, similar to single-layer custom map sources. The following example shows how the XML file for OpenSeaMap hybrid source may be defined:
-
-```xml
-<?xml version="1.0" encoding="UTF-8"?>
-<customMapSource>
-<name>OpenSeaMap</name>
-<minZoom>0</minZoom>
-<maxZoom>18</maxZoom>
-<layers>
-<layer>
-<url>http://{$serverpart}.tile.openstreetmap.org/{$z}/{$x}/{$y}.png</url>
-<serverParts>a b c</serverParts>
-</layer>
-<layer>
-<minZoom>9</minZoom>
-<maxZoom>18</maxZoom>
-<url>http://tiles.openseamap.org/seamark/{$z}/{$x}/{$y}.png</url>
-</layer>
-</layers>
-</customMapSource>
-```
-
-The most important tags of this definition are described below:
-
-* `<name>` – the name of the map source,
-* `<url>` – the url for the tiles of the map source with the specific placeholders in curly brackets:
-							
-* `{$serverpart}` - random server name from `<serverParts>`.
-* `{$x}`, `{$y}`, `{$z}` - tile address
-* `{$quad}` - [Quad tile address](https://wiki.openstreetmap.org/wiki/QuadTiles)
-* `{$bbox}` - Tile bbox in SRID 3857. Typically used for WMS servers.
-* `{$invX}`, `{$invY}` - inverted coordinates. `N-x` and `N-y`, where `N` is the number of tiles on the current scale.
-
-#### How to add
-
-There are several ways to add custom online map source to the app:
-
-1. Place the XML file in the app shared folder in iTunes.
-2. Open the XML file attached to Email on your device using the "Open in Guru Maps" option.
-3. Open the XML file from Dropbox on your device using the "Open in.." option.
-	
-As a result, the new map source will appear in Map Source list.
-
 #### Troubleshooting
 
 Sometimes you can see empty map areas (tiles), with the following warning messages on the map:
