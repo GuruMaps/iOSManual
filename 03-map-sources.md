@@ -104,6 +104,10 @@ Import the file https://gurumaps.app/example/feature_collection.geojson to see o
 
 **MapCSS** is a CSS-like language for map stylesheets. It's used to define how data from GeoJSON should be displayed on map.
 
+<img src="/assets/feature_collection-02.jpg" width="360" height="640"/>
+
+Together with the `feature_collection.geojson` file from the previous step, import the file https://gurumaps.app/example/feature_collection.mapcss. Here is its content:
+
 ```css
 node[natural=tree] {
     icon-image: "circle.svgpb."
@@ -114,11 +118,6 @@ node[natural=tree][leaf_cycle=evergreen] {
     icon-tint: green;
 }
 ```
-
-<img src="/assets/feature_collection-02.jpg" width="360" height="640"/>
-
-Together with the `feature_collection.geojson` file from the previous step, import the file https://gurumaps.app/example/feature_collection.mapcss. Here is its content:
-
 
 After importing, only trees will remain visible on the map. Evergreen trees will be marked with green circles and all other trees will be marked with red circles.
 
