@@ -382,4 +382,4 @@ In this example, the number of lines is multiplied by 2 - the result is consider
 
 ### Expression operators
 
-The following mathematical operators can be used in expressions: `+`, `-`, `*`, `\`, string fusion operator - `.`, comparison operators `<` - less, `>` - more, `==` - exact equality, `~=` - presence of substring in the string.
+The following mathematical operators can be used in expressions: `+`, `-`, `*`, `\`, string concatenation operator - `.`, comparison operators `<` - less, `>` - more, `==` - exact equality, `~=` - presence of substring in the string.

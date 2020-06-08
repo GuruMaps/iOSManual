@@ -121,7 +121,7 @@ node[natural=tree][leaf_cycle=evergreen] {
 
 After importing, only trees will remain visible on the map. Evergreen trees will be marked with green circles and all other trees will be marked with red circles.
 
-For any `.geojson`, you can add your own `.mapcss` style to customize when, how and which data should be shown. Read more in [MapCSS specification](06-mapcsss.html). 
+For any `.geojson`, you can add your own `.mapcss` style to customize when, how and which data should be shown. Read more in [MapCSS specification](06-mapcss.md). 
 
 ### Map Source `.ms` for vector data {#msForVector}
 
