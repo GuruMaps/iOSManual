@@ -39,4 +39,5 @@
 * [Tips and Tricks and Troubleshooting](05-tips-and-tricks-and-troubleshooting.md)
   * [Offline Maps Import](05-tips-and-tricks-and-troubleshooting.md#offlineMapsImport)
   * [Getting Exported Files](05-tips-and-tricks-and-troubleshooting.md#GettingExportedFiles)
-
+* [MapCSS](06-mapcss.md)
+* [MapCSS RU](06-ru-mapcss.md)

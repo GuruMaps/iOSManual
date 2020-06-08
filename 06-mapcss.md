@@ -63,7 +63,7 @@ The parameters control how to draw objects on the map.
 
 #### Width
 
-Line thickness or `width` can be specified in pixels `1px`, points `2pt`, meters `3m` or calculated using the expression `eval( zlinear( 13, 1px,1pt,max(2pt, 4m)). );`. Read more about expressions in separate section.
+Line thickness or `width` can be specified in pixels `1px`, points `2pt`, meters `3m` or calculated using the expression `eval( zlinear( 13, 1px,1pt,max(2pt, 4m)). );`. Read more about expressions in [separate section](#expressions).
 
 ### Color
 
@@ -307,7 +307,7 @@ Enables one-to-one overlay of pictures.
 }
 ```
 
-### Expressions
+### Expressions {#expressions}
 
 Not only filters, but also object parameters may depend on external factors, be calculated by formula or vary depending on the scale.
 
