@@ -320,24 +320,22 @@ The Bookmarks feature is a great way to keep your favorite places at your finger
 
 #### Create new bookmark
 
-Touch and hold on the map until the pop-up appears, then tap the Bookmark icon:
+Tap and hold on the map until the pop-up appears, then tap the Bookmark icon (first in a row):
 
 <img src="/assets/long_tap.png" width="269" height="86" />
 
 If you have coordinates in your clipboard Guru can import them for you:
 
-<img src="/assets/bookmark_clipboad.png" width="375" height="194" />
+<img src="/assets/bookmark_clipboad.png" width="375" />
 
 
-#### View bookmark name
+#### Bookmark details
 
-Tap the bookmark icon on the map. Tap it again to hide it:
+<img src="/assets/bookmark_name_1.png" width="288"/>
 
-<img src="/assets/bookmark_name_1.png" width="288" height="146" />
+To **view bookmark details** tap the bookmark icon on the map, then drag the bottom drawer upward to its full height, or open it from the My Collections list.
 
 To **move the bookmark**, tap the bookmark icon and hold for a second, then drag the bookmark to where you want and drop it.
-
-To **view bookmark details**, tap the ![](/assets/icon_info.png) button next to the bookmark name on the map or open it from the _My Collections_ list.
 
 To **edit bookmark name and description**, tap the name or description field and use the onscreen keyboard to type a new text.
 
@@ -503,3 +501,87 @@ Another way to show or hide the collection from the map is tapping the cell with
 To **export a collection**, tap the ![](/assets/icon_share.png) icon at the bottom of the collection details screen, choose the way to share your data.
 
 Read also: [Exporting Geodata](/02-features.md#exporting).
+
+
+## Siri Shortcuts {#sirishortcuts}
+
+A shortcut is a quick way to get one or more tasks done with Guru Maps. For example, Siri can help you:
+
+* start/stop track recording,
+* create bookmark,
+* start navigation,
+* perform a search,
+* find nearest.
+
+
+#### Add shortcuts to Siri
+
+Here's how to set up custom shortcuts on your iOS device for Guru Maps commands by asking Siri:
+
+1. Open the <img src="/assets/shortcuts-icon.jpg" width="30" /> **Shortcuts** app and tap the **My Shortcuts** tab.
+2. Tap **Create Shortcut** or tap **+** in the upper-right corner.
+3. Tap **+ Add action**:
+4. Select **Guru Maps** from the list of apps.
+5. Select action to use in your shortcut from the list.
+6. Tap **Next** and give your shortcut a name.
+
+When you create a Shortcut, Siri automatically recognizes it by the name you give it. So if you call a Shortcut ‘create a bookmark’, to run it just say:
+
+<img src="/assets/hey_siri.jpeg" width="375"/>
+
+
+To customize the shortcut, tap ![](/assets/more-info-icon.png) in the upper-right corner of the shortcut to open the shortcuts editor. 
+
+You can find more information about the Shortcuts app, including comprehensive steps for creating and using them, in the [Shortcuts User Guide](https://support.apple.com/guide/shortcuts/welcome/ios). 
+
+
+
+#### Example 1 - bookmark your current location
+
+1. Open the <img src="/assets/shortcuts-icon.jpg" width="30" /> **Shortcuts** app and tap the **My Shortcuts** tab.
+2. Tap **Create Shortcut** or tap **+** in the upper-right corner.
+3. Tap **+ Add action**:
+<img src="/assets/shortcut_add_action.png" width="375"/>
+4. Select **Location**:
+
+<img src="/assets/shortcut_chooser.png" width="375"/>
+
+5. Select **Get Current Location**:
+
+<img src="/assets/shortcut_chooser_location.png" width="375"/>
+
+6. Select **Guru Maps** from the list of apps, then select **Create bookmark**:
+
+<img src="/assets/shortcut_chooser_gurumaps.png" width="375"/>
+
+7. Tap **Location** placeholder and select **Current Location**:
+
+<img src="/assets/shortcut_location_current.png" width="375"/>
+
+8. Tap and hold **Current Location** until the action sheet appears, then tap **Select Magic Variable**:
+
+<img src="/assets/shortcut_location_magic.png" width="375"/>
+
+9. Tap **Next** and give your shortcut a name.
+
+
+
+Just say "Hey Siri, create a bookmark" to run this shortcut.
+
+<img src="/assets/shortcut_bookmark.png" width="375"/>
+
+
+
+
+
+
+#### Example 2 - find nearest POI
+
+#### Example 3 - show driving directions
+
+
+
+
+
+
+

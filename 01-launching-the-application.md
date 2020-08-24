@@ -3,9 +3,9 @@
 When launching the Guru Maps application on your device for the first time, welcome intro tour appear to configire the app for the further use.
 
 
-## App permissions {#appPermissions}
+## App Permissions {#appPermissions}
 
-### User location {#userLocation}
+### User Location {#userLocation}
 
 _Where Am I?
 Let the app know your location to show it on the map ans record GPS tracks._

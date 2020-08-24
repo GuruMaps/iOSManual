@@ -20,6 +20,7 @@
   * [Bookmarks](02-features.md#bookmarks)
   * [GPS Tracks](02-features.md#GPSTracks)
   * [Collections](02-features.md#collections)
+  * [Siri Shortcuts](02-features.md#sirishortcuts)
 * [Map Sources and Overlays](03-map-sources.md)
   * [Offline maps](03-map-sources.md#offlineMaps)
   * [Online maps](03-map-sources.md#onlineMaps)
