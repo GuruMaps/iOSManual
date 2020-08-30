@@ -411,8 +411,6 @@ To **delete a track**, tap the ![](/assets/icon_trash.png) icon at the bottom of
 
 **Tip**: The best way to export several tracks at once is to save them in one collection and export the whole collection.
 
-
-
 #### GPS Filtering
 
 To **filter GPS data** and delete inaccurate points in the already recorded track, tap _GPS Filtering_:
@@ -502,7 +500,6 @@ To **export a collection**, tap the ![](/assets/icon_share.png) icon at the bott
 
 Read also: [Exporting Geodata](/02-features.md#exporting).
 
-
 ## Siri Shortcuts {#sirishortcuts}
 
 A shortcut is a quick way to get one or more tasks done with Guru Maps. For example, Siri can help you:
@@ -512,7 +509,6 @@ A shortcut is a quick way to get one or more tasks done with Guru Maps. For exam
 * start navigation,
 * perform a search,
 * find nearest.
-
 
 #### Add shortcuts to Siri
 
@@ -529,59 +525,40 @@ When you create a Shortcut, Siri automatically recognizes it by the name you giv
 
 <img src="/assets/hey_siri.jpeg" width="375"/>
 
-
 To customize the shortcut, tap ![](/assets/more-info-icon.png) in the upper-right corner of the shortcut to open the shortcuts editor. 
 
 You can find more information about the Shortcuts app, including comprehensive steps for creating and using them, in the [Shortcuts User Guide](https://support.apple.com/guide/shortcuts/welcome/ios). 
 
-
-
 #### Example 1 - bookmark your current location
 
-1. Open the <img src="/assets/shortcuts-icon.jpg" width="30" /> **Shortcuts** app and tap the **My Shortcuts** tab.
-2. Tap **Create Shortcut** or tap **+** in the upper-right corner.
-3. Tap **+ Add action**:
+* Open the <img src="/assets/shortcuts-icon.jpg" width="30" /> **Shortcuts** app and tap the **My Shortcuts** tab.
+* Tap **Create Shortcut** or tap **+** in the upper-right corner.
+* Tap **+ Add action**:
+
 <img src="/assets/shortcut_add_action.png" width="375"/>
-4. Select **Location**:
+
+* Select **Location**:
 
 <img src="/assets/shortcut_chooser.png" width="375"/>
 
-5. Select **Get Current Location**:
+* Select **Get Current Location**:
 
 <img src="/assets/shortcut_chooser_location.png" width="375"/>
 
-6. Select **Guru Maps** from the list of apps, then select **Create bookmark**:
+* Select **Guru Maps** from the list of apps, then select **Create bookmark**:
 
 <img src="/assets/shortcut_chooser_gurumaps.png" width="375"/>
 
-7. Tap **Location** placeholder and select **Current Location**:
-
-<img src="/assets/shortcut_location_current.png" width="375"/>
-
-8. Tap and hold **Current Location** until the action sheet appears, then tap **Select Magic Variable**:
+* Tap and hold **Location** until the action sheet appears, then tap **Select Magic Variable**:
 
 <img src="/assets/shortcut_location_magic.png" width="375"/>
 
-9. Tap **Next** and give your shortcut a name.
+* Tap on **Current Location** below **Get Current Location**.
 
-
+* Tap **Next** and give your shortcut a name.
 
 Just say "Hey Siri, create a bookmark" to run this shortcut.
 
 <img src="/assets/shortcut_bookmark.png" width="375"/>
 
-
-
-
-
-
-#### Example 2 - find nearest POI
-
-#### Example 3 - show driving directions
-
-
-
-
-
-
-
+Note: We suggest you to use location from **Get Current Location** command, because it spends 1-5 seconds to receive precise location.
