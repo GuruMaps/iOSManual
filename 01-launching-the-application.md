@@ -95,23 +95,31 @@ The app works in multiple modes depending on the number of taps on the _Location
 
 **Tip**: if your location cannot be determined precisely, a blue circle also appears around the location marker. The size of the circle depends on how accurately your location can be determined: the smaller the circle – the greater the accuracy.
 
-### Tracking mode {#trackingMode}
+#### Tracking mode {#trackingMode}
 
 To determine your current approximate location on the map and enable the **tracking mode**, tap once the _Location_ button:
 
 ![](/assets/icon_gps.png) → ![](/assets/icon_gps_act.png)
 
-Once tracking mode is active, the App tracks your position on the map as you move. To exit the tracking mode, move the map.
+Once tracking mode is active, the map is oriented to the north and the app tracks your position on a map as you move. To exit the tracking mode, move the map.
 
-### Driving mode {#drivingMode}
+#### Driving mode {#drivingMode}
 
 To enable the **driving mode**, double tap the _Location_ button:
 
 ![](/assets/icon_gps.png) → ![](/assets/icon_gps_act.png) → ![](/assets/icon_compas.png)
 
-While in driving mode, the app will orient the map in the direction you are currently moving. If you stop moving, the map will be oriented to the north.
+While in driving mode, the map is oriented in the direction you are currently moving.
 
-**Note**: the accuracy of the compass can be affected by magnetic or environmental interference \(e.g. the magnets in earbuds\) and the compass may need to be calibrated from time to time. When the device displays the calibration alert, rotate the screen to move the red ball around in a circle.
+#### Compass mode 
+
+To enable the **compass mode**,  tap three times the _Location_ button:
+
+![](/assets/icon_gps.png) → ![](/assets/icon_gps_act.png) → ![](/assets/icon_compas.png) → ![](/assets/icon_compas_con.png)
+
+While in compas mode, the map is oriented by compass and rotates as you rotate your device and reflects your actual environment.
+
+**Note**: the accuracy of the compass can be affected by magnetic or environmental interference. 
 
 ### Location services {#locationServices}
 
@@ -127,15 +135,15 @@ The trip computer panel provides you all the necessary trip statistics while mov
 
 <img src="/assets/trip_monitor_1.png" width="375" height="56" />
 
-* current speed
-* altitude
+* current speed,
+* altitude.
 
 While recording a GPS track it will additionally display \(from left to right\):
 
 <img src="/assets/trip_monitor_2.png" width="375" height="114" />
 
-* distance traveled
-* trip duration
+* distance traveled,
+* trip duration.
 
 To hide the trip computer panel from map view, go to app Settings &gt; Show Trip Computer.
 

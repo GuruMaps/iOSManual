@@ -22,31 +22,38 @@ Tap **Edit** button on the top right of the screen, to rearrange or delete langu
 
 In addition to the basic appearance settings, you can select the **POIs** you wish to display on the vector map. Select only the **POIs** that you want to display to keep the map tidy and uncluttered:
 
-* Restaurants, cafes, fast foods
-* Bars, pubs, clubs
-* Beauty salons, hairdressers
-* Entertainment, arts and culture
-* Monuments, places of worship
-* Tourist attractions
-* Hotels, hostels, campsites
 * Banks, ATMs, currency exchanges
-* Parking, gas and service stations
-* Hospitals, clinics, pharmacy
-* Shopping malls, supermarkets
-* Police, post offices, embassies
-* Universities, colleges, schools
-* Public transport stops
-* Train and metro stations
+* Beauty salons, hairdressers
 * Building names and numbers
+* Entertainment, arts and culture
+* Hospitals, clinics, pharmacy
+* Hotels, hostels, campsites
+* Monuments, places of worship
+* Parking, gas and service stations
+* Pistes and ski lifts
+* Police, post offices, embassies
+* Public transport stops
+* Pubs, bars, clubs
+* Restaurants, cafes, fast foods
+* Shopping malls, supermarkets
+* Sport complexes, leisure centres
+* Tourist attractions
+* Universities, colleges, schools
+* Train and metro stations
+* Universitites, colleges, schools
+
 
 
 ## Online Maps Settings {#cacheInfo}
+
+#### Mobile Data Usage
+To disable Guru Maps to use your mobile data, go to Settings &gt; Online Maps and turn the "Download via WiFi only" option on.
 
 #### Map Refresh
 
 To set how often to refresh cached map tiles for online maps, go to Settings &gt; Online Maps. All tiles older than selected time will be downloaded while browsing online.
 
-**Note**: The map refresh setting only applies to raster maps and not the vector maps.
+**Note**: The map refresh setting only applies to raster maps and not to vector maps.
 
 #### Cache Info
 
@@ -211,7 +218,7 @@ You can also choose where recorded routes are stored in your collections.
 <img src="/assets/auto_saved_routes.png" width="375"/>
 
 
-##Synchronization {#sync}
+## Synchronization {#sync}
 
 Guru app allows you to synchronize all your data to make your collections visible and available through all your iOS devices using your Facebook or iCloud account.
 

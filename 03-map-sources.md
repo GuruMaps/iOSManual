@@ -34,7 +34,7 @@ There is a list of built-in raster map sources available online:
 
 Caching is always enabled – the app saves all recently viewed map images in your cache and keeps them available for offline usage. To save maps, navigate to the area you are going to visit and zoom-in to the lowest viewable level of detail while you have access to the Internet. The level of saved detail will reflect the zoom level you viewed.
 
-Read also: [Online Maps Settings](/03-settings.md#cacheInfo).
+Read also: [Online Maps Settings](/04-settings.md#cacheInfo).
 
 **Note**: map download speed can vary while using online sources, and depends on the speed of your Internet connection and the speed of the server from where the map is downloaded.
 

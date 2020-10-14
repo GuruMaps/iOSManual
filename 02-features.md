@@ -113,7 +113,7 @@ If you know the exact coordinates of a location, you can simply enter them into 
 
 You may enter the coordinates in any of the supported coordinate formats. To avoid confusion while inputting coordinates from the keyboard it is possible to use spaces instead of \(‘\) Right Single Quotation Mark, \(”\) Right Double Quotation Mark or \(°\) Degree Sign.
 
-Read also: [Units Format](03-settings.md#unitsFormat).
+Read also: [Units Format](04-settings.md#unitsFormat).
 
 
 ## Navigation {#navigation}
@@ -121,7 +121,7 @@ Read also: [Units Format](03-settings.md#unitsFormat).
 Guru Maps gives you the ability to find the best multi-stop route and get step by step directions for your drive or walk.
 
 **Note:** to build a route offline you need to download navigation data first. 
-Read also: [Download maps and navigation data](03-settings.md#download).
+Read also: [Download maps and navigation data](04-settings.md#download).
 
 #### Create route
 
@@ -224,7 +224,7 @@ If you miss a turn or intentionally go the wrong way from the planned route, the
 When you’re navigating to a place, you can hear navigation directions. You can stop receiving directions at any time while in navigation mode by tapping the sound icon ![](/assets/sound_icon.png).
 
 A long tap on the sound icon allows choosing one of the supported languages, which will be used for voice instructions. You can also change the language selection to hear the navigation instructions in the app Settings &gt; Navigation.
-Read also: [Navigation Settings](03-settings.md#voiceSettings).
+Read also: [Navigation Settings](04-settings.md#voiceSettings).
 
 **Tip**: If you pair your iOS device with your Bluetooth capable device so you can stream voice instructions from the Guru app to your Helmet device or automobile speaker system. How it works: when listening to music the voice instructions would lower the music volume automatically and give directions and then would automatically go back to the normal volume of the music once voice instructions finished.
 
@@ -274,8 +274,8 @@ If you store your KML/KMZ/GPX files in Dropbox:
 
 There is also an option to import multiple folders from a single KML file separately or merge them into one collection available:
 
-* Keep several collections
-* Save to one collection
+* Keep several collections,
+* Save to one collection.
 
 <img src="/assets/import_several_collections.png" width="375" height="312" />
 
