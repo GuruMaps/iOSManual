@@ -56,8 +56,8 @@ node,area|z14-[boundary=forest_compartment][ref]
 Несколько фильтров можно перечислить через запятую. Например:
 
 ```css
-    node,area|z14-[boundary=forest_compartment][ref],
-    node,area|z14-[boundary=forestry_compartment][ref]
+node,area|z14-[boundary=forest_compartment][ref],
+node,area|z14-[boundary=forestry_compartment][ref]
 ```
 
 Общие параметры можно вынести на отдельный уровень:
