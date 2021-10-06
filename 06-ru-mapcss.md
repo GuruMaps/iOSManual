@@ -17,7 +17,7 @@ node[natural=tree] {
 Правила могут быть вложенными и устанавливать параметры на каждом из уровней.
 
 ```css
-|z16-{
+|z16- {
     icon-scale: 0.50;
     icon-tint: @color_icon_tint;
 

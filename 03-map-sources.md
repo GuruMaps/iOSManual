@@ -110,7 +110,7 @@ Together with the `feature_collection.geojson` file from the previous step, impo
 
 ```css
 node[natural=tree] {
-    icon-image: "circle.svgpb."
+    icon-image: "circle.svgpb"
     icon-tint: red;
     image-allow-overlap: true;
 }
