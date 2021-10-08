@@ -16,10 +16,6 @@ Supported file formats:
 * `.sqlitedb`, `.mbtiles` - [for offline raster maps](03-map-sources.html)
 * `.vm`, `.rt` - for vector maps and raster data in Guru Maps internal format
 
-## About This Manual {#aboutThisManual}
-
-This user manual is designed to help you get started as quickly as possible by introducing you to Guru Maps app' main features. For a quick start guide, please refer to the introduction tour, which is available within the app settings.
-
 ## Contact Us {#contactUs}
 
 Feel free to ask for further assistance or to report any problems you find at [info@gurumaps.app](mailto:info@gurumaps.app) or choose the **Contact Support** option directly from the app settings.

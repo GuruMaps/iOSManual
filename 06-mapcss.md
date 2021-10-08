@@ -6,43 +6,96 @@ For example, a style:
 
 ```css
 node[natural=tree] {
-    icon-image: tree.svgpb;
+    icon-image: "tree.svg";
 }
 ```
 
-will display a picture of `tree.svgpb` for points where the tag `natural` has the value `tree`.
+will display a picture of `tree.svg` for points where the tag `natural` has the value `tree`.
 
-Each rule in the style consists of two parts. Filter `node[natural=tree]` and draw parameters `icon-image: tree.svgpb;`. The query chooses which objects to apply the parameters to.
+Each rule in the style consists of two parts. Filter `node[natural=tree]` and draw parameters `icon-image: tree.svg;`. The query chooses which objects to apply the parameters to.
 
-This documentation describes the MapCSS dialect used in the Guru Maps application. Some drawing parameters have not been implemented, preprocessing macros have been added, and a different list of functions is used for the evaluated operations. The style used in Guru Maps can be found in the [repository](https://github.com/GalileoApp/MapStyle).
+Rules can be nested and set parameters at each level.
+
+```css
+|z16- {
+    icon-scale: 0.50;
+    icon-tint: @color_icon_tint;
+
+    [amenity=bicycle_parking] {
+        icon-image: "bike_parking.svg";
+    }
+    [amenity=bicycle_rental] {
+        icon-image: "bike_rental.svg";
+    }
+    [amenity=bicycle_repair_station] {
+        icon-image: "bike_service.svg";
+    }
+}
+```
+These nested style rules make the style concise, with a clearly visible structure. In this way, general parameters can be set once in advance, without having to repeat it, possibly multiple times.
+
+This documentation describes the MapCSS dialect used in the Guru Maps application. Important to note that some origianl drawing parameters have not been implemented at all. But at the same time preprocessing macros, nested rules and new functions for the evaluated operations have been added.
+The style used in Guru Maps can be found in the [repository](https://github.com/GalileoApp/MapStyle).
 
 ## Filters
 
-Let's consider a sophisticated filter:
+Let's consider a complex filter:
 
 ```css
-node,area|z15-[railway=station]
+node,area|z14-[boundary=forest_compartment][ref]
 ```
 
 It consists of:
 
 1. filter by type `node,area`. It can be `node` for points, `line` for lines, `area` for polygons. If you need to specify several types, they are separated by a comma. You can also use `*` if the type is not important.
-2. zoom filters `z15-`. It specifies for which zoom leves the rule should be triggered. It can be only the minimum zoom level `z8-`, or the interval `z3-9`. In this case the rule will be applied on zoom levels 3 to 8 inclusive.
-3. parameter filters `[natural=tree]`. Such a filter will leave only objects that have the `natural` tag with the value `tree`. To leave only objects that have any value of the `natural` tag, you could use the filter `[natural]`. To leave the objects that don't have the `natural` tag, use the filter `[!natural]`.
+2. zoom filters `z14-`. It specifies for which zoom leves the rule should be triggered. It can be only the minimum zoom level `z8-`, or the interval `z3-9`. In this case the rule will be applied on zoom levels 3 to 8 inclusive.
+3. parameter filters `[boundary=forest_compartment][ref]`. Such filter will leave only objects that have the `boundary` tag with the value `forest_compartment` and also set any value for the `ref` tag. To leave the objects that don't have the `ref` tag, use the filter `[!ref]`.
+
+Several filters can be separated by a comma:
+
+```css
+node,area|z14-[boundary=forest_compartment][ref],
+node,area|z14-[boundary=forestry_compartment][ref]
+```
+
+In this example common parametres can be set on separate level:
+
+```css
+node,area|z14-[ref] {
+    [boundary=forest_compartment],
+    [boundary=forestry_compartment] {
+
+    }
+}
+```
+
+Sometimes it is necessary to join several rules into a group. It starts with a left parenthesis `(` and ends with a right parenthesis `)`. The group will combine several filters and it is not necessary to start a block with rules after the group.
+
+```css
+node,area|z14-[ref](
+    [boundary=forest_compartment],
+    [boundary=forestry_compartment]) {
+    }
+}
+```
 
 ## Preprocessing macros
 
-### @import
+The preprocessor prepares the style for parsing. Substitutes the values, turns on or turns off some blocks depending on the settings.
 
-Inserts the content of the specified file.
+### Substitution Macros
+
+#### @import
+
+Inserts the content of the specified file:
 
 ```css
 @import "polygons.mapcss";
 ```
 
-### @{name}
+#### @{name}
 
-Inserts the value of the macro, in all places where it is used.
+Inserts the value of the macro, in all places where it is used:
 
 ```css
 // Define color using
@@ -54,6 +107,40 @@ canvas
     fill-color: @color_ground;
 }
 ```
+
+### Conditions
+
+#### `@if`
+
+Checks the parameter and includes or excludes a block from the style:
+
+```css
+@if Theme == Dark
+    @import "colors_dark.mapcss";
+@else // Default colors
+    @import "colors.mapcss";
+@endif
+```
+
+Guru Maps uses the following preprocessor parameters:
+
+* Theme {Light, Dark} - current app theme,
+* Style {Default, Outdoor} - current map style,
+* SubStyle {Car, Hike, Bike}
+    * Car used for the driving,
+    * Hike и Bike used for hikeing and biking activities respectively.
+
+#### `@else`
+
+Specifies a block of code to be executed, if the first  condition is false.
+
+#### `@elif`
+
+Contains a condition to be run if the previous conditions did not work.
+
+#### `@endif`
+
+Closes the block of the current condition.
 
 ## Draw parameters
 
@@ -129,13 +216,14 @@ Fill image of the polygon
 
 ```css
 // fill image of military area desplayed on top of the other objects
-area|z11-[landuse=military],
-area|z11-[military=danger_area]
-{
-    z-index: 2;
-    fill-image:"forbiddenArea.png";
+area|z11- {
+    [landuse=military],
+    [military=danger_area] {
+        z-index: 2;
+        fill-image:"forbiddenArea.png";
+    }
 }
-```
+```.
 
 #### `color` and `width` for polygon
 
@@ -268,14 +356,19 @@ When there is a lot of text nearby, the text priority allows you to specify whic
 
 Allows you to allow the display of text with overlapping. Several labels, one on top of the other.
 
+#### `text-big-padding`
+
+Indicates that the text needs 2 times more free space around it. Used for the names of significant human settlements (city, town, suburb, etc.), so that labels do not obscure the entire map.
+
+
 #### `icon-image`
 
-The name of the picture to be shown in the center of the polygon or at a point. At the moment, external images are not supported. You can find the names of available pictures in [Guru Maps style](https://github.com/GalileoApp/MapStyle).
+The name of the picture to be shown in the center of the polygon or at a point. 
 
 ```css
-node,area|z17-[_optOn=Culture][amenity=library] {
-    icon-image:"library.svgpb";
-    icon-scale:0.37;
+node,area|z17-[amenity=library] {
+    icon-image: "library.svg";
+    icon-scale: 0.37;
     icon-tint: @color_icon_tint;
 }
 ```

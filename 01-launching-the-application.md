@@ -1,6 +1,6 @@
 # Launching the Application {#launchingTheApplication}
 
-When launching the Guru Maps application on your device for the first time, welcome intro tour appear to configire the app for the further use.
+When launching the Guru Maps application on your device for the first time, onboarding appears to configire the app for the further use.
 
 
 ## App Permissions {#appPermissions}

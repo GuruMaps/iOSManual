@@ -1,11 +1,19 @@
 # Map sources
 
-To switch to another map to display, select **Map Source** menu in app settings. There are two types of maps you can use within the app: offline and online maps.
+To switch to another map to display, select **Map Source** menu in app settings or tap the layers icon on the map view.
+
+There are two types of maps you can use within the app: offline and online maps.
 
 ## Offline maps {#offlineMaps}
 
-Vector map source is set by default. Once you’ve downloaded the map \(**Internet connection required**\), it will be available offline.  
+Vector map source is set by default. Once you’ve downloaded the map \(**Internet connection required**\), it will be available offline.
+To download the vector map, open the [Map Download](/02-features.html#download) settings menu.  
 Vector maps are detailed, smooth, fast and provide high-quality image rendered in real time on the device. It takes up less storage space than raster maps.
+
+There are three available vector map styles are available within the app:
+* City,
+* Cycling,
+* Hiking.
 
 **Note**: you can also use your own maps in `.sqlitedb` and `.mbtiles` formats, previously created on a computer and then imported into your device. Such maps can be viewed offline even when your mobile device has no internet connection. However, any personal raster/tile maps will use considerably more space than vector maps you may install.
 
